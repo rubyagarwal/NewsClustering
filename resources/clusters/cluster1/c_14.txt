@@ -1,0 +1,51 @@
+As Android TV boxes from Amazon have started to grab some market share, the upcoming Google Android TV push will only accelerate this movement. The NVIDIA SHIELD has been announced in early March, and features Tegra X1, a powerful system-on-chip (aka SoC) that exhibits extreme performance  so much that it might become the go-to chip for smart automobile and set-top box applications.
+
+We had a chance to run some benchmarks on an NVIDIA development kit unit, and this is a good opportunity to take an early look at raw performance. The development of SHIELD (as a box) was arguably inevitable, and I suppose that Android TV was in fact the missing piece for it to become reality.
+
+Context
+
+Although Tegra X1 has been built to power all kinds of applications, including tablets and phones, it should be made clear that a box form-factor will allow a much more generous thermal management  which includes an active fan.
+
+Also, since it is not battery-powered, there is no limitation on the power drainage, but keep in mind that it remains much lower power than your typical Console or Cable Box.
+
+In this article, I may compare the benchmark results with phones and tablets, and this is not an apples to apples comparison, but this is to give you an idea of what kind of processing power is brought to the table in this particular unit.
+
+From our preview of the TX1 chip at CES, we already know that Tegra X1 is capable of high-performance. Now, well see what the first consumer product will actually deliver.
+
+Hardware overview
+
+Before looking at the numbers, lets have a quick refresher about Tegra X1 hardware. This version of the chip uses an octo-core BIG.Little architecture with four CPU ARM A57 and another four ARM A53 coming on and off depending of the load. As their name may hint to: the A53 cores are designed for smaller load, but also lighter performance.
+
+NVIDIA has also announced another version of the X1 chip which will use a dual-core CPU setup, with NVIDIAs Denver core design. This is important because in many cases, games are limited by the CPU speed, and not the graphics performance At this point, there are no official plans to build a SHIELD with NVIDIAs Denver CPU core design, but it seems likely that it will happen at some point.
+
+Talking about graphics performance, X1 uses an updated graphics architecture called Maxwell, which has been used in all recent GeForce designs. The main focus of NVIDIA Maxwell was to maximize the performance-per-Watt for all platforms. This has served NVIDIA very well on PC, where the company now dominates.
+
+On Mobile, it is also leading not only in terms of power-efficiency, but also in terms of feature-set, making NVIDIA the mobile platform where developers can port PC or console games easily. This is a direct legacy of the Tegra K1 chip.
+
+Huge absolute performance
+
+When it launched, Tegra K1 quickly became a reference in terms of performance, especially graphics performance. The various modern benchmarks we looked at (see list below) show clearly one thing: the graphics performance boost over Tegra K1 is massive, while the CPU performance (mainly physics tests) remain very similar. With a superiority of nearly 100% over its predecessor, the X1-powered SHIELD main advantage is Gaming.
+
+Relative to smartphones
+
+Since SHIELD does not have the power and thermal restrictions of smartphones, it is clear that performance can be nominally higher, and more importantly  sustained. All SoC chips are designed to work within a certain power envelope, so you cant simply crank up the electric juice to make things faster (well, maybe to a point). Smartphones can peak at in high performance mode for a moment. The main issue is that the heat will build up quickly, and the thermal manager will clamp down on performance.
+
+And thats where SHIELD has a clear edge against a smartphone or a tablet: it is much larger and has a fan that can kick in, if needed. The graph below will show you the relative performance of SHIELD against the leading smartphones. Again  this is not an apples to apples comparison, but that gives an idea of the kind of Android performance were talking about.
+
+Looking at the performance graphics in details, Tegra X1s performance boost is particularly relevant for next-generation games using more advanced (PS4-level) shading techniques. Although the fillrate (the number of pixel being output to the screen, per second) has been vastly improved to the point that techniques like deferred shading are now completely viable, we havent touched next-gen console performance levels quite yet. Knowing that the power envelope and chip sizes are completely different, this is expected. But it can be shocking to see how good some of the game ports are.
+
+Legacy games and benchmarks such as GFXBench 3.0 T-Rex are now mostly limited by the 60 FPS screen refresh rate, so any further improvements cant be perceived by users.
+
+A Home Theater PC (HTPC) replacement
+
+The NVIDIA SHIELD brings more than any other Android box I have seen. Most of them have been designed to deliver streaming video and fairly dumb games for kids. SHIELD can do all that, and it can also run high-end Android games  many of which are ported from consoles or PC, and only run on NVIDIA, thanks to their exclusive desktop OpenGL support since K1, which has more features and is easier to port to for developers.
+
+Of course, it can also play streaming games from the NVIDIA Grid, or stream games from a local PC. These features exist elsewhere, but the level of quality is currently unmatched in NVIDIAs offering.
+
+Additionally, SHIELD offers USB ports and DLNA compatibility to stream content from your existing home server. Its a feature that many users would love to have in the other TV boxes which often dont even accept viewing a media from a USB key
+
+In that sense, SHIELD is the closest thing to a full HTPC that you will find in the Android world, and it runs at a much lower power envelope and is totally silent nearly all the time. At $199, its very hard to beat. Its not a full PC, but its pretty darn close depending on your own use case.
+
+Conclusion
+
+"IT MAKES APPLE TV OR FIRE TV LOOK SO WIMPY" I was very impressed by the performance of SHIELD, and I cant wait to see how this product will evolve. The graphics performance is unmatched in the Android world, and it is the only Android TV-box that I would consider to be a gaming system. It makes Apple TV or Amazon Fire TV look wimpy in comparison. This is the base showcase for Android TV, and somewhere, someone at Google must be smiling. [Shield official page]

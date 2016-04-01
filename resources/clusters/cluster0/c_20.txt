@@ -1,0 +1,37 @@
+At Gizmag, we often review brand spankin' new devices that sit on the cutting edge of technology. Other products we review are little more than incremental updates over their predecessors. And then there's the 2014 MacBook Air, a device that gives new meaning to the word "incremental." Read on, as we share our quick impressions of the ever-so-slightly updated 11-in MacBook Air.
+
+Last August, Gizmag reviewed the mid-2013 version of the 11-in MacBook Air, and I'd recommend that you hit that up after we're done here. Why? Well, because the only differences with this new model are a slightly faster processor (1.4 GHz to last year's 1.3 GHz) and a very welcome price drop.
+
+The MacBook Air's design hasn't changed a lick from last year's model  or, for that matter, from any MBA since late 2010. So if you've used any recent 11-in Air, then you know exactly what this new version is going to look like. No surprises here.
+
+But that isn't necessarily a bad thing. The MacBook Air's design isn't as unique as it was three years ago (an army of curiously familiar-looking Ultrabooks made quick work of that), but this is still one damn sexy laptop. It's wafer thin: 17 mm at its thickest point, and tapering off quickly to a razor-like edge. It's also extremely light, at just 1,080 g (the equivalent of 2.3 iPad Airs). This is now an old form factor, but it's also one that has aged very well.
+
+The MacBook Air's screen hasn't aged quite as well. Apple's MacBook Pros, along with quite a few Windows laptops and 2-in-1s, have moved to higher-resolution displays in the last couple of years. But the 11-in MacBook Air still has a fairly mid-ranged (at least by today's standards) 1,366 x 768 resolution.
+
+The Air's 135 pixels per inch looks better than it would on something like a tablet (laptop screens sit farther away, and need fewer pixels per inch to look sharp). But, to my eyes, the Air's screen still looks just a little fuzzy. And, as we said last year, you definitely don't want to look at a MacBook Air screen right after checking out a MacBook Pro with Retina Display. You'll be in for a huge letdown: not because the Air's screen really looks terrible, but because the Retina MacBook Pro's display looks simply amazing.
+
+If you haven't already settled on a favorite laptop screen size, then you might want to head to an Apple Store (or somewhere else with Macs on display) and sample the goods. This model has an 11.6-in display with a 16:9 aspect ratio. There's also a 13.3" Air with a 16:10 aspect ratio. The 11-in Air's more oblong screen has it coming out at 89 percent as wide as the 13-in Air's display, but only 81 percent as tall.
+
+I used to insist on using nothing smaller than a 13-in laptop, but a funny thing happened. I spent the last few months using a Surface Pro 2 as my main laptop, along with the occasional iPad with keyboard cover  all of which have 10-in or smaller screens. After adjusting to their displays, the 11-in MacBook Air now looks just about right to me. Go figure. Again, though, you'll probably want to experiment to find your own sweet spot.
+
+If you're expecting the new MacBook Air's 100MHz CPU boost to dramatically speed things up, then you're in for some disappointment. Fortunately, though, the 2013 MBA was already pretty damn fast. For casual consumer use  and even lighter professional use, such as Photoshop, Garage Band, and so on  this baby should provide plenty of zip. I spent much of 2013 using a 13-in Retina MacBook Pro as my main device, and the new MacBook Air doesn't feel like it's slower in any of those key areas.
+
+Turning to benchmarks, Geekbench shows the new MacBook Air scoring about 4 percent higher than the 2013 MacBook Air. In the multicore 64-bit benchmark, our new model tallied 5354, next to the 2013 MBA's 5172. For single core 64-bit, the new MBA scored 2753, a little above the 2013 Air's 2659.
+
+As always, you'll want to take benchmark geekery with a few grains of salt. The new model may have 4 percent higher scores than last year's Air, but I'd say the odds are slim that you'll notice a 4 percent  or any percent  difference. Both are very zippy for ultra-portable laptops.
+
+The 2013 MacBook Air's big upgrade came in the battery department. Not the actual battery hardware, mind you, but the power-sipping Haswell processor that lives under its hood. And as you'd expect, the 2014 Air still gives you the same long battery life that we saw from that model.
+
+In my time with the new Air, I've been impressed with how gradually it drains power. Even while switching back and forth between Photoshop, Safari, and a writing app (with a few other low-resource apps running in the background), with brightness set at 80-90 percent, the battery only dropped between 8 and 15 percent per hour. For many people, the Haswell MacBook Air will be an all-day machine. If you've spent years suffering through pre-Haswell laptops, and the three-hour battery life that they typically brought to the table, then this is a thing of beauty.
+
+If you already own the mid-2013 MacBook Air, then there's really no reason to consider this new model. The speed differences are far too subtle for you to even consider upgrading. And if you can find last year's model on the cheap, then I'd also recommend going that route. Save the money, and enjoy your shiny new 99 percent as good as this year's model MacBook Air.
+
+But if you're looking to buy your first MacBook Air, or if you're upgrading from a pre-2013 model, then you'll probably be very happy with this 2014 MBA. Not only does it give you great performance, long battery life, and that oh-so light and thin build, but you'll also pay $100 less than you would have just a few weeks ago. Starting at $900 (or $1,000 for the 13-in version), this is the cheapest price we've ever seen on a MacBook Air. If you're willing to throw down that much for a laptop, then know that you're getting a pretty powerful  and extremely portable  machine in return. Aged, yes. But aging extremely well.
+
+Just remember that we kept this review short and sweet since, again, this new model is almost identical to last year's MBA. You might want to hit up Gizmag's full review of the 2013 11-in MacBook Air for a deeper dive.
+
+Product page: Apple
+
+Share
+
+Buy this on Amazon
