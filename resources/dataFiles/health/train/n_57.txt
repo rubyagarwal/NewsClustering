@@ -1,0 +1,51 @@
+Neuroendocrine tumors and radiopeptide imaging
+HEADLINE_ARTICLE
+Neuroendocrine tumors
+
+Neuroendocrine tumors are a large heterogeneous group of malignancies that are derived from embryonic neural crest tissue. The primary tumor most frequently occurs in the lungs, intestine or pancreas. The incidence and prevalence of neuroendocrine tumors is increasing yearly (possibly due to increased detection rates). Currently, neuroendocrine tumors account for 28% of intestinal cancers and 25% of lung cancers.
+
+Despite the relatively high occurrence of neuroendocrine tumors, for many years they have proved difficult to diagnose and treat. Neuroendocrine tumors typically have a slow metabolic rate, are small, and occur in variable locations within the body, which makes them difficult to detect with conventional imaging procedures and resistant to established targeted therapies. A combination of morphological imaging and nuclear medicine techniques is needed for primary tumor visualization, staging and status evaluation.
+
+A carcinoid tumor of the gastrointestinal tract 10X. Jubal Harshaw / Shutterstock.com
+
+Targeting neuroendocrine tumors
+
+All cells express on their surface a variety of receptor proteins with a high affinity for regulatory peptides necessary to modify cell function in line with the prevailing conditions. Somatostatin receptors are integral membrane glycoproteins that specifically bind and internalise somatostatin, a peptide hormone that is important for regulation of hormonal and neuronal systems.
+
+The majority of neuroendocrine tumors over-express receptors for somatostatin. It therefore followed that introduction of a labelled substrate for these receptors would provide a specific technique to show in vivo the presence of tumors by virtue of the high number of somatostatin receptors.
+
+Octreotide is an analogue of somatostatin that retains specificity for the somatostatin receptor. Conjugation of octreotide with a cytotoxic or radioactive ligand makes it a carrier for delivering targeted chemotherapy and radiopeptide therapy and allows radio-imaging of tumors. In fact, the somatostatin receptors are considered to provide the best example of targets for radiopeptide-based imaging.
+
+Such radiopeptides have been used to successfully diagnose and treat thousands of patients with neuroendocrine tumors. Serious side effects have been rare.
+
+Octreotide molecule, skeletal formula. Mimic of somatostatin. Inhibits the secretion of a number of hormones, including growth hormone, glucagon and insulin. molekuul.be / Shutterstock.com
+
+Radiopeptide imaging
+
+In radiopeptide imaging the radionuclide-labelled peptide is administered to patients by intravenous injection. It travels throughout the body and binds to somatostatin receptors. Agonist peptides, such as octreotide, will be internalised; antagonists will remain on the cell surface bound to the receptor. Unbound peptides are excreted from the body, preferably by the kidneys. The radiolabel will therefore be concentrated at sites with high somatostatin receptor density. The radiolabel can be observed using nuclear imaging techniques, which are very sensitive and allow the detection of even the smallest amount (microgram level) of radiolabel.
+
+Radiolabelled peptides thus provide a highly specific, non-invasive means of imaging neuroendocrine tumors. Not only do radiopetides accurately visualise the tumor lesions, they also provide valuable information on somatostatin receptor expression patterns on tumor cells, which have therapeutic implications.
+
+Peptides have advantages over other targeted proteins, such as antibodies, since they are much smaller and therefore diffuse very rapidly and unbound label is cleared quickly leading to high sensitivity and specificity. Furthermore, there are easy manufacturing protocols for solid-phase peptide synthesis and well-established bioconjugation and radiolabelling strategies.
+
+Novel radiopeptide somatostatin analogues
+
+A wide array of different somatostatin analogues and radionuclides have been developed for radiopeptide imaging of neuroendocrine tumors in search of combinations offering improved properties, such as greater sensitivity and higher affinity for the somatostatin receptor. For example, bicyclic somatostatin-based radiopeptides offer fast background clearance so giving greater contrast between tumor and normal organs. Most recently, researchers have produced nanosized, radiolabelled, polymeric somatostatin analogues, which have numerous branches of peptides that bind the target receptor allowing for stronger, more enduring binding to tumor cells.
+
+Optical imaging systems
+
+The development of peptide radioligands involves a series of complex processes. Consequently, it is essential to evaluate the peptide ligands of interest at each step of development. Preclinical optical imaging has been used to evaluate potential treatments and drug delivery candidates across a range of therapy areas. It has the benefit over standard in vivo studies in that it allows research to be conducted using fewer animals.
+
+One such imaging system is the In-Vivo Xtreme (Bruker BioSpin Corp., USA) that provides high sensitivity luminescence, fluorescence, radioisotopic and radiographic molecular imaging in a single unit. In addition to this versatility, it is easy to use and provides results fast allowing high throughput.
+
+Reference
+
+Orocio-Rodrguez E, et al. Two Novel Nanosized Radiolabeled Analogues of Somatostatin for Neuroendocrine Tumor Imaging. Journal of Nanoscience and Nanotechnology 2015;15:4159-4169.
+
+About Bruker
+
+Bruker is market leader in analytical magnetic resonance instruments including NMR, EPR and preclinical magnetic resonance imaging (MRI). Bruker's product portfolio in the field of magnetic resonance includes NMR, preclinical MRI ,EPR and Time-Domain (TD) NMR. In addition.
+
+Bruker delivers the world's most comprehensive range of research tools enabling life science, materials science, analytical chemistry, process control and clinical research. Bruker is also the leading superconductor magnet and ultra high field magnet manufacturer for NMR and MRI solutions.
+
+Sponsored Content Policy: News-Medical.net publishes articles and related content that may be derived from sources where we have existing commercial relationships, provided such content adds value to the core editorial ethos of News-Medical.Net which is to educate and inform site visitors interested in medical research, science, medical devices and treatments.

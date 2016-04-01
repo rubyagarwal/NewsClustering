@@ -1,0 +1,117 @@
+<technology>##2014 Small Compact Camera Comparison Guide
+HEADLINE_ARTICLE
+Gizmag compares the feature and specifications of some of the best small compact cameras on the market
+
+After looking like they'd be consigned to history by smartphones and their increasingly able cameras, compact cameras are making a comeback. With bigger sensors, vastly improved image quality, and an array of new user-friendly features, they're once more able to justify their place in your pocket or bag. But which is right for you? Gizmag compares the features and specifications of some of the best small compact cameras available in 2014.
+
+It's impossible to single out any one small compact camera as being the best, because users will each prioritize different things. For some users it's all about size, while others want the best possible image quality or connectivity for speedy image sharing. As such we've decided to compare a selection of devices which each offer users a different compact camera experience.
+
+The cameras we will be looking at are:
+
+Size
+
+All of these cameras are of a roughly comparable size and should be compact enough to fit into a small bag, if not your pocket. The Panasonic LF1 is the smallest, while the Samsung Galaxy Camera 2 is the largest, and therefore potentially the most pocket-bulging.
+
+While you'll notice the added bulk of carrying any of these cameras around in addition to your smartphone, it's still going to be a lot easier on your back than lugging around an interchangeable lens system.
+
+Weight
+
+Interestingly, it's not the largest camera which is also the heaviest, that dubious accolade instead goes to the Canon Powershot G7 X. If you're really counting the weight and want to travel light, the Fujifilm XQ1 or Panasonic Lumix LF1 are the way to go.
+
+Build
+
+In terms of build-quality, the metal Sony RX100 III and Canon Powershot G7 X are the most solid-feeling cameras in this bunch. You're not going to want to use them to hammer a nail into a wall, but they feel like they've been built to withstand heavy use.
+
+That said, the Olympus Stylus SH-1 and Fujifilm XQ1 aren't too far behind, and also use a considerable amount of metal in their construction. While still being well-made compacts, the Samsung Galaxy Camera 2 and Panasonic LF1 feel predominantly plastic.
+
+Sensor size
+
+Sensor size is the area in which compact cameras have moved on the most in recent years. The Sony RX100 III and Canon Powershot G7 X both have one-inch type sensors which are much larger than anything seen in a digital compact a few years ago. This means they're able to deliver image quality close to some interchangeable lens cameras.
+
+The Fujifilm XQ1 and Panasonic LF1 use 2/3-inch and 1/1.7-inch sensors which are still large by most compact camera standards. However, while the smaller 1/2.3-inch sensors of the Samsung Galaxy Camera 2 and Olympus Stylus SH-1 limits image quality, it also allows them to pack much bigger optical zooms into a small package.
+
+Megapixel count
+
+Those bigger sensors in the Sony RX100 III and Canon Powershot G7 X also boast a higher resolution (20-megapixel) for more detailed images. But even the 12-megapixel of the Fujifilm XQ1 and Panasonic LF1 should be enough for most people unless planning to crop heavily or produce very large prints.
+
+Lens
+
+Zoom lenses make these compact cameras instantly more versatile than the majority of smartphone cameras. You're able to zoom in and focus on more distant subjects, or just offer a different perspective. Because our selection of cameras use different size sensors, focal length figures are given in 35-mm-format equivalent.
+
+All of the cameras are capable of shooting wide-angle or telephoto, with big zooms on the Samsung Galaxy Camera 2 and Olympus Stylus SH-1 combining with the smaller sensors to extend into the super-telephoto territory. Variable maximum apertures mean light-gathering potential is limited at the telephoto end of the zooms.
+
+Autofocus
+
+The majority of these compact cameras use contrast-based autofocus systems. These are typically slightly slower than the hybrid systems which combine contrast and phase detection and are found in higher-end interchangeable lens systems. Of this bunch, the Fujifilm XQ1 stands out for its hybrid system, which Fujifilm claims can focus in as quickly as 0.06 seconds.
+
+Burst rate
+
+Despite being compacts, the manufacturer claimed top shooting speeds of some of these cameras are up there with higher-end DSLRs. However, not all burst speeds are created equally, with manufacturers keen to paint their cameras in the best light.
+
+Published specs are typically for full res burst shooting, without autofocus, and are normally only for a limited number of shots. For example, the RX100 III can shoot at 10 fps for 10 shots if shooting RAW, or 12 shots in JPEG. Meanwhile, the Canon G7 X can keep going at 6.5 fps for 692 shots, but this speed is reduced to 4.4 fps with continuous autofocus.
+
+ISO range
+
+Unsurprisingly, the cameras with bigger sensors (the Sony RX100 III, Canon G7 X and Fujifilm XQ1) all have wider native ISO ranges, and are going to perform better in lower-light situations than their smaller-sensored competition.
+
+It's worth remembering that some of these ISO ranges can be expanded beyond their native advertised limits when the situation calls for it. But dialing up the ISO too high will come at the cost of image quality, and there will be even more noise and loss of color than when shooting at the top of the native ISO range.
+
+Video recording
+
+As you would expect for 2014, all of these cameras are capable of recording HD video, though at varying frame-rates and qualities.
+
+Of the selection, the Sony RX100 III offers the most comprehensive shooting options. In addition to Full HD 1080p recording at frame-rates including 60/50/24p, it can record at HD 720p video at 120/100 fps to produce smooth slow motion footage.
+
+Image stabilization
+
+Any wobbly-handed photographers, or those who are partial to shooting with slower shutter speeds, will be pleased to know that all of these compacts feature image stabilization. While this is mostly done optically, the Olympus Stylus SH-1 instead uses sensor shift stabilization.
+
+Viewfinder
+
+Pocketable compact digital cameras don't normally feature a dedicated viewfinder, but two of this selection do, giving users the chance to compose images in a more traditional manner, or when glare on the rear monitors might otherwise make it difficult.
+
+The Sony RX100 III uses a clever pop-up design, which means its impressive 1,440k dot EVF only protrudes from the top of the camera when you want to use it. The Panasonic Lumix LF1 meanwhile features a more traditional fixed EVF above the rear monitor.
+
+Monitor
+
+Most of these cameras feature three-inch rear LCD monitors for composing or reviewing shots. The main differences are typically resolution, whether they are a touchscreen, and if they're fixed or their angle can be changed for easier use in awkward positions or better selfie shooting. It's also worth noting the Sony and Samsung monitors use WhiteMagic technology (white subpixels) to increase brightness.
+
+However, it's that screen on the Samsung Galaxy Camera 2 which is the true standout, because it's a monster 4.8-inch 1280 x 720 HD touchscreen. This makes the compact camera look like a bit like a phone, but that's not really surprising given it runs Android 4.3 (Jelly Bean) and can be used to do all the things you expect of an Android device, whether browsing the internet or running apps.
+
+Flash
+
+Built-in flashes mean that any of these cameras can be used in situations where there isn't enough available light to shoot otherwise.
+
+Storage media
+
+SD cards are the most common storage media for these compact cameras, with a couple of exceptions. The RX100 III can also use the likes of Sony's Memory Stick Pro Duo cards, and the Samsung Galaxy Camera 2 accepts microSD cards. The Android camera also has 8 GB of internal memory, but remember you'll probably be using that for apps and other files.
+
+File types
+
+Most of these cameras are able to shoot both JPEG still files and the more post-processing friendly RAW. The exceptions are the Olympus Stylus SH-1 and Samsung Galaxy Camera 2 which can only shoot JPEG.
+
+Wireless capabilities
+
+Wireless capability across the board means that sharing images from these compacts will be quick and easy. Those with NFC make the pairing process even easier with compatible devices. Remote shooting using a smartphone or tablet is also possible from many of these cameras.
+
+Battery life
+
+The Samsung Galaxy Camera 2 has the best rated battery life and should keep shooting for almost 400 shots. That's considerably more than the likes of the Canon G7 X which will only give you around 210 shots from a fully charged battery. If you're embarking on a busy day of shooting with any of these cameras, you might want to consider taking a spare battery.
+
+Price
+
+The Sony RX100 III and Canon Powershot G7 X stand out as being considerably more expensive than the other cameras in our comparison. They cost around double the price of the other compacts, but as you've seen from the specification comparison, there's a reason for that.
+
+Summing up...
+
+If you're after a compact camera with the best image quality, you're probably going to be choosing between the Sony RX100 III and Canon Powershot G7 X. Your final decision will probably come down to whether you value the built-in EVF of the Sony, or the longer reach of the Canon more. For a more detailed comparison, you might want to check our Sony RX100 III vs. Canon G7 X head-to-head.
+
+However, if reach and a bigger zoom are more your thing, you'll probably have been drawn towards the Olympus Stylus SH-1 or Samsung Galaxy Camera 2. While the Olympus is a traditionally styled camera with features more likely to appeal to purely photography-focused users, the Samsung has its massive screen and Android goodness.
+
+Not to be forgotten, the Fujifilm XQ1 offers a balance of image quality, style and build-quality, while the Panasonic LF1 boasts a reasonably large sensor, a versatile zoom and also gives you the benefit of an EVF in a very pocketable camera.
+
+What we're ultimately saying is that this guide isn't here to tell you which is the best compact camera, but instead help you recognize which features are most important to you, and which will best suit your needs.
+
+Share
+
+Buy this on Amazon

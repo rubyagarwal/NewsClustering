@@ -1,0 +1,33 @@
+<health>##Using 3D Super-Resolution Microscopic Technique for Whole Cell Imaging
+HEADLINE_ARTICLE
+Introduction
+
+Traditional light diffraction imposes resolution limits that make it difficult to gain a proper understanding of the structure of living cells. The use of standard optical microscopy systems has only revealed structures of around 200 nm in diameter. However, the majority of cellular organelles required for physiological processes such as cell growth, cell division, and cell-to-cell communication are smaller than this. Indeed, a number of cytoskeletal assemblies are less than 50 nm in diameter and if direct optical access to this nano realm was possible, insight into their function could be significantly improved.
+
+3D Microscopic Technique
+
+With the development of an innovative 3D super-resolution microscopic method, a better understanding of previously unresolved environments is now possible. Researchers have been able to image entire cells in a multi-color format using the 3D Stochastic Optical Reconstruction Microscopy approach or STORM. By using multiple photoswitchable tags, the complete mitochondrial network of fixed mammalian cells has been examined and it has been possible to elucidate mitochondrial morphology and microtubule interactions that were previously obscured using standard fluorescence images.
+
+STORM Approach
+
+The STORM technique involves sequential imaging of individual fluorophore molecules as they shift between dark and bright states. Only a stochastic subset of individual labels are excited with an activating laser pulse, meaning a low light image of individual molecules can be obtained and diffraction-limited spots discerned. This approach enables the position of each individual fluorescent molecule to be established with nanometer accuracy. The repeated cycles of pulses makes it possible to determine the exact position of all molecules, thereby allowing a super-resolution image to be created. Figure 1 shows the whole cell 3D super-resolution imaging using the STORM technique.
+
+Figure 1. Whole cell 3D super-resolution imaging by STORM
+
+At first, 2D images with 20 to 30 nm lateral resolution were obtained. An astigmatic imaging technique was then introduced to enable extension to 3D localization. This method creates two focal planes that differ slightly, which enables the axial positions of individual molecules to be determined to a precision of 50 to 60 nm through analysis of the orientation and ellipticity of the fluorophore image.
+
+However, in nanoscopic recordings, only a limited amount of separated molecules can be imaged for each frame. In addition, fast frame rates and short exposure times are needed to obtain the required composite image set within a time-frame that will enable application of the technique for observing dynamic events in living cells.
+
+Conclusion
+
+Andors electron multiplying charge-coupled device (EMCCD) technology has enabled significant developments in super-resolution imaging.
+
+Image acquisition becomes a difficult task in low light conditions owing to the high noise and low signal nature of the experiments. The high-performance iXon Ultra 888 EMCCD camera from Andor has been specifically designed to reduce the cameras noise floor, even at fast readout speeds. Equipped with unique features such as optimal readout electronics and optically centered cropped sensor mode acquisition, the iXon Ultra 888 can also offer excellent frame rates.
+
+About Andor
+
+Andor Technology, an Oxford Instruments company, is a global leader in the pioneering and manufacturing of high performance scientific imaging cameras, spectroscopy solutions and microscopy systems for research and OEM markets. Andor has been innovating the photonics industry for over 20 years and continues to set the standard for high performance light measuring solutions, enabling its customers to break new ground by performing light measurements previously considered impossible. Andors digital cameras, are allowing scientists around the world to measure light down to a single photon and capture events occurring within 1 billionth of a second.
+
+Andor now has over 400 staff across 16 offices worldwide, distributing products to over 10,000 customers in 55 countries. Andors products are used in a wide range of applications including medical research to further the understanding of heart disease, cancer and neuronal diseases such as Alzheimers and Parkinsons disease. Andor also has applications for forensic science and astronomy. Through continuous dialogue with customers and strong teamwork, Andor continues to innovate ground-breaking products that improve the world in which we live.
+
+Sponsored Content Policy: News-Medical.net publishes articles and related content that may be derived from sources where we have existing commercial relationships, provided such content adds value to the core editorial ethos of News-Medical.Net which is to educate and inform site visitors interested in medical research, science, medical devices and treatments.

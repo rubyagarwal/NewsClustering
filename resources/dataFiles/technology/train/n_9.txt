@@ -1,0 +1,49 @@
+See how Framestore created a shape-shifting, oil and metal based creature for Shell
+HEADLINE_ARTICLE
+Framestore has worked with agency J. Walter Thompson to deliver a shape-shifting, oil and metal based creature for Shells latest spot.
+
+Collaborating with director Carl Rinsch, the ad is predictably high-octane, with the stunning Chilean Andes serving as the theatre in which the action plays out.
+
+Early character designs were completed in late November 2014, with CG Art Director Grant Walker creating distinct characters for the different stages of the ad.
+
+"Carl the director had a strong opinion on what he wanted, but gave us a lot of scope to create original designs," explained Walker. "The monster had to evolve throughout the ad and demonstrate the various threats to the performance of the engine."
+
+"The concept character originally had more ambiguity, but we made the conscious decision that it should take on more obvious forms. This gave the commercial more interest and the monster more identity."
+
+
+
+The shoot took place over a four-day period in December with VFX Supervisor Russell Dodgson and CG Supervisor Robert Harrington both in attendance.
+
+Carl was constantly whizzing off to get the amount of shooting done in the time we had available, and having the car and helicopter running at the same time, coupled with shooting on a Russian arm, it was pretty hectic revealed Dodgson.
+
+We had to capture everything about the scene throughout the day - sizes, colours, distances, shapes," added Harrington. "It was a challenge to get everything done in the time we had, but a great experience overall."
+
+Post production kicked into gear in January. "The chaotic, transformational nature of the character called for some fresh thinking when it came to rigging," explained lead rigger Kimon Matara. "To manage permutations, a new codebase was established early on, built around Python inheritance patterns."
+
+"The keyframed performance was layered with algorithmic effects, and a range of limb types were developed that could be animated at any orientation, roaming freely across the body. Deformer technology, used to create the Mimics in Edge of Tomorrow, helped refine the creatures flow between states."
+
+
+
+A library of various mechanical parts was created by the modelling team. This was then used to populate the animated geometry with all the various mechanical parts. It was important to be able to direct the shape, size and placement of these mechanical parts, as well as how they move independently from each other.
+
+Using Houdini's Bullet Solver, Framestore was able to manipulate the behaviour of the mechanical parts as though they were a particle system.
+
+Custom forces were used to determine how 'magnetised' the pieces were to each other as well as setting thresholds for how far a piece could deviate from the rest of the group, until it fell off and became independent from the rest of the creature.
+
+Using this set-up the VFX crew were able to manipulate a complex and as well as flexible behavioural system within Houdini, which still adhered to real world conditions such as self collisions and gravity.
+
+It was then a matter of building more layers of complexity on top - such as making the pieces emit dust and small debris whenever they collide with each other or with the environment.
+
+The entire car was created in CG and used in several of the shots, but the bridge was rebuilt in post, as was the petrol station seen at the end of the ad.
+
+The tunnel sequence was by far the most challenging part of the ad from a classically CG perspective said Harrington. On set it became increasingly apparent that filming the intended tunnel would be a problem, so we suggested creating one in 3D instead."
+
+"The components were pretty straightforward, but deciding on camera moves and colours is an iterative process which doesnt sit well with long render times. We decided to render the tunnel very neutrally in separate components, letting us redesign it in 2D instead. "
+
+Shading, lighting and rendering were also big challenges for the team, with road replacements and environment cleanup adding to the workload.
+
+The sheer volume of work the Nuke team got through was outstanding," said Dodgson. "A massive number of shots were entirely recreated, with a full environment made for the petrol station to sit in, as well as a large amount of recreation for the bridge environment."
+
+"Matte paintings were also composited into the bridge and petrol station sequences to maintain the spectacular surroundings, while a grade by Simon Bourne put the finishing touches on the action-packed ad.
+
+The premise of the grade was to keep a consistent late afternoon light throughout. This meant maintaining both warmish light tones and bluish, darker colours, while being careful to not overpower the characters. The shape-shifting monster is the main focus of attention, so I tried to keep all of the detail visible through all the particles and dust flying around, bedding the car and the monster into a natural environment.

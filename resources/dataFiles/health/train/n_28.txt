@@ -1,0 +1,31 @@
+Cardiff scientists make breakthrough asthma discovery
+HEADLINE_ARTICLE
+Cardiff University scientists have for the first time identified the potential root cause of asthma and an existing drug that offers a new treatment.
+
+Professor Daniela Riccardi (Credit: Cardiff University)
+
+Published today in Science Translational Medicine journal, Cardiff University researchers, working in collaboration with scientists at Kings College London and the Mayo Clinic (USA), describe the previously unproven role of the calcium sensing receptor (CaSR) in causing asthma, a disease which affects 300 million people worldwide.
+
+The team used mouse models of asthma and human airway tissue from asthmatic and non-asthmatic people to reach their findings.
+
+Crucially, the paper highlights the effectiveness of a class of drugs known as calcilytics in manipulating CaSR to reverse all symptoms associated with the condition. These symptoms include airway narrowing, airway twitchiness and inflammation - all of which contribute to increased breathing difficulty.
+
+Our findings are incredibly exciting, said the principal investigator, Professor Daniela Riccardi, from Cardiff University School of Biosciences. For the first time we have found a link between airways inflammation, which can be caused by environmental triggers - such as allergens, cigarette smoke and car fumes  and airways twitchiness in allergic asthma.
+
+Our paper shows how these triggers release chemicals that activate CaSR in airway tissue and drive asthma symptoms like airway twitchiness, inflammation, and narrowing. Using calcilytics, nebulized directly into the lungs, we show that it is possible to deactivate CaSR and prevent all of these symptoms.
+
+Dr Samantha Walker, Director of Research and Policy at Asthma UK, who helped fund the research, said:
+
+This hugely exciting discovery enables us, for the first time, to tackle the underlying causes of asthma symptoms. Five per cent of people with asthma dont respond to current treatments so research breakthroughs could be life changing for hundreds of thousands of people. If this research proves successful we may be just a few years away from a new treatment for asthma, and we urgently need further investment to take it further through clinical trials. Asthma research is chronically underfunded; there have only been a handful of new treatments developed in the last 50 years so the importance of investment in research like this is absolutely essential.
+
+While asthma is well controlled in some people, around one-in-twelve patients respond poorly to current treatments. This significant minority accounts for around 90% of healthcare costs associated with the condition.
+
+According to Cardiff University Professor Paul Kemp, who co-authored the study, the identification of CaSR in airway tissue means that the potential for treatment of other inflammatory lung diseases beyond asthma is immense. These include chronic obstructive pulmonary disease (COPD) and chronic bronchitis, for which currently there exists no cure. It is predicted that by 2020 these diseases will be the third biggest killers worldwide.
+
+Professor Riccardi and her collaborators are now seeking funding to determine the efficacy of calcilytic drugs in treating asthmas that are especially difficult to treat, particularly steroid-resistant and influenza-exacerbated asthma, and to test these drugs in patients with asthma.
+
+Calcilytics were first developed for the treatment of osteoporosis around 15 years ago with the aim of strengthening deteriorating bone by targeting CaSR to induce the release of an anabolic hormone. Although clinically safe and well tolerated in people, calcilytics proved unsuccessful in treating osteoporosis.
+
+But this latest breakthrough has provided researchers with the unique opportunity to re-purpose these drugs, potentially accelerating the time it takes for them to be approved for use asthma patients. Once funding has been secured, the group aim to be trialling the drugs on humans within two years.
+
+If we can prove that calcilytics are safe when administered directly to the lung in people, then in five years we could be in a position to treat patients and potentially stop asthma from happening in the first place, added Professor Riccardi.

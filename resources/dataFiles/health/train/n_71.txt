@@ -1,0 +1,55 @@
+In Vitro Formation of Macrophage-Derived Foam Cells
+HEADLINE_ARTICLE
+Introduction
+
+The presence of lipid droplet filled cells is a key features of the atherosclerotic lesion that forms in the arterial wall in vivo. These cells are referred to as foam cells. It is now thought that most foam cells in the arterial wall are derived from monocytes that move to the site during the formation of this lesion. In the arterial wall, these monocytes change into tissue macrophages and consume large amounts of abnormal low density lipoproteins (LDL), such as oxidized LDL. Therefore, the study of macrophage derived foam cells is a topic of considerable interest to researchers.
+
+Macrophage Foam Cells
+
+Many aspects of the development of foam cells in the arterial wall can be mimicked by exposing macrophages in vitro to oxidized LDL (J65591, BT-910) and acetylated LDL (J65029, BT-906), which are modified LDLs. Of these two modified LDLs, the former is thought to be the more physiologically relevant, because LDL oxidization takes place in vivo during the formation and progression of the atherosclerotic plaque.
+
+Upon in vitro exposure to these modified LDLs, lipid droplets containing cholesteryl esters are formed in the macrophages cytoplasm while the cell metabolizes lipoprotein particles. The uptake of modified lipoproteins into cells is receptor mediated, with the Class A scavenger receptor and the Class B scavenger (CD 36) receptor being the main receptors for the uptake of acetylated LDL and oxidized LDL, respectively. Lipid droplets form in the cells while lipoproteins particles are being metabolized. Using fluorescence microscopy, the lipid droplets can easily be observed in the cells after staining with Nile Red. The droplets can also be visualized using light microscopy after staining with Oil Red O. When lipid droplets are present in large enough numbers, they can even be observed without the need for staining, using high power phase contrast microscopy.
+
+Murine macrophage cell lines such as P388D1, primary murine peritoneal macrophages, human macrophage cell lines such as THP-1 and primary human monocyte derived macrophages show the formation of foam cells in vitro. Small numbers of foam cells may be formed in vivo by fibroblasts, endothelial cells, or smooth muscles cells, but it is more complicated to reproducibly show the formation of foam cells in vitro from non-macrophage cell types. Therefore, the majority of laboratories study the in vitro formation of foam cells derived from macrophages.
+
+Below, standard protocols are described for the formation of macrophage foam cells with modified LDLs, along with the techniques used to view lipid droplets. In order to achieve optimum results, laboratories may need to change the protocol slightly, depending on the cells and conditions existing in their individual facility.
+
+Cell Plating
+
+Macrophage cell lines or primary macrophages are plated into vessels, which can be easily manipulated during the staining process. Eight- well slide chambers, 6 well tissue culture plates comprising a sterile cover slip in each well, or 35mm tissue culture dishes comprising a 22 x 22mm sterile cover slip, may be used. Around 600,000 cells are plated per well for primary cells, and around 50% of those cells are for continuous macrophage cell lines, so as to allow for growth before and during the uptake of lipoproteins.
+
+As soon as 4 hours after plating, primary macrophages can be used for foam cell formation experiments. The use of cell lines should begin 24 hours after plating. For cell lines or primary macrophages, the plating medium should be the tissue culture medium that is normally used for culturing the cells of interest in the laboratory, for instance DMEM with 10% fetal bovine serum and antibiotic.
+
+Foam Cell Formation
+
+Before the formation of foam cells, an initial dose titration is advised, to establish the optimal dose of modified LDL needed to ensure foam cells are produced with the macrophages, growth conditions, and tissue culture medium being used in a particular laboratory.
+
+Plated macrophages should be exposed to modified LDLs in 1 to 2ml of the RPMI-1640 culture growth medium for periods of 8, 24, and 48 hours. Lipoprotein should be added to the plated macrophages at concentrations of 50, 100 and 150 g/ml . In cases where oxidized LDL (J65591/BT-910) is planned for use in the experiments, a parallel experiment should be carried out using Ac-LDL (J65029/BT-906) at concentrations of 50, 100 and 150 g/ml to provide a positive control for foam cell formation. Given that the response to Ox-LDL can differ considerably between different types of cells and the level of LDL oxidation, a positive control of Ac-LDL will clarify whether or not the macrophages can indeed form foam cells. While performing the experiments, a parallel set of covers slips/wells incubated with LDL (J65039, BT-903) at 50, 100, and 150 g/ml should be used as a negative control for the formation of foam cells.
+
+Given that the presence of LDL receptors does not affect the uptake of Ox-LDL or Ac-LDL, experiments can be performed in growth medium that contains 10% fetal bovine serum. In cases where a serum-free medium is used to aid the assay of compounds produced by cells in response to the uptake of modified LDL, researches will need to carefully track the health of their cells. This is because exposure to high Ox-LDL levels over long periods can be toxic to cells due to the presence of a wide array of protein aldehydes, phospholipids, oxidized fatty acids and oxysterols. Cells in serum-free medium are more vulnerable to the toxic effects of these compounds.
+
+It should also be noted that differing levels of LDL oxidation can lead to biological effects, independent of the formation of foam cells. For instance, within 6 hours, Ox-LDL can induce variations in gene expression. Mildly and moderately oxidized LDL (but not highly oxidized LDL) can upregulate CD-36 mRNA, while highly oxidized LDL upregulates PPAR gamma mRNA. In bone marrow macrophages, activation of the PI3K pathway does not require Ox-LDL internalization into the cells. In cases where the formation of foam cells is not the endpoint of an experiment, LDLs with fully ranging levels of oxidation, as reflected by different levels of TBars, are advised as a starting point.
+
+Oil Red O Staining
+
+In order to view lipid droplets, a solution of 0.4% Oil Red O in 100% isopropanol is diluted to 60% isopropanol using distilled water. Next, this solution is filtered to eliminate any particulates. Following incubation with modified LDL, cells on cover slips or in wells are cleaned twice using phosphate buffered saline pH 7.4 and then fixed with 3% paraformaldehyde or formaldehyde in PBS for 5 minutes, at room temperature.
+
+The cells are then washed with PBS and covered temporarily with the Oil Red O/60% isopropanol. Distilled water is used to quickly wash the cultures twice, so as to remove surplus Oil Red O. The cells can also be counterstained with hematoxylin and washed with distilled water, if required. This counterstaining and rinsing may be advisable when cells are going to be visualized using normal light microscopy rather than phase contrast microscopy.
+
+Tweezers are used to pick up the cover slips, which are dipped in distilled water and any surplus water is removed using the edge of a Kim Wipe. Then, the cover slips are placed with the cell side down on a drop of mounting medium (10% PBS and 90% glycerol) on a glass microscope slide for observation. If required, the edges of the cover slip can be closed with bee's wax or melted paraffin wax.
+
+Conclusion
+
+There has been a significant interest in the study of macrophage-derived foam cells. Several review articles about the role of macrophage foam cells and macrophages in the development of atherosclerosis have been published. Since it is difficult to show the in vitro formation of foam cells from non-macrophage cell types, a large number of laboratories focus on the in vitro formation of macrophage-derived foam cells.
+
+References
+
+Tsuchiya, S., Kobayshi, Y., Goto, Y., Okumura, S. , Nakae, S., Konno, T., and Tada, K (1982). Induction of maturation in cultured human monocytic leukemia cells by a phorbol diester. Cancer Res 42: 1530-1536. Mehta, K., and Lopez-Bernsteirn, G. (1986), Expression of tissue transglutaminase in cultured monocyte leukemia (THP-1) cells during differentiation. Cancer Res 46: 1388-1394. Hara, H., Tanishita, H., Yokoyama, S., Tajima, S., and Tamamoto, A. (1987) Induction of acetylated low density lipoprotein receptor and suppression of low density lipoprotein receptor on the cells of human monocyte leukemia cell line (THP-1 cell). Biochem. Biophys. Res. Commun. 146: 802-808. Via, D.P., Pons, L., Dennison, D.K., Fanslow, A.E., and Bernini, F. (1989) Induction of acetyl-LDL receptor activity by phorbol ester in human monocyte cell line THP-1. J. Lipid Res. 30: 1515-1524. Tani, M., Kawakami, A., Mizuno, Y., Imase, R., Ito, Y., Kondo, K., Ishii, H., and Yoshida, M. (2011) Small Dense LDL Enhances THP-1 Macrophage Foam Cell Formation. J. Atheroscler Thromb 18: 698-704.
+
+About Alfa Aesar
+
+Part of the Johnson Matthey group of companies, Alfa Aesar is a leading manufacturer and supplier of research chemicals, metals and materials in a wide span of applications. For more than 50 years, scientists have relied on Alfa Aesar to supply high purity raw materials for a variety of research and development applications. Today we offer over 46,000 products in stock, in sizes from gram-scale catalog items to semi-bulk and bulk production quantities. With custom manufacturing capabilities to supply many more specialized items, we are a one-stop source for research chemicals, metals and materials.
+
+Our product line consists of a comprehensive range of inorganic, organic and organometallic compounds; pure metals and elements; precious metal compounds and catalysts; biochemicals; fuel cell products; nanomaterials; rare earths; analytical products; and select laboratory equipment. Backed by the global manufacturing network of Johnson Matthey and other key partnerships, we offer customers the highest quality and purity in fine chemical products. We are accustomed to supplying R&D laboratories in the pharmaceutical industry and the electronics industry, as well as academic institutions and many others.
+
+Sponsored Content Policy: News-Medical.net publishes articles and related content that may be derived from sources where we have existing commercial relationships, provided such content adds value to the core editorial ethos of News-Medical.Net which is to educate and inform site visitors interested in medical research, science, medical devices and treatments.

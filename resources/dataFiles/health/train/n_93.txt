@@ -1,0 +1,85 @@
+New asthma treatment within five years, researchers hope
+HEADLINE_ARTICLE
+Calcium may be responsible for asthma symptoms
+
+"Asthma cure could be in reach," The Independent reports. Researchers have discovered that protein molecules called calcium-sensing receptors play a pivotal role in asthma. Drugs known to block these proteins already exist.
+
+In asthma, the immune system mistakes harmless substances, such as pollen, as a threat. White blood cells and inflammatory proteins then collect in the airways. The inflammation causes the airways to constrict, leading to the breathing difficulties associated with asthma. This study found these proteins stimulate calcium-sensing receptors, which leads to further inflammation of the airways.
+
+The research used mouse models of asthma and human airway tissue taken from asthmatic and non-asthmatic people. The researchers found increased numbers of these calcium-sensing receptors compared with healthy lung tissue. They concluded that this is one of the reasons for the exaggerated inflammatory response that occurs in asthma.
+
+The drug calcityrol, which is used to treat osteoporosis, is known to block the actions of the receptors. It reduced inflammation of the airways when used in mice.
+
+However, it is not clear that calcityrol could be a "cure" for asthma, as the initial inflammatory response by the immune system would still occur.
+
+Though calcityrol pills are safe as a treatment for osteoporosis, it is not known whether the dose required to be effective in reducing the inflammation found in asthma would be safe.
+
+The researchers plan to develop a version of the drug that can be inhaled to maximise its effectiveness and minimise side effects. They expect human trials to commence in a couple of years.
+
+Where did the story come from?
+
+The study was carried out by researchers from Cardiff University, the Open University, the Mayo Clinic, and the University of California, San Francisco School of Medicine in the US, and the University of Manchester and King's College London in the UK.
+
+It was funded by Asthma UK, the Cardiff Partnership Fund, Marie Curie Initial Training Network, the Biotechnology and Biological Sciences Research Council, and the US National Institutes of Health.
+
+Four of the authors report they are co-inventors of a patent for the use of calcium-sensing receptor antagonists for the treatment of inflammatory lung diseases.
+
+The study was published in the peer-reviewed journal Science Translational Medicine.
+
+The media reported the story accurately, although headlines saying that an asthma "cure" is five years away are a little premature. No clinical studies in people have been conducted yet, and there is no guarantee they will work. However, the "five-year cure" claim came from the researchers themselves.
+
+What kind of research was this?
+
+This was a set of laboratory experiments involving mice models of asthma and samples of human lung tissue. The researchers aimed to better understand the inflammation that causes narrowing of the airways in asthma.
+
+The inflammation is an exaggerated response to various triggers, such as pollen, infections and pollutants, but sometimes no cause is identified.
+
+Recent research found that this inflammation results in the build-up of two proteins: eosinophilic cationic protein (ECP) and major basic protein. These proteins carry multiple positive electrical charges.
+
+The researchers wanted to test the theory that the inflammation is driven by these proteins activating another type of protein molecule called calcium-sensing receptors (CaSR) on the surface of the smooth muscle cells that line the airways.
+
+What did the research involve?
+
+The researchers conducted a variety of laboratory experiments, which involved looking at human lung tissue samples taken from people with asthma and comparing them with healthy lung tissue. They then performed several studies comparing mice with a type of asthma with healthy controls.
+
+The researchers first compared the number of CaSRs in the lung tissue of people with asthma, compared with healthy lung tissue. They then measured how the CaSRs reacted to positively charged proteins and various chemicals involved in inflammatory response, such as histamine.
+
+They repeated the experiments using a type of drug called a calcilytic, which blocks CaSRs. Calcilytic drugs were developed as a treatment for osteoporosis, as they increase the level of parathyroid hormone by targeting CaSRs. This helps to increase the level of calcium in the blood.
+
+What were the basic results?
+
+The experiments indicated there are more CaSRs in people with asthma, which are required for inflammation. Calcilytic drugs blocked the receptors.
+
+There were three times the number of CaSRs in biopsies of smooth muscle taken from the airways of people with asthma, compared with those who do not have asthma. The same was true for biopsies of mice with a form of asthma, compared with healthy controls.
+
+In the laboratory setting, positively charged proteins and chemicals such as histamine activated the CaSRs, causing an inflammatory response. These receptors could be blocked by the calcilytic drugs.
+
+Mice without CaSRs in their smooth muscle cells did not have an inflammatory response to the positively charged proteins. Healthy control mice did have an inflammatory response. Calcilytic drugs were able to reduce the effect of these proteins and other inflammatory stimulants tested.
+
+How did the researchers interpret the results?
+
+The researchers concluded that there are more CaSRs in the lungs of people with asthma, and this contributes to the inflammation that causes narrowing of the airways.
+
+They say that calcilytic drugs could reduce the number of CaSRs and reduce their responsiveness. This could both "prevent as well as relieve AHR [airways hyper-responsiveness]", which is found in asthma.
+
+The researchers do not yet know if their findings would be true for all types of asthma.
+
+Conclusion
+
+This piece of research has found that CaSRs play a role in the inflammatory response seen in asthma. The early results of laboratory experiments indicate that drugs called calcilytics can dampen this inflammatory response in asthmatic human lung tissue and in mice with asthma.
+
+Though the media described this as a "cure" for asthma, the study has not proved this. It showed that there were more CaSRs in the human lung samples from people with asthma, and compared it with healthy lung tissue.
+
+The researchers also have not shown that calcilytics can block the receptors. What is not known is how long this effect would last and whether it would stop the lungs producing more of the excessive numbers of receptors.
+
+It remains unclear why people with asthma in this study had an increased number of receptors, and if this is true for everyone with asthma.
+
+The researchers predict that if calcilytics prove to be effective in clinical trials, it will take around five years for them to become available as a treatment for asthma.
+
+This is because, although this drug has been deemed a safe treatment for osteoporosis, the researchers intend to develop the drug so it can be used as an inhaler. This would deliver it straight to the lungs to maximise the effectiveness and minimise side effects.
+
+Drug development will involve further animal trials to work out what dose would be required to achieve clinically meaningful results, and will also test its safety. If these trials are successful, the research will progress to human trials.
+
+This is an exciting piece of research that may provide a new treatment for asthma, but it is still early days, so there are no guarantees.
+
+Analysis by Bazian. Edited by NHS Choices. Follow Behind the Headlines on Twitter. Join the Healthy Evidence forum.

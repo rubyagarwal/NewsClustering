@@ -1,0 +1,49 @@
+<health>##Advantages of Using Eft NMR Spectrometer in Teaching Laboratories
+HEADLINE_ARTICLE
+Introduction
+
+Nuclear magnetic resonance (NMR) spectroscopy is a research technique that exploits the magnetic properties of atomic nuclei to determine the chemical and physical characteristics of the molecules or atoms containing them. The Eft NMR spectrometer from Anasazi Instruments offers a number of desirable features including high speed, high quality spectra, instrument stability, and 2D spectroscopy.
+
+The Speed Advantage
+
+Speed is the main advantage offered by the Eft NMR spectrometer. Figure 1 shows the 1H and 13C NMR spectra, which are a 50% solution of methyl linoleate solution dissolved in CDCl3. Both these spectra were achieved and processed in under 2 minutes. Users can therefore rapidly obtain and process both the 13C and 1H NMR spectra and students can quickly achieve 1D and 2D spectra for their projects.
+
+Figure 1. 50 wt. % methyl linoleate in CDCl3. Lower spectrum is 31 13 single scan H spectrum and upper scan is 1 minute C spectrum.
+
+High Quality Spectra
+
+The Eft NMR instrument has two features that make it perfect for using in teaching laboratories. Firstly, this spectrometer provides excellent resolution for large molecules, owing to the 60 MHz field strength. Secondly, the industry standard 5 mm tube sample accommodates a large sample volume and also provides an excellent signal-to-noise ratio.
+
+Figure 2. Simulation of ethyl group (-CH -CH ) at different magnetic field strengths.
+
+According to magnetic resonance laws, lowering the sample volume results in lower levels of signal in a linear manner. For instance, the volume of this 60 MHz spectrometer is approximately 0.2 mL, while in a capillary NMR, the volume is 0.0001 mL. When equal magnetic field strengths are used, the larger sample volume therefore provides a signal-to-noise ratio that is 2000 times greater. Moreover, reducing the field strength leads to lower levels of signal, more 2nd order effects and more crowding of spectra, all of which complicate interpretation of the spectra. Figure 2 illustrates that the ideal triplet-quartet pattern deteriorates below 60 MHz.
+
+Instrument Stability
+
+Magnetic field stability is essential if any high-resolution NMR experiment is to be successful. A poorly thermally stabilized or poorly shielded permanent magnet will cause fluctuations in the magnetic field during the experiment, therefore impairing the quality of results. Tabletop NMR instruments are also extremely sensitive. The critical test is measuring chemical shift as a function of time.
+
+Figure 3 shows the stability of the Eft-60 instrument over a period of 2.5 hours, which is a relatively long time, given that typical 13C spectra take several minutes to obtain and 1H spectra only take seconds.
+
+Figure 3. Single scan H spectra of 2M ibuprofen over a 2.5 hour time period to demonstrate field stability.
+
+2D Spectroscopy
+
+Anasazis Eft spectrometer is a full-featured Fourier transform-NMR system that can be used in complicated experiments such as 2D spectroscopy, T1 and T2 relaxation, and DEPT. The main 2D experiments include {1H}- 13C correlation spectroscopy HETCOR and {1H}-1H correlation spectroscopy COSY. It is possible to acquire COSY spectra using gradient enhanced methods, making it possible to achieve a low resolution COSY within as little as 3 minutes. In Figure 4, a COSY-45 1024 x 256 data set (right, <7 minutes) and a 512 x 128 COSY spectrum (left, <3 minutes) are compared for 5% ethyl methacrylate dissolved in CDCl3.
+
+Figure 4 Left. Single scan COSY spectrum of ethyl methacrylate. Right: High resolution COSY-45 ethyl methacrylate 5 wt% in CDCl3
+
+Figure 5. DEPT multiplicity spectrum of 30% menthol. Total experiment time 6 minutes.
+
+Figure 6. 13C-{1H} HETCOR spectrum of 2M ibuprofen. Total experiment time 4 minutes.
+
+The HETCOR and DEPT measurement proves valuable in helping students to establish the identity of an unknown solution. The spectrum shown on the lower right is an ibuprofen spectrum and that shown on the lower left is a DEPT spectrum of menthol (Figures 5 and 6). Each of these spectra were recorded within just a few minutes.
+
+Conclusion
+
+Anasazis Eft spectrometer is a 60 MHz pulsed Fourier transform NMR instrument that allows rapid collection of 1D and 2D carbon-13 spectra. The company provides rugged, high quality, and easy-to-use 60 MHz NMR spectrometers to both industrial and educational sectors.
+
+About Anasazi Instruments
+
+Anasazi Instruments has been providing high quality, rugged, easy-to-use 60 and 90 MHz NMR spectrometers and upgrades to the educational and industrial markets. These instruments have been successfully implemented at hundreds or institutions ranging from large companies and top-tier universities to community colleges throughout North and South America. In research environments, the Eft is a cost-effective workhorse for synthetic and analytical laboratories.
+
+Sponsored Content Policy: News-Medical.net publishes articles and related content that may be derived from sources where we have existing commercial relationships, provided such content adds value to the core editorial ethos of News-Medical.Net which is to educate and inform site visitors interested in medical research, science, medical devices and treatments.

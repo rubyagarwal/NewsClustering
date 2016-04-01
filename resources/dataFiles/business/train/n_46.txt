@@ -1,0 +1,47 @@
+Amazon Wants to Show U.S. Drones Can Safely Deliver Cargo
+HEADLINE_ARTICLE
+Amazon.com Inc. wants a chance to prove that a drone delivery service would be safer than the U.S. government thinks.
+
+In its most detailed public disclosure about a proposed service called Prime Air, Amazon is arguing that cargo drones should be allowed to take flight if the online retailer can show theyre not going to collide with planes or crash to the ground.
+
+The drones, still in development, would mostly fly at least 200 feet off the ground, relying on sensors and computers to select a route to customers doors and avoid hazards, Amazon said in a request Friday to the Federal Aviation Administration seeking leniency on pending drone regulations. One Amazon employee would operate many drones simultaneously, according to the request letter.
+
+With its comments, Amazon joins other companies pressing the FAA revise its proposed drone restrictions to allow technology that could change not just the way deliveries are made, but reshape farmland management and industrial inspections.
+
+Overly prescriptive restrictions are likely to have the unintended effect of stifling innovation, Paul Misener, vice president for global public policy at Seattle-based Amazon, said in the letter.
+
+The FAAs proposed rules would block Amazons plans. The agency proposal wouldnt allow drones to carry commercial cargo and would require they only be flown within sight of an operator, prohibiting flights of 10 miles (16 kilometers), or longer, envisioned by Amazon.
+
+Instead of flatly prohibiting such flights, the FAA needs to set up criteria to allow them if Amazon or other companies can demonstrate theyre safe and reliable, Misener said.
+
+Night Flights
+
+The letter from the worlds biggest online retailer mirrors comments by other companies and industry groups seeking flexibility by the FAA that would better take into account the rapid evolution of drone how rapidly drone technology is evolving. Friday was the deadline for companies to formally petition the FAA for changes to the draft regulations, which may still take a year or more to implement.
+
+The Small UAV Coalition, a trade group representing companies including Amazon and Google Inc., and the Association for Unmanned Vehicle Systems International, another trade group for the drone industry, filed similar comments as Amazon.
+
+AUVSI said the FAA should drop its proposed ban of night drone flights if a user could demonstrate they were as safe as daytime operations.
+
+Balancing Interests
+
+The industry groups comments put new pressure on the FAA, which is trying to balance corporate interests with the need for preserving a safe aviation system.
+
+It also highlights the cutting-edge robotics and computer technology underpinning what Amazon wants to do. If a drone loses radio contact with its operator, it must be capable of safely returning to base or landing without harming people or property, for example.
+
+Amazon envisions using automated sensors to sense-and-avoid other drones and obstructions, according to its letter. Except for takeoff and landing, drones would stay in a zone of 200 feet to 500 feet from the ground. Most traditional planes and helicopters fly above 500 feet.
+
+So far, the FAA has been skeptical that robotic technology can replace human eyesight and judgment.
+
+The FAA said in its proposal it shares Amazons goal of setting broad safety criteria instead of narrow restrictions.
+
+Faulting FAA
+
+Amazon has criticized the FAA as it has sought permission to test its drones and rules permitting its delivery concept.
+
+In Dec. 7 letter to the agency, Misener said the company had begun testing unmanned delivery craft in other countries and would divert more research if the FAA didnt act.
+
+The agency granted Amazon an authorization to conduct tests on March 19. Five days later, Misener told a Senate committee in Washington that FAA approval had taken so long that it was worthless because the company had developed a new model for which it didnt apply.
+
+Nowhere outside of the United States have we been required to wait more than one or two months to begin testing, he told a subcommittee of the Senates Commerce, Science and Transportation panel.
+
+The FAA granted Amazon a separate waiver allowing test flights in the U.S. on April 9.

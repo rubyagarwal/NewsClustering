@@ -1,0 +1,51 @@
+Characterization of Excitation and Emission Spectra of Commonly Used Variants of Green Fluorescent Proteins
+HEADLINE_ARTICLE
+Introduction
+
+Green fluorescent proteins are increasingly being utilized in cellular and molecular biology applications. Owing to the wide range of applications, a number of variants of the original wild type green fluorescent protein (wtGFP) have been designed.
+
+Some of these variants exhibit different emission and excitation spectra when compared to wtGFP. To achieve maximum sensitivity when measuring these GFPs, it is essential to use the most suitable filter set.
+
+In this article, the emission and excitation spectra of some of the most common GFP variants are characterized. Appropriate filter sets are also proposed for both detection and quantitation using the FL600 microplate fluorescence reader.
+
+Variants of Green Fluorescent Proteins
+
+With respect to filter sets for the FL600 microplate fluorescence reader, the most popular wtGFP protein variants can be categorized as follows:
+
+The red-shifted variants
+
+The blue emitting variants
+
+The wild type like variants
+
+Typified by EGFP, the red-shifted variants exhibit an excitation peak centered at around 488nm, with a 509nm emission peak; the blue emitting variants exhibit an excitation peak at about 380nm with an emission peak near 460nm; and the wild type like variants have their excitation peak centered on 395nm, with an emission peak wavelength of 509nm (Figure 1).
+
+Figure 1. Excitation and emission spectra of EGFP, wtGFP, and EBFP. Representative excitation (dashed lines) and emission (solid lines) spectra of the three basic GFP variants. Data was derived from reported spectra in the literature.
+
+Table 1. Excitation and emission data of GFP variants
+
+Table 1 shows the potential filter sets that would be proposed for using the FL600 microplate fluorescence reader to determine the fluorescence of different variants of GFP. It can be seen that the excitation peak of GFPuv, wtGFP, and the Stemmer mutant is nearer to the 400/30 excitation filter; however, the 360/40 filter, which is a standard FL600 filter, does provide a fairly adequate fluorescent signal.
+
+The red-shifted variants developed for use with the standard fluorescein filter set use the 530/25 emission and 485/20 excitation filter set. While the 508/20 emission filter is nearer to the samples emission peak, overlap with the 485/20 excitation filter prevents the use of that filter, meaning the 530/25nm emission filter needs to be used. Generally, for the blue emitting variants, the 360/40 excitation filter and 460/40 emission filter are required.
+
+Excitation and Emission Filters
+
+As observed above, most of the GFP variants use filters that are supplied with the FL600 microplate fluorescence reader. In cases where wtGFP is being determined, the 400/20 excitation filter can be used along with a 508/20 emission filter. BioTek Instruments supplies these custom-made filters.
+
+When the 360/40 excitation filter is used, acceptable data can generally be obtained. However, the 508/20 emission filter would still be needed. For the red-shifted variants, usually only the fluorescein filter set of the 530/25 emission and 485/20 excitation are required, both of which are standard filters on the FL600. Similarly, the 460/40 emission and 360/40 excitation filters are used by the blue emitting variants and these are also standard on the FL600.
+
+Figure 2. Loss of signal when using alternative filter sets. Dilutions of (A) EGFP protein or (B) wtGFP were made using 10mM Tris, 10mM EDTA buffer as the diluent. Samples were read using an FL600fluorescence plate reader with reader function controlled by KC4 data reduction software on an external PC. Fluorescence was determined using either a 485/20 excitation, 530/25 emission filter set or a 400/30 excitation, 508/20 emission filter set. For EGFP and wtGFP determinations using either filter set, a sensitivity setting of 170 was used.
+
+Conclusion
+
+A suitable filter set must be used for the GFP variant being determined. Using the standard fluorescein filter set, i(530/25 emission and 485/20 excitation) when quantitating wtGFP leads to a signal loss of 20% in comparison to the proposed 508/20 emission and 400/30 excitation filter set, as shown in Figure 2B.
+
+Similarly, there is 75% loss of signal when the EGFPs fluorescence is measured with the 508/20 emission and 400/30 excitation filter set rather than its recommended 530/25 emission and 485/20 excitation filter set, as indicated in Figure 2A.
+
+When an inappropriate filter set is used for quantitating the blue emitting GFPs (EBFP), a similar loss of signal can be expected. These data results closely correlate with the proteins emission and excitation spectra shown in Figure 1.
+
+About  BioTek Instruments, Inc.
+
+BioTek Instruments, Inc., headquartered in Winooski, VT, USA, is a worldwide leader in the design, manufacture, and sale of microplate instrumentation and software. These technologies are used to aid life science research, facilitate drug discovery, provide rapid and cost-effective analysis, and enable sensitive, accurate quantification of molecules across diverse applications. BioTek espouses a Think Possible approach that sets the tone for fresh ideas, unsurpassed customer service and original innovations. As such, they are often honored for local accomplishments and technological innovations, including Best Places to Work in Vermont, North American New Product Innovation Award for Workflow Solutions in Life Sciences and Drug Discovery Product of the Year  Scientists' Choice Award.
+
+Sponsored Content Policy: News-Medical.net publishes articles and related content that may be derived from sources where we have existing commercial relationships, provided such content adds value to the core editorial ethos of News-Medical.Net which is to educate and inform site visitors interested in medical research, science, medical devices and treatments.

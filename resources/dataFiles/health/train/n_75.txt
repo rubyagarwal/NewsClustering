@@ -1,0 +1,109 @@
+Air pollution linked to silent strokes
+HEADLINE_ARTICLE
+Air pollution could affect the flow of blood through the brain
+
+"Adults who live in towns and cities suffer ageing of the brain and increased risk of dementia and [silent] strokes because of air pollution," The Daily Telegraph reports.
+
+A "silent stroke" (technically known as a covert brain infarct) are small areas of damage caused by lack of oxygen to the brain tissue, but are not severe enough to cause obvious symptoms. They may be a sign of blood vessel disease, which increases the risk of one type of dementia (vascular dementia).
+
+This headline is based on a study which took brain scans of more than 900 older adults and assessed their exposure to air pollution. It found that higher levels of small particles in the air around where an individual lived were associated with a greater likelihood of them having signs of a "silent stroke" on a brain scan.
+
+There was some evidence of association between the particles and slightly smaller brain volume, but this link did not remain once peoples health conditions were taken into account.
+
+Limitations of the study include that the researchers could only estimate peoples air pollution exposure based on average air quality of where they lived in one year, rather than lifetime exposure. It should also be noted that the news has suggested a link to dementia, but the study did not actually assess this.
+
+The findings need to be investigated in future studies before firm conclusions can be drawn.
+
+If you are concerned about air pollution, then the Department for Environment, Food & Rural Affairs (DEFRA) provides alerts when pollution is known to be high or very high in a particular region.
+
+Should I buy a facemask? Facemasks designed to filter out the fine particles created by air pollution are popular in China. This is understandable, as the pollution level in many Chinese cities is worryingly high. Thankfully, the situation is the UK is much less severe. In a 2010 policy statement issued by the British Heart Foundation (PDF, 673kb), the charity said "there is not currently enough evidence to support the routine use of facemasks in the UK".
+
+Where did the story come from?
+
+The study was carried out by researchers from Beth Israel Deaconess Medical Center and other centres in the US. It was funded by the US National Institutes of Health and the United States Environmental Protection Agency.
+
+The study was published in the peer-reviewed medical journal Stroke.
+
+The Daily Telegraph headline suggests that air pollution could increase a persons risk of dementia, but this is not what the study assessed, and none of the participants had dementia, a stroke or mini-stroke (also known as a transient ischaemic attack).
+
+They also suggest that it is living in towns and cities that increases risk, but this was not what the study assessed. It compared people with different levels of particulate matter in the air where they lived, not whether they lived in towns and cities, and in their main analyses they did not include people living in rural areas far from major roads.
+
+The Mail Online similarly overstates findings, by stating that "living near congested roads with high levels of air pollution can cause silent strokes". While an association was found, a direct cause and effect relationship remains unproven.
+
+What kind of research was this?
+
+This was a cross-sectional analysis assessing whether there was a link between air pollutant exposure and changes in the brain linked to ageing.
+
+The authors report that long-term exposure to air pollution is associated with, for example, increased risk of stroke and cognitive impairment. However, its effects on the structure of the brain are not known. If air pollution is linked to structural brain changes, these could, in turn, contribute to the risk of stroke and cognitive problems.
+
+This type of study can show links between two factors, but cannot prove that one caused the other. As the study was cross-sectional, it cannot establish the sequence of events and whether exposure to air pollution came before any differences or changes in brain structure. As an observational study, there may also be factors other than air pollution exposure that could be causing the differences seen. The researchers did take steps to try to reduce the impact of other factors, but they may still be having an effect.
+
+What did the research involve?
+
+The researchers took brain scans of 943 adults aged 60 and over. They also estimated their exposure to air pollution, based on where they lived. They then analysed whether those with more exposure to air pollution were more likely to have smaller brain volume or signs of damage.
+
+Participants in this study were taking part in an ongoing longitudinal study in the US state of New England. Only those who had not had a stroke or mini-stroke and did not have dementia were selected to take part.
+
+The type of effects on the brain that the researchers were looking for were referred to as "subclinical". This means that they did not cause the people to have symptoms and therefore would not normally be detected.
+
+They looked at total volume of the brain and also the volume of the specific parts of the brain using a magnetic resonance imaging (MRI) brain scan. The brain shrinks gradually with age, so the researchers were interested in whether pollution might have a similar effect. The MRI also identified whether the brain showed signs of a "silent stroke"  that is, parts of the brain tissue that had been damaged by having the blood supply interrupted.
+
+These "covert brain infarcts" were not severe enough to cause symptoms, in the form of a stroke or mini-stroke. However, this damage suggests that the person may have some degree of blood vessel (vascular) disease. They are often seen in the brain scans of people who have vascular dementia.
+
+The researchers used satellite data measuring the level of small particles (PM2.5) on the air in New England to assess average daily air pollution exposure at each participants current home address in 2001. They also assessed how close each home was to roads of different sizes. The researchers only looked at those living in urban and suburban areas in their main analyses.
+
+They then looked at whether there were any links between estimated particulate matter exposure and distance from roads and brain findings.
+
+They first took into account confounding factors that could affect results, including:
+
+age
+
+gender
+
+smoking
+
+alcohol intake
+
+education
+
+They then carried out a second analysis, taking into account a number of additional factors, such as:
+
+diabetes
+
+obesity
+
+high blood pressure
+
+What were the basic results?
+
+Average (median) daily exposure to small particles in the air was about 11 microgrammes per cubed metre of air, and participants lived an average of 173 metres from a major road. The participants were, on average, 68 years old when they had their brain scan, and 14% showed signs of a "silent stroke" on the scans.
+
+The researchers found that greater estimated exposure to air pollution was associated with a slightly smaller total brain volume. Each two microgramme per cubed metre increase in particulate matter was associated with a 0.32% lower brain volume. However, once this analysis was adjusted for conditions such as diabetes, this difference was no longer statistically significant.
+
+Greater estimated exposure to air pollution was also associated with a higher likelihood of having signs of "silent stroke" damage to the brain tissue. Each two microgramme per cubed metre increase in particulate matter was associated with a 37% higher odds of this silent damage (odds ratio (OR) 1.37, 95% confidence interval (CI) 1.02 to 1.85).
+
+They did not find differences in association across areas with different average income brackets. Distance from a major road was not linked to total brain volume or a "silent stroke" after adjustment for confounders.
+
+How did the researchers interpret the results?
+
+The researchers concluded that their findings "suggest that air pollution is associated with insidious effects on structural brain aging, even in dementia and stroke-free persons".
+
+Conclusion
+
+This cross-sectional study has suggested a link between exposure to small particles in the air (one form of pollution) and the presence of "silent stroke" in older adults  small areas of damage to the brain tissue that are not severe enough to cause obvious symptoms.
+
+There are a number of limitations to be aware of when assessing the results of this study:
+
+While there was an association between particulate matter in the air and total brain volume, this was no longer statistically significant after taking into account whether people have conditions such as high blood pressure, which can also affect their risk of stroke.
+
+While the researchers did try to take into account factors such as smoking, alcohol intake and diabetes, which could be having an effect on risk, this may not remove their effect totally. There may also be various other unmeasured factors that could account for the association seen. This makes it difficult to be sure whether any link seen is directly due to the pollution itself.
+
+The researchers could only estimate peoples air pollution exposure based on average air quality of where they lived in one year. This may not provide a good estimate of a persons lifetime exposure.
+
+While the news extrapolated these findings to suggest a link between air pollution and peoples risk of dementia, this is not what the study assessed. While areas of "silent stroke" can often be seen in people who have vascular dementia, none of the study participants had dementia, or a stroke or mini-stroke.
+
+Overall, this study finds some evidence of a link between one measure of air pollution and "silent stroke", but the limitations mean that this finding needs to be confirmed in other studies.
+
+It is also not possible to say whether the link exists because air pollution is directly affecting the brain.
+
+Analysis by Bazian. Edited by NHS Choices. Follow Behind the Headlines on Twitter. Join the Healthy Evidence forum.

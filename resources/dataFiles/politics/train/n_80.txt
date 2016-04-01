@@ -1,0 +1,49 @@
+What If Students Could Fire Their Professors?
+HEADLINE_ARTICLE
+Student Course Evaluations Get An 'F'
+
+i itoggle caption LA Johnson/NPR LA Johnson/NPR
+
+At Denny's, diners are asked to fill out comment cards. How was your meal? Were you satisfied with the quality of service? Were the restrooms clean?
+
+In universities around the world, semesters end with students filling out similar surveys about their experience in the class and the quality of the teacher.
+
+Student ratings are high-stakes. They come up when faculty are being considered for tenure or promotions. In fact, they're often the only method a university uses to monitor the quality of teaching.
+
+Recently, a number of faculty members have been publishing research showing that the comment-card approach may not be the best way to measure the central function of higher education.
+
+Philip Stark is the chairman of the statistics department at the University of California, Berkeley. "I've been teaching at Berkeley since 1988, and the reliance on teaching evaluations has always bothered me," he says.
+
+Stark is the co-author of "An Evaluation of Course Evaluations," a new paper that explains some of the reasons why.
+
+For one thing, there's response rate. Fewer than half of students complete these questionnaires in some classes. And, Stark says, there's sampling bias: Very happy or very unhappy students are more motivated to fill out these surveys.
+
+Then there's the problem of averaging the results. Say one professor gets "satisfactory" across the board, while her colleague is polarizing: Perhaps he's really great with high performers and not too good with low performers. Are these two really equivalent?
+
+Finally, there's the simple fact that faculty interactions with students and the student experience in general vary widely across disciplines and types of class. Whether they're in an an upper-division seminar, a studio or lab, or a large lecture course, students are usually asked to fill out the same survey.
+
+Stark says his paper is unlikely to surprise most faculty members: "I think that there's general agreement that student evaluations of teaching don't mean what they claim to mean." But, he says, "there's fear of the unknown and inertia around the current system."
+
+Michele Pellizzari, an economics professor at the University of Geneva in Switzerland, has a more serious claim: that course evaluations may in fact measure, and thus motivate, the opposite of good teaching.
+
+His experiment took place with students at the Bocconi University Department of Economics in Milan, Italy. There, students are given a cognitive test on entry, which establishes their basic aptitude, and they are randomly assigned to professors.
+
+The paper compared the student evaluations of a particular professor to another measure of teacher quality: how those students performed in a subsequent course. In other words, if I have Dr. Muccio in Microeconomics I, what's my grade next year in Macroeconomics II?
+
+Here's what he found. The better the professors were, as measured by their students' grades in later classes, the lower their ratings from students.
+
+"If you make your students do well in their academic career, you get worse evaluations from your students," Pellizzari said. Students, by and large, don't enjoy learning from a taskmaster, even if it does them some good.
+
+There's an intriguing exception to the pattern: Classes full of highly skilled students do give highly skilled teachers high marks. Perhaps the smartest kids do see the benefit of being pushed.
+
+Measuring the teacher by how well the student did in the next course is an important part of this experiment. Previous papers, says Pellizzari, compared student ratings to student grades within that same course. An easy-A prof may earn five stars in return for handing out good grades. But this leniency, his research suggests, does the students no long-term favors.
+
+Both Pellizzari and Stark agree that student surveys should be used in a much more limited way, to capture student satisfaction. And they could perhaps be used to gather information on factual points like whether the professor showed up on time or canceled class more than once or twice.
+
+In addition, they'd like to see other methods of evaluating teachers. As department chairman in statistics, Stark actually has implemented new methods and has seen interest in them spread across several divisions at Berkeley.
+
+One approach is peer evaluation of teaching. They create a rubric and have past winners of department teaching prizes observe classes to gather information on teachers.
+
+Another is to do a review of the materials that professors use to create classes.
+
+"Show me your stuff," Stark says. "Syllabi, handouts, exams, video recordings of class, samples of students' work. Let me know how your students do when they graduate. That seems like a much more holistic appraisal than simply asking students what they think."

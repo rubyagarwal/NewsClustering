@@ -1,0 +1,23 @@
+Oracle CEO Hurd Plans to Lift Almost All Products Into Cloud
+HEADLINE_ARTICLE
+Oracle Corp. plans to make almost all of its services available via the Internet by mid-October, Co-Chief Executive Officer Mark Hurd said, as the database-software company changes its business model to fit a new competitive landscape.
+
+We are still investing, very much in our traditional products. But that said, we are moving those products to now be available in the cloud at a really incredible pace, Hurd said in an interview at Bloombergs headquarters in New York. We are not protecting, so to speak, anything.
+
+Around 65 percent of Oracles products are available on the cloud today, Hurd said in the interview, held on Thursday. That will climb to 95 percent by the time the company holds its annual Oracle OpenWorld conference in October, he said.
+
+Oracle for many years built its business on sales of contracts for software deployed within a companys data centers, combined with recurring revenue from support of that software. It recently has begun letting its customers buy more of its products as services through the Internet, competing with younger companies, such as Salesforce.com Inc. and Workday Inc., and established rivals such as Microsoft Corp. and International Business Machines Corp.
+
+Combined sales in Oracles cloud software, infrastructure and platform-as-a-service businesses were $527 million in the latest quarter, up about 29 percent from a year earlier. Amazon.com Inc.s cloud division Amazon Web Services, generated $1.57 billion for the company in its most recent quarter.
+
+Surprisingly Fast
+
+Our cloud business is growing a lot faster than even I expected, Chairman Larry Ellison said on an earnings conference call last month. Oracle will sell more new software-as-a-service and platform-as-a-service than Salesforce.com this calendar year, he said. The change means Oracle will eventually generate more cash through recurring revenue from cloud customers.
+
+For every million of PaaS we sell, we actually expect to collect $5 million over five years, Co-CEO Safra Catz said on the call. That compares with about a $1 million in revenue from a typical software license contract, then a further $1 million in support over five years, she said.
+
+The company revamped its sales force three years ago with an eye toward selling more cloud services, Hurd said this week.
+
+Our sales force is lined up by buyer, by product, by competitor, he said. The company also increased training for sales teams. The immersion in the products, the immersion in the functional area they cover, has been significant. Oracle tweaked its compensation model to encourage cloud sales, as well.
+
+In the applications world, we pay on a metric called annual recurring revenue, so its different from a licensed product because were actually selling more of a service, Hurd said. We have really pushed our sales force.

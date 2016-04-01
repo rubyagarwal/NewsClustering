@@ -1,0 +1,57 @@
+<technology>##Top 10 robots of 2012
+HEADLINE_ARTICLE
+The U.S. military's drones  or Unmanned Aerial Vehicles (UAVs)  were probably the most talked about robots of 2012. Every other week it seemed there was some story or other that grabbed headlines around the world, giving them a rather nasty reputation. However, robotics technology is about much more than just killing machines and here are ten noteworthy examples from the past year that prove it.
+
+Space and military robots
+
+Robonaut 2 begins operations on the ISS
+
+Built by NASA and General Motors, the Robonaut 2 (R2) finally began doing some work aboard the International Space Station (ISS) in 2012, having arrived there in early 2011. The R2 is the first humanoid robot in space, but will be joined later this year by a Japanese communication robot that will keep the astronauts company. Currently the R2 isn't doing anything too mind-blowing, but the project is paving the way towards permanent robotic helpers in space.
+
+Boston Dynamics' Cheetah robot breaks speed record for legged robots
+
+The team at Boston Dynamics, known for their BigDog quadruped, is hard at work on multiple challenges set forth by DARPA. The Maximum Mobility and Manipulation (M3) program seeks a legged robot that can run at least 25 mph (40 km/h), and the Cheetah robot is well on its way there. So far the robot has been clocked at 28.3 mph (45.5 km/h), but it's currently powered by an off-board hydraulic pump and requires a boom to stay steady. We should find out how the latest version fares without these conveniences later this year.
+
+Boston Dynamics' LS3 quadruped plays follow the leader
+
+The LS3 is much slower than the Cheetah, but it can carry 400 pounds (181 kg) of gear for up to 20 miles (32 km) without stopping. This Northern Hemisphere autumn Boston Dynamics took it out into the woods, where it was able to follow a leading human through treacherous terrain. And unlike a real pack mule, which may not always behave the way you want it to, this one can follow verbal commands and find its way to GPS coordinates on its own. In 2013 it will be put through further tests with a real squad.
+
+Japan gets serious about nuclear clean-up robots
+
+A number of Japanese companies and institutions revealed robots aimed at cleaning up the damage done by 2011's earthquake and tsunami. Among them were a handful of remotely-operated robots from Toshiba, Mitsubishi, and Hitachi that can perform inspection and rubble removal tasks in a variety of conditions. However, by far our favorite of the bunch was the reconfigured HAL exoskeleton developed by University of Tsukuba spin-off Cyberdyne. The robotic suit carries the burden of heavy radiation shielding, and should see deployment later this year.
+
+Humanoids
+
+DARPA Robotics Challenge contenders revealed
+
+The DARPA Robotics Challenge asks teams to build and program a robot that can drive a car, open doors, use tools, negotiate uneven terrain and stairs, and find and shut valves in a smoky environment. Some of the teams will get a bipedal robot built by Boston Dynamics while others will have to build their own from scratch. In late 2012 we got a glimpse of what those robots will look like, but we'll have to keep watch over the next two years to see how they come together and fare in the challenge itself.
+
+RoboCup's TeenSize League gets two open-source competitors
+
+Just five teams managed to qualify for RoboCup's TeenSize League in 2012, mainly because building a bipedal humanoid robot that stands over three feet tall (95 cm) is a difficult proposition for most universities. However, a pair of commercial options may lead to bigger and better robotic soccer matches. The first one, from the University of Bonn, builds on the success of their award-winning platform. The second option from hobby kit maker RoboBuilder, which is something of the new kid on the block, may prove to be a worthy competitor.
+
+Industrial robots
+
+Rethink Robotics unveils inexpensive and user-friendly Baxter robot
+
+Industrial robots aren't nearly as glamorous as the other robots on this list, but they remain some of the most productive and practical examples of robotics technology today. Rethink Robotics, led by iRobot founder and former MIT professor Rodney Brooks, unveiled their solution: a pick-and-place robot called Baxter. This robot costs a fraction of its competition, and can be programmed in hours rather than days or weeks. This makes it ideal for smaller companies that normally couldn't afford to use this sort of technology.
+
+Avatars and health care
+
+Miniature robot avatar goes with you everywhere
+
+The MH-2, a tiny robot that you wear on your shoulder, has to be one of the most bizarre telepresence robots ever devised. The idea  from researchers at Yamagata University, Japan  is that you would take it with you all the time, allowing your friends to tag along over an internet connection. They see the world through its cameras, hold conversations, and even get the robot to make a move its limbs using motion capture technology. It's a bit cumbersome at this stage, but its developers say they're still working on it.
+
+Toyota reveals Human Support Robot
+
+Toyota has been working on helpful "partner" robots for about a decade now, and while they began with extravagant technological showpieces, such as their robot band, they're now looking towards the health care sector. A prototype currently being tested in Japan called the Human Support Robot (HSR) ditches the expensive legs of its predecessors for the simplicity of wheeled locomotion. A bedridden patient would control the robot with a tablet PC to retrieve items in their room. We've seen many examples of this kind of robot in the past, but this one seems especially promising.
+
+Just for fun
+
+Japanese artist Kogoro Kurata fulfills boyhood dreams
+
+This is one of those projects that, while not necessarily a true robot, still warrants an entry on the list. It's not every day that you see a real-life working giant robot inspired by those seen in Japanese animated TV shows and video games. The Kuratas is mainly an art project, but it does contain its share of real robotics technology, such as its V-Sido (pronounced like "Bushido") software  that can be used to program and control hobby robots. And it can be yours  all 9,900 lbs (4,490 kg) of it  if you've got US$1.5 million dollars to spare.
+
+There you have it  just a sampling of the memorable robot stories of 2012. If we missed some of your top picks, please let us know in the comments!
+
+Share

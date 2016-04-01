@@ -1,0 +1,39 @@
+Preparation of Mouse Peritoneal Macrophages Using Thioglycolate Solution
+HEADLINE_ARTICLE
+Introduction
+
+During the preparation of primary mouse peritoneal macrophages, researchers have the option of either using the few resident peritoneal macrophages typically present in their preferred mouse line or injecting thioglycolate broth into the peritoneum, which significantly boosts the quantity of peritoneal macrophages.
+
+Thioglycolate serves as an irritant and promotes the accumulation of circulating monocytes at the peritoneum, where they then become tissue macrophages. About 5 to 6 unstimulated mice are usually required to produce the number of cells made by a single thioglycolate stimulated mouse. Researchers will need to choose between stimulated and unstimulated mice, according to their specific experimental design.
+
+Preparation of Thioglycolate Broth
+
+Thioglycolate broth is prepared by adding 40 g of Bacto Brewer Thioglycolate Medium Dehydrated (Difco) to 1 L of cold, distilled water. This solution is then boiled (preferably under a hood due to its strong odor) and then transferred to two 500 ml autoclavable bottles. It is then subjected to autoclave sterilization for 15 minutes at 15 lb pressure, cooled to room temperature, and finally stored in the dark at room temperature. If a dark storage space is not available, the bottle can be covered with aluminum foil to completely block any light. If the top 20% eventually becomes green, the solution should be reheated in a boiling water bath under a laminar flow hood, to remove absorbed oxygen. If the solution is kept sterile, it can be stored in the dark for up to one year.
+
+Thioglycolate Stimulation
+
+Under a tissue culture hood, enough thioglycolate for injections is pipetted from the stock bottle and transferred to a sterile tissue culture grade disposable centrifuge tube. Each mouse is then held firmly from the back to immobilize it and injected with 3 to 4 ml of thioglycolate broth into the peritoneal cavity using a 22-gauge needle and 5 ml syringe. After piercing the peritoneum, the needle is lifted slightly so that no organs are punctured. After a period of three days, the peritoneal macrophages are harvested.
+
+Macrophage Harvest
+
+The mice are euthanized by cervical dislocation and the whole animal is placed in a beaker containing 95% ethanol. Only 3 to 4 mice should be dispatched at a single time. The remaining steps are carried out under a laminar flow hood to sustain a clean, sterile environment.
+
+Next, the mice are removed from ethanol and placed on disposable pads in a supine position. Using sterile surgical scissors, an incision is made in the skin above the peritoneum about halfway along the length of the belly and the skin is carefully cut or pulled back to expose the peritoneum. Care must be taken not to pierce the peritoneal cavity with the scissors because the membrane must remain intact.
+
+A 22-gauge needle and sterile syringe are then used to inject 5 ml of sterile 0.34 M sucrose into the peritoneum of all 3 to 4 mice via the exposed peritoneal membrane. The peritoneal cavity is then gently massaged for 2 minutes to help loosen the macrophages. The fluid enriched with macrophages is carefully drawn off from the peritoneal cavity using a syringe equipped with a 22-gauge needle, inserted into the bottom right side of the peritoneum. Again, care must be taken to ensure that the internal organs are not punctured.
+
+The fluid collected is transferred to a 15 ml sterile tissue culture centrifuge tube on ice. Fluids are collected from the remaining mice and the process repeated for any additional lots of 3 to 4 mice until all the macrophages have been collected. These macrophages are centrifuged at 1500 rpm for 10 minutes, at a temperature of 40C and the supernatant is then aspirated and the cells suspended in 10ml sterile saline per tube.
+
+Cells are centrifuged again and suspended in 1 to 2 ml of tissue culture medium per tube. All the collected cells are combined in a 15 ml or 50 ml disposable tube, in preparation for cell counting and plating. Finally, the desired number of cells per vessel are plated for the experiments. After 4 to 24 hours of plating, the experiments can be started.
+
+Conclusion
+
+When preparing primary mouse peritoneal macrophages, researchers can opt to use the few peritoneal macrophages present in their selected mouse line or they can inject thioglycolate broth into the mouses peritoneum to boost the number of peritoneal macrophages. Although the latter method is an extensive process, the peritoneal macrophages harvested can be used in various experiments.
+
+About Alfa Aesar
+
+Part of the Johnson Matthey group of companies, Alfa Aesar is a leading manufacturer and supplier of research chemicals, metals and materials in a wide span of applications. For more than 50 years, scientists have relied on Alfa Aesar to supply high purity raw materials for a variety of research and development applications. Today we offer over 46,000 products in stock, in sizes from gram-scale catalog items to semi-bulk and bulk production quantities. With custom manufacturing capabilities to supply many more specialized items, we are a one-stop source for research chemicals, metals and materials.
+
+Our product line consists of a comprehensive range of inorganic, organic and organometallic compounds; pure metals and elements; precious metal compounds and catalysts; biochemicals; fuel cell products; nanomaterials; rare earths; analytical products; and select laboratory equipment. Backed by the global manufacturing network of Johnson Matthey and other key partnerships, we offer customers the highest quality and purity in fine chemical products. We are accustomed to supplying R&D laboratories in the pharmaceutical industry and the electronics industry, as well as academic institutions and many others.
+
+Sponsored Content Policy: News-Medical.net publishes articles and related content that may be derived from sources where we have existing commercial relationships, provided such content adds value to the core editorial ethos of News-Medical.Net which is to educate and inform site visitors interested in medical research, science, medical devices and treatments.

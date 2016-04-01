@@ -1,0 +1,193 @@
+2014 Smartphone Comparison Guide
+HEADLINE_ARTICLE
+Gizmag compares 12 of the best smartphones you can buy during the 2014 holidays
+
+We've seen so many great smartphones this year, it isn't easy to pick just one. Let Gizmag try to help with your decision, as we compare the features and specs of some of the best smartphones of 2014.
+
+Update: This guide is now out of date. With the new year's big flagships hitting store shelves, you can now check out our updated guide for 2015.
+
+For this latest smartphone comparison, we picked 12 of the best (or best values) you'll find today:
+
+Apple iPhone 6 Plus
+
+Apple iPhone 6
+
+Samsung Galaxy Note 4
+
+Samsung Galaxy S5
+
+HTC One (M8)
+
+LG G3
+
+Google/Motorola Nexus 6
+
+Motorola Moto X (2014)
+
+OnePlus One
+
+Nokia Lumia 930 (aka Lumia Icon)
+
+HTC Desire Eye
+
+Motorola Moto G (2014)
+
+For each category, you'll see three rows of phones, ordered exactly as they are in this list. You'll see faint labels above each phone, in case you forget which is which.
+
+Size
+
+With Apple finally joining the trend of big-ass phones this year, every one of our handsets, considered normal by today's standards, would have been called huge just three or four years ago.
+
+The enormous Nexus 6 is the biggest in this bunch, but several others aren't far behind. And even the smallest, the iPhone 6, towers over the iPhones of yesteryear.
+
+Weight
+
+None of these phones are ridiculously heavy, but the Lumia 930 (known as the Lumia Icon in the US) has the least favorable size-to-weight ratio.
+
+Build
+
+While most smartphones still have plastic backs, this year we saw several flagships add metallic bands around their edges  making them something like half premium. That includes the Galaxy Note 4, two of Motorola's phones and the Lumia.
+
+If you want a full metal handset, then the iPhones, OnePlus One and HTC One (M8) are your only choices in this bunch.
+
+Colors
+
+These are the color options available for each phone ... but just remember that they might not all be available in your area.
+
+The Moto X gives you the most options, as you can customize it at the Moto Maker website. And though its baby brother, the Moto G, only sells in two colors, Motorola offers snap-on shells (sold separately) that let you liven things up a bit.
+
+Display (size)
+
+These percentages tell you how much screen real estate each gives you, compared to the largest in the group, the Nexus 6.
+
+Navigation buttons
+
+Some of the phones, though, sacrifice a little bit of that real estate for onscreen navigation buttons. Android's Immersive Mode fades them out in the most important areas (like videos and some reading apps), but in other places they will take up some space.
+
+The OnePlus One lets you choose between onscreen and below-screen (capacitive) keys.
+
+Display (resolution)
+
+This year pixel densities skyrocketed, with the ultra-sharp Quad HD displays found in the Note 4, LG G3 and Nexus 6. Though your eyes will probably notice a difference with Quad HD, the 1080p displays still look very sharp.
+
+The 720p Moto G is the only phone in this group with a mid-ranged pixel density: it's sharp by 2011 standards, but not so much by today's.
+
+Display (type)
+
+Our group is evenly split between IPS and AMOLED display panels.
+
+Fingerprint sensor
+
+Apple's and Samsung's flagships all have fingerprint sensors in their home buttons. Though the sensor in the Note 4 is better than the one in the Galaxy S5, Apple's Touch ID is the winner: you just touch it from any angle, compared to swiping from one angle on the Galaxy phones.
+
+Stylus
+
+Only the Galaxy Note includes a stylus  and loads of pen-friendly software. The S Pen in the Note 4 is also much improved over older versions, with increased sensitivity that has a more natural feel.
+
+Any phone can use capacitive styluses, which simulate finger touches, but the Note's digitizer stylus (including pressure sensitivity and a hovering cursor) makes it stand out from the pack.
+
+Water resistance
+
+Though the Motorola phones all offer some light water resistance (good for the occasional splash), only the Galaxy S5 has full water resistance. You can soak it in 1 m (3.3 ft) of water for half an hour, and it will keep on ticking.
+
+One-handed mode
+
+As phones get bigger, they become harder to use with one hand. But Apple's, Samsung's and LG's phones include one-handed modes to help out with that.
+
+Apple's one-handed mode slides the top of the screen down to the bottom, Samsung's shrinks the entire display and LG's just slides over the buttons on keyboards and number pads. And they're all optional.
+
+Split-screen multitasking
+
+One-handed use may be one of the downsides to huge phones, but one of the upsides is the ability to run two apps next to each other. Samsung's Multi Window (and Pop-up Window) and LG's Dual Window let you do just that.
+
+The only caveat is that both are only compatible with select apps.
+
+Storage
+
+All but the last three phones sell in multiple storage tiers.
+
+MicroSD
+
+Half of our handsets, though, let you augment their internal storage by popping in a microSD card.
+
+Cameras (megapixels)
+
+Megapixels are far from a perfect measurement of camera quality, but they do tell you how high a resolution each camera can handle. From experience, I'd say the Lumia, both iPhones and the Note 4 have the most standout rear cameras in this group.
+
+The Desire Eye is tailor-made for selfies, with its wide-angle 13 MP front-facing camera (that's a higher resolution than many phone's rear cameras). The Eye even has a dedicated selfie-button, so you can quickly jump into a selfie from anywhere.
+
+OIS
+
+Five of our phones' cameras have Optical Image Stabilization (OIS) onboard, to help reduce the effects of shaky hands.
+
+Dual LED flash
+
+Nine of these phones have dual-LED flashes, which can make flash shots look more colorful and evenly-lit than shots taken with single-LED flashes.
+
+The selfie-focused Desire Eye is the first phone I've seen with a dual-LED flash on both sides.
+
+Depth sensor
+
+The HTC One (M8) has a second rear camera devoted to sensing depth. It lets you apply effects to your shots, including one that simulates blurred-backgrounds that you'd get from a DSLR.
+
+Laser autofocus
+
+The G3's camera uses a laser to measure the distance between phone and subject (don't worry, it won't fry your cat) . On your end, it's as simple as tapping the point on screen that you want in focus. The G3 will (almost) instantly snap a pic. It's fast and dead simple.
+
+Active display
+
+The Moto X and Nexus 6 both have a display mode that, when the phone is sleeping, pulses your recent notifications (on otherwise black screens). Active Display (Adaptive Display on the Nexus) lets you quickly glance at alerts without fussing with your phone.
+
+Though those are the only phones in this group that natively support it, any of the Android phones with AMOLED displays can run third-party Active Display clones.
+
+Battery
+
+Battery capacities only tell you so much, but you can hit up our individual reviews of these phones (see below) for our impressions of their uptimes.
+
+Ultra/Extreme Power Saving Mode
+
+Samsung and HTC have nearly identical features that can keep your phone on the grid when your battery is getting low. Ultra (Samsung) and Extreme (HTC) Power Saving Modes limit your available apps, but can turn 10 percent juice into around 24 extra hours of uptime.
+
+Processor
+
+All but the iPhones run Qualcomm Snapdragon processors, which have become the industry standard for (non-Apple) smartphones.
+
+The lowest-powered is the Moto G: its Snapdragon 400 is also found in smartwatches like the Asus ZenWatch and LG G Watch R. Like the Moto G itself, it's mid-ranged, but gets the job done.
+
+RAM
+
+RAM ranges from 1 GB to 3 GB, with the LG G3's memory varying depending on which storage tier you choose (2 GB of RAM for the 16 GB storage model, 3 GB for the 32 GB model).
+
+Infrared
+
+If you want to use your phone as a remote control for your TV or cable/satellite box, then Samsung, HTC and LG have you covered.
+
+Software
+
+All but the iPhones (which run iOS 8) and Lumia 930 (Windows Phone 8.1) have Android at their core. The Nexus 6 and Moto X are already running Google's brand new Android 5.0 Lollipop, which gives Google's OS a "material design" makeover (though we're only looking at test builds on the Motos right now, the official rollout shouldn't be far behind). Most of the KitKat-running Android handsets will likely see Lollipop updates in the next few months.
+
+Release
+
+The pre-holiday launch cycle gave us some beastly phones this year, including the new iPhones, Note 4, Nexus 6 and Moto X.
+
+Starting price (full retail)
+
+Most of these phones will cost you a pretty penny if you buy off-contract.
+
+We included the Moto G because it's an exception to this rule. In every other way, it's the least impressive handset in this bunch, but its insane US$180 full retail price is its killer feature. It's a solid mid-ranged phone for a rock-bottom price.
+
+The OnePlus One looks like an amazing deal, but the company earned that big honkin' asterisk next to its price. Despite "launching" in June, you still can't go online and buy the damn thing. You'll need to either get an invite (which usually means knowing someone else who bought one) or order one during one of OnePlus' "pre-order windows." If you don't like jumping through hoops, then you can safely cross the OnePlus One off your list.
+
+Starting price (on-contract)
+
+If you prefer to buy on-contract, then you'll pay much less upfront.
+
+It's possible someone will offer the Moto G with a two-year contract, but that isn't a good idea. What you pay over the course of those two years will far outweigh its $180 upfront cost (you could say that about all of these phones, but even more so with the cheap Moto G).
+
+For deeper dives on (most of) these handsets, you can read our individual reviews:
+
+If you're looking for an even bigger screen, you can hit up the latest version of our Tablet Comparison Guide.
+
+Share
+
+Buy this on Amazon

@@ -1,0 +1,27 @@
+Scientists discover protein that boosts immunity to viruses and cancer
+HEADLINE_ARTICLE
+Scientists have discovered a protein that plays a central role in promoting immunity to viruses and cancer, opening the door to new therapies.
+
+Experiments in mice and human cells have shown that the protein promotes the proliferation of cytotoxic T cells, which kill cancer cells and cells infected with viruses. The discovery was unexpected because the new protein had no known function and doesnt resemble any other protein.
+
+Researchers from Imperial College London who led the study are now developing a gene therapy designed to boost the infection-fighting cells, and hope to begin human trials in three years.
+
+The study also involved researchers at Queen Mary University of London, ETH Zurich and Harvard Medical School. Their discovery, which has been six years in the making, is reported today in the journal Science.
+
+Cytotoxic T cells are an important component of the immune system, but when faced with serious infections or advanced cancer, they are often unable to proliferate in large enough quantities to fight the disease.
+
+By screening mice with genetic mutations, the Imperial team discovered a strain of mice that produced 10 times as many cytotoxic T cells when infected with a virus compared with normal mice. These mice suppressed the infection more effectively, and were more resistant to cancer. They also produced more of a second type of T cells, memory cells, enabling them to recognise infections they have encountered previously and launch a rapid response.
+
+The mice with enhanced immunity produced high levels of a hitherto unknown protein, which the researchers named lymphocyte expansion molecule, or LEM. They went on to show that LEM modulates the proliferation of human T cells as well as in mice.
+
+The researchers now aim to develop a gene therapy designed to improve immunity by boosting the production of LEM. With the support of Imperial Innovations, the technology commercialisation company for the College, the researchers have filed two patents. A company called ImmunarT has been formed with the aim of commercialising the technology.
+
+Professor Philip Ashton-Rickardt from the Section of Immunobiology in the Department of Medicine at Imperial, who led the study, said: Cancer cells have ways to suppress T cell activity, helping them to escape the immune system. Genetically engineering T cells to augment their ability to fight cancer has been a goal for some time and techniques for modifying them already exist. By introducing an active version of the LEM gene into the T cells of cancer patients, we hope we can provide a robust treatment for patients.
+
+Next we will test the therapy in mice, make sure it is safe and see if it can be combined with other therapies. If all goes well, we hope to be ready to carry out human trials in about three years
+
+The research was funded by the Medical Research Council, the Wellcome Trust and the British Heart Foundation.
+
+Dr Mike Turner, Head of Infection and Immunobiology at The Wellcome Trust, said:
+
+The discovery of a protein that could boost the immune response to not only cancer, but also to viruses, is a fascinating one. Further investigation in animal models is needed before human trials can commence, but there is potential for a new type of treatment that capitalises on the immune systems innate ability to detect and kill abnormal cells

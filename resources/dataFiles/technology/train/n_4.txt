@@ -1,0 +1,25 @@
+Why Netflix won't terminate your account for using a VPN, probably
+HEADLINE_ARTICLE
+Posted by Chris Martin
+
+Recently there has been a lot of media attention of Netflix's term and conditions around using a VPN and its right to terminate your account if you're caught out. But here's why Netflix won't ban you for pretending to be American. See: 42 new Netflix films and TV shows for April and Netflix Original series list for 2015.
+
+An eagle-eyed Reddit user discovered that hidden in the depths of the Netflix terms and conditions lived some words which meant the streaming giant could cut you off from a wealth of film and TV content if you were found to be using a VPN (virtual private network).
+
+Using a VPN such as Hola means pretending you're in another country to access the content available there. It's used in the UK as the US version of Netflix has a lot more content on offer. Here's what the Netflix's T&Cs state:
+
+"You may view a movie or TV show through the Netflix service primarily within the country in which you have established your account and only in geographic locations where we offer our service and have licensed such movie or TV show. The content that may be available to watch will vary by geographic location. Netflix will use technologies to verify your geographic location."
+
+"We may terminate or restrict your use of our service, without compensation or notice if you are, or if we suspect that you are (i) in violation of any of these Terms of Use or (ii) engaged in illegal or improper use of the service."
+
+There's some debate as to whether or not this is actually a recent addition to the terms but that's somewhat irrelevant for this article. See also: The 80 best movies on Netflix UK.
+
+I don't think it's likely that Netflix will actually kick anyone off its service for using a VPN despite having the power to do so. If you consider the situation from Netflix's point of view, the firm has customers paying a decent monthly fee for the service and with a decent percentage of them using VPN service to access content in other regions, terminating their accounts means cutting revenue and therefore profit.
+
+The only caveat is if the content providers get unhappy due to the licensing restrictions. However, Netflix is highly unlikely to be reporting back to its partners and informing them of users doing this. Under pressure Netflix may crack down on popular services such as Hola and may even terminate a few accounts so it can make a statement but I would expect it to do the bare minimum and only if it has to avoid losing revenue.
+
+If you're worried about your account being terminated then simply don't use VPN services and you'll be fine but I don't think there's anything to panic about at the moment.
+
+See also: Netflix vs LoveFilm Instant (Prime Video) comparison review: What's the best streaming service?
+
+Download your FREE issue of Android Advisor, the brand new monthly digital magazine dedicated to everything Android.

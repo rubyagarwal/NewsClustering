@@ -1,0 +1,57 @@
+Three ways the 2015 BMW S1000RR just saved my butt
+HEADLINE_ARTICLE
+The first edition S1000RR superbike saved my butt (and my passenger's) in a big way back in 2011, when this spectacular bit of video captured the moment a wide-running pickup ran me off the road and onto the gravel. It's only fair that we give the 2015 version the opportunity to save my butt as well, although perhaps this time with a larger safety margin. So we lined up an S1000RR at Philip Island, one of the world's fastest racetracks, and I went out and rode it as fast as I dared. And as impressive as the performance of this 199-horsepower monster is, even more impressive was the way its ingenious safety and ride assist systems prevented me from making a fool and a bum-up lawn ornament out of myself, time and time again.
+
+It's been a long time since I rode the motorcycle Grand Prix circuit at Phillip Island, and to be honest, while I fancy myself a pretty handy road rider I'm well aware that racetrack riding is an entirely different beast. But there's really no way to safely test a modern superbike anywhere near its limits on the road, so I jumped at the chance to take the new S1000RR out on the track.
+
+The 2015 S1000RR is an evolution of the 2010 bike that revolutionized the supersport class with its Jekyll-and-Hyde combination of superb street rideability and ferocious performance once you wound the revs up. This year's bike aims to make improvements in both street comfort and racetrack performance. A 7 horsepower increase and 4 kg weight loss program, for example, is balanced out by the first cruise control system and heated grips to be fitted to a superbike  and you know how happy these things make me.
+
+At 199 horsepower, with increased midrange torque, and with a top speed over 300 km/h (186 mph)  even if the dash will only ever show a maximum of 299  riding the S1000RR on track should rightly be an incredibly scary experience. And it might be, if you switched its unbelievably sophisticated rider assist and safety systems off. But I left everything in standard, and felt confident to go absolutely flat-out banzai on the track, because the bike was such a smartypants that it continually worked out what I was doing wrong when I stuffed up, and sorted it out for me at a speed that felt telepathic.
+
+Here's three examples of situations in which I should have ended up inspecting some shrubbery.
+
+Location: The exit of turn 12
+
+Situation: Turn 12 is a bit of a thriller  you're leaning over as far to your left as you dare, coming onto the main straight with the throttle wound open to the stop. The new RR has a much thicker torque band than the previous model, so the bike begins to wheelie in fourth gear at over 200 km/h, with the bike still leaned over.
+
+Solution: The new active suspension system (Dynamic Damping Control, or DDC, in BMW language) is reading the road surface, as well as all your rider inputs and six axes of movement of the motorcycle, and fine tuning the suspension every hundredth of a second to completely eliminate the compromise of a traditional suspension setup.
+
+DDC knows exactly what lean angle I'm on, and that I'm at full throttle, so it's instantly applying extra compression damping at the rear to minimize the bike's tendency to throw its weight backwards under acceleration. When the front wheel begins to lift anyway, wheel speed sensors and the control unit's pitch angle sensors immediately recognize that it's starting to wheelie, and begin a soft intervention in the fully electronic throttle to reduce torque. At the same time, the DDC system immediately reduces compression damping in the front forks so that when the wheel comes down, it gets a nice soft landing.
+
+Result: I come blasting out onto the pit lane straight with the front wheel hovering and tapping along the surface as I straighten the bike up and tuck in. At no stage do I feel the need to let off the throttle as I bang up through the gears on the clutchless quickshifter, and as a result I record a new personal high score of 281 km/h. Let's not forget, an epic leaned over wheelie at over 200 km/h may also have caused all females in the vicinity to lose control of their animal instincts and ravage me within an inch of my life ... So thanks, BMW! Crisis averted!
+
+Location: The entry to turn 4
+
+Situation: Ham-fisted downshifting as I emergency brake from about 210 km/h to about 80 for the corner entry.
+
+Solution: This year's quickshifter works both ways. Shift Assistant Pro, as it's called, allows not only clutchless upshifts on a positive or full throttle, it also manages clutchless downshifts on a trailing or closed throttle.
+
+It takes a bit of getting used to, but instead of grabbing at the clutch like your instincts are begging you to, you simply press down on the lever as you brake, and the S1000RR will aggressively blip the throttle to match engine speed to your wheel speed so the rear wheel doesn't lose traction from engine braking.
+
+Result: The bike stays directly in line, the engine blips sound deadly cool, I outbrake the guy in front of me and make a clean pass that probably almost looks like I know what I'm doing. It was all skill, that.
+
+Location: Lukey Heights (turn 10)
+
+Situation: After left-apexing over the crest of a hill at about 180 km/h, I've got to brake, downshift and prepare for a nasty right-hander at the bottom of a steep hill. I'm going way too fast, and braking on the downhill slope is making the rear wheel start to lift off the ground. Do I let off the brakes and go straight into the grass, or keep braking and risk giving myself the ejector-seat treatment and flying over the handlebars?
+
+Solution: Of course, I needn't have worried, the RR has me covered. Its smart Race ABS system knows exactly what's going on. It recognizes that the rear tire is off the ground and waving sideways in the air, and it softly modulates the front brake pressure to stop it coming up any higher while maintaining strong braking. Meanwhile, the DDC system has put maximum compression damping on the forks to stop them diving as much as possible, and softened up the rear suspension so that as I let off the brake, the rear wheel lands incredibly smoothly without a jolt.
+
+Result: Without needing to think about the clutch I've gone down two gears with the back wheel in the air. It stays at a controlled height, comes down softly and I'm ready in time to turn. A tenth of a second after I tip into the right-hander, the suspension is firm again, keeping the ride height as high as possible to maximize my ground clearance.
+
+It goes without saying, I think this is an extraordinary motorcycle. In a single 20-minute session on the track, going absolutely as fast as I dared, the S1000RR felt ridiculously unflustered at all times  my ride was all adrenaline and excitement, with absolutely zero panic.
+
+Probably the most significant upgrade is the DDC active suspension system. What a vastly impressive achievement this is. It's a $1,050 (AUD) option on an $24,800 motorcycle, and I can't overstate how much I like it.
+
+Suspension tuning is such a mysterious art that there's a good argument that the vast majority of riders shouldn't ever get access to their damping clickers  especially the idiots that just crank everything up to the max 'coz race suspension is supposed to be hard, man. Even fairly educated tamperers will never get it perfect. Every time you change something with the aim of improving suspension response in some particular situation, you're making the bike respond worse in some other situation  it's a constant compromise.
+
+The DDC system eliminates that compromise by adjusting your damping settings constantly to suit the situation. It stops fork dive on the brakes and rear squat on the throttle. It maximizes your comfort at all times with a philosophy of "as soft as possible, as hard as necessary," making the bike ride beautifully over rough road surfaces, but firming itself up in a fraction of a second when it detects you're leaning into a smooth corner. It keeps your steering geometry as constant as possible so that the bike turns in as nicely on the brakes as it does off them, and gives you the best possible ability to change lines in the corner once you're already leaned over. It's an invisible suspension guru, riding with you, and making constant adjustments.
+
+One notable area in which the 2015 S1000RR will get outgunned on a technology level is in its ABS system, which is not a lean-angle sensitive Cornering ABS system like the ones the 2015 Yamaha R1 and Ducati Panigale 1299 (not to mention BMW's own HP2) are running. But German S series Product Manager Sepp Mchler smiles and tells me "that's coming." And neither of those bikes will give you a lean angle high-score on the dash when you pull back into the pits (my best effort in just 20 minutes of riding was 55 degrees on the left, 49 on the right).
+
+Throughout this all-too-brief experience, the 2015 S1000RR struck me as an incredibly clever and well thought out machine that flattered my dodgy racetrack riding skills until I just about felt like a riding god. Of course, as soon as I started feeling chuffed with myself, Isle of Man TT champion Cameron Donald flashed underneath me in a corner like Id left the kill switch on.
+
+Back in the pits, he told me "yeah, you know whats fun about that? I was in rain mode. Mind you, rain mode still makes nearly 180 horsepower."
+
+Theres a lot more to learn about this bike, and hopefully well get a chance to spend more time with it on the road and shoot a bit of video. But letting it loose on the racetrack was absolutely sensational fun. Heres to more!
+
+Share

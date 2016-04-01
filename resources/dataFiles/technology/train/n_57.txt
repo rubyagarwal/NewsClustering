@@ -1,0 +1,131 @@
+2014 Superzoom Camera Comparison Guide
+HEADLINE_ARTICLE
+Gizmag looks at the specifications and features of some of the best long-zoom cameras around in 2014
+
+You don't need an interchangeable lens camera to have versatile shooting options. A new breed of long-zoom lens cameras can now have you photographing a wide scene one minute, and zooming in on a distant subject the next, all without making vast compromises in image quality. Gizmag compares the specifications and features of some of the best superzoom cameras on the market.
+
+Because the category of fixed long-zoom lens cameras encompasses a variety of camera types, so does this comparison. We have big-sensored zoom cameras, more traditionally specified bridge-cameras with monster zooms, and smaller cameras which will still get you close to the action. All of the selected cameras feature a fixed lens covering a range from wide angle to at least 200-mm equivalent.
+
+This might mean that some categories initially look like a mismatch of epic proportions. But all of these devices have a place in the superzoom camera market, and people can have very different requirements and priorities alongside wanting a big built-in zoom.
+
+The cameras we'll be looking at are:
+
+In each category the cameras will appear in the the same order as the list above, so if you get lost, you can always nip back up here to double-check what is where.
+
+Size
+
+There's a massive difference between the sizes and styles of these cameras. The Samsung WB2200F features a double-grip and dual shutter button design which emulates the handling of pro-DSLRs, while the Panasonic DMC-FZ1000, Sony RX10, and Canon Powershot SX60 HS look, and are sized, like entry to mid-range DSLRs.
+
+But just because you want a big zoom, doesn't mean you necessarily want a big camera. The Olympus Stylus 1 looks and feels more like a retro-styled mirrorless camera, while the Nikon S9700 is unapologetically a compact camera.
+
+The Olympus Stylus 1 and Sony RX10 both feature metal in their construction, with the Olympus featuring a metal exterior, and the Sony, which is also dust-and-moisture-resistant, boasting magnesium alloy top and front casings. Interestingly, Panasonic has opted not to shout about the construction of the rival FZ1000.
+
+Weight
+
+Unsurprisingly, the bigger cameras also tend to weigh more. However, it's worth noting just how much more the Panasonic DMC-FZ1000 and Sony RX10 weigh than their similarly proportioned competition. This is because, as we'll see next, they have bigger sensors which require bigger and heavier lenses.
+
+* While we've tried to give the weights of these cameras loaded and ready to shoot, Samsung has only provided the weight of the WB2200F without its battery, so there's probably another 90 g or so to add on to that one.
+
+Sensor size
+
+Cameras with fixed superzoom lenses have traditionally tended to use sensors around the 1/2.3-inch size. This is because it allows cameras like the Samsung WB2200F, Canon Powershot SX60 HS and Nikon S9700 to remain relatively small for their respective zooms. The big drawback is that smaller sensor size, also limits overall image quality.
+
+The Olympus Stylus 1 has a slightly larger 1/1.7-inch sensor. But it's the Panasonic DMC-FZ1000 and Sony RX10 which dominate this category by employing much larger 1-inch type sensors. This means they can deliver far greater image quality and will perform better in a variety of conditions, but also that zoom range has had to be limited to control size.
+
+Megapixel count
+
+Most people have realized now that they don't need a massive megapixel count to get better images, and that sensor size is far more important.
+
+Of these cameras the Olympus Stylus 1 has the lowest resolution with 12-megapixels, but that's going to be more than enough for most people, most of the time. The other cameras all come in around the 16 to 20-megapixel range, which again is going to be plenty unless you plan to crop heavily or produce massive prints.
+
+Processor
+
+As each camera manufacturer uses its own processors in its cameras, it's hard to compare them across brands. Therefore, it doesn't overly concern us that Samsung fails to shout about what sensor is in the WB2200F.
+
+That said, looking at which other cameras in a manufacturer's line-up use the same processor can give an indication of performance. For example, Sony also uses the BIONZ X in its A7 cameras, and the Olympus TruePic VI previously featured in the high-end OM-D E-M5.
+
+Lens focal range and aperture
+
+As we can see, the cameras with the smaller sensors have lenses which are able to zoom considerably more (in 35-mm format equivalent terms) than the large-sensored competition. While the Sony and Panasonic max out at 200-mm and 400-mm equivalent, the Samsung and Canon extend well beyond 1,000-mm equivalent. Even the diminutive Nikon reaches 750-mm equivalent.
+
+At the wide end of the zoom lenses, and potentially as important depending on the subject of your photography, all of these cameras are able to take in a wide scene. But it's the Samsung and Canon which go widest with their 20-mm and 21-mm equivalent lenses.
+
+But focal lengths are just one of the lens measurements that needs to be considered, another key one being maximum aperture. Here the Sony RX10 and Olympus Stylus 1 stand out as the only cameras here to feature a fixed F2.8 aperture. Though, to its credit, the Panasonic is has a longer zoom range and its maximum aperture is still only F2.8-F4. The other cameras all have maximum apertures of F5.9 or more by the time the reach their maximum zooms.
+
+As you would hope from cameras with long-zoom lenses, all of these cameras also feature optical image stabilization to help reduce the number of blurred images.
+
+Autofocus
+
+Our lineup of cameras all feature contrast-based autofocus detection, rather than the typically faster hybrid systems used in many mirrorless cameras. They're each capable of various focus modes including subject tracking and face detection. Cameras like the Sony RX10 are even able to automatically focus on the eye of a subject.
+
+It's also worth noting that the Panasonic FZ1000 uses Depth from Defocus technology, which evaluates two images with different sharpness levels, to achieve shorter focus times.
+
+Continuous shooting
+
+All of our cameras are capable of rattling off a quick succession of shots, at speeds which initially appear to give much more expensive DSLRs a run for their money. However, remember that the manufacturer-stated maximum speed is often without continuous autofocus and only for a limited number of shots.
+
+For example, the 12 fps of the Panasonic FZ1000 is reduced to 7 fps if shooting in AF-C, and the Olympus Stylus can only continue at its 7 fps for a total of 25 RAW shots. Similar limitations apply to most cameras.
+
+ISO range
+
+It's no surprise that the cameras with bigger sensors wipe the floor with the others when it comes to ISO range. This means they will perform better in lower light situations and produce cleaner images with much less noise than their rivals with smaller sensors.
+
+We've tried to stick to the manufacturers' published native ISO ranges, but many of these can be extended when needs must, an example being the Panasonic FZ1000 which can shoot at an extended ISO 25,600.
+
+Video resolutions
+
+The Panasonic FZ1000 is the stand-out winner in terms of sheer video resolution as it is able to shoot 4K video (3,840 x 2,160 pixels) at 30/25 fps, something none of the other cameras in our selection are able to match.
+
+Once resolution demands are lowered to Full HD 1080p recording, the Sony RX10 and Canon SX60 HS are able to equal the 60 fps of the Panasonic, while the other cameras can only record it at a maximum of 30 fps.
+
+Wireless
+
+With built-in Wi-Fi capability across the board, sharing images from any of these cameras should be easy. They can all also be controlled remotely via a smart-device running the respective app. NFC makes the pairing process easier with suitably enabled devices for all of the cameras other than the Olympus Stylus 1 or the Nikon S9700.
+
+Interestingly, of our selection it's only the Nikon S9700 which features built-in GPS for geotagging images and logging travel routes.
+
+Viewfinder
+
+Electronic viewfinders on all but the Nikon S9700 mean users have the option of composing shots in a more traditional way with the camera raised to their eye. This could be important when shooting at longer zooms as it often makes the camera steadier than holding it out to see the rear monitor.
+
+Of the viewfinders, the 2,359k dot one on the Panasonic FZ1000 has the highest resolution followed by the Sony RX10 and Olympus Stylus 1 (both 1,440k dots) and the 922k dots of the Canon SX60 HS. The viewfinder on the Samsung WB2200F has just 200k dots.
+
+Monitor
+
+While 3-inch monitors appear to be order of the day, there are a number of key differences which are worth highlighting. Most of the cameras feature comparable resolutions, but again it's the Samsung WB2200F which lags behind with its 460k dots. The Sony RX10 monitor may have a higher dot count, but this is because it uses additional white sub-pixels to improve brightness.
+
+The monitors on the Panasonic FZ1000 and the Canon SX60 HS are fully articulated while those on the Sony RX10 and Olympus Stylus 1 can be tilted to help out when shooting in awkward positions. The screen on the Olympus is also a touchscreen, which can be used for navigating menus and touch AF. The Samsung WB2200F and Nikon S9700 have fixed monitors.
+
+Flash
+
+Most of these cameras feature both a built-in flash and a hot-shoe for use with an external one. However, it looks like the size limitations of the Nikon S9700 meant there was no space for a hot-shoe  though we don't know what excuse Samsung would give for omitting one from the much-larger WB2200F.
+
+File-type
+
+Not all of these cameras can shoot both JPEG and RAW images, which is likely to be a deal-breaker for some photographers. The Nikon S9700 and Samsung WB2200F are JPEG only, so if you are someone who likes the ability to make more adjustments in post-processing, they might not be best for you.
+
+Storage media
+
+As with most cameras nowadays, you can use SD/SDHC/SDXC memory cards with any of these. The Sony RX10 also has the ability to accept Memory Stick Duo cards in its dual compatibility slot.
+
+Battery
+
+While most of these cameras will last from somewhere around 300-400 shots on a full battery charge, the Samsung WB2200F is the standout performer and is said to be able to carry on shooting for up to around 600 shots.
+
+Price
+
+As you've probably guessed as we compared various specifications, these cameras come in at a selection of price-points, from the Nikon S9700 which will set you back just US$350, to the Sony RX10 which now sells for around $1,000. When we initially compared it with the Panasonic FZ1000, the Sony was $1,300.
+
+Summing up
+
+If you want a long-zoom camera which doesn't compromise on image quality, and you don't mind carrying around a reasonably large device, it's the Panasonic FZ1000 or Sony RX10 for you. Of the two, the ability to shoot 4K video or the extra reach of the 25-400-mm equivalent lens could be enough to swing it in favor of the Panasonic, while a liking for the dust-and-moisture-resistance, or magnesium alloy construction of the RX10, could see you opting for the Sony.
+
+For those who want a longer zoom, and don't mind image quality taking a bit of a knock, there's the Canon Powershot SX60 HS or Samsung WB2200F, which zoom to almost ridiculous levels. The Canon is a solid-performing traditional bridge-camera with a massive zoom, while the double-grip of the Samsung WB2200F could be enough to sway people who enjoy that handling experience.
+
+The Olympus Stylus 1 is also an intriguing proposition with its slightly larger sensor and F2.8 fixed maximum aperture zoom lens. It doesn't hurt that the Stylus 1 also looks more stylish than most of its rivals in this category, and is small enough to be portable. Finally, if you're looking for a big zoom that fits in your jacket pocket, and don't mind making the compromises that go with that, there's the Nikon S9700.
+
+Ultimately there's no one long-zoom camera to rule them all, instead it's about identifying what features are important to you and the way you want to shoot, and finding the camera which ticks the most boxes.
+
+Share
+
+Buy this on Amazon

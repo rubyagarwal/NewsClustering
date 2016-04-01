@@ -1,0 +1,225 @@
+2014 Smartwatch Comparison Guide
+HEADLINE_ARTICLE
+Gizmag compares some of the best smartwatches you can buy today
+
+Wearables still aren't quite mainstream products, but smartwatches did grow in popularity  not to mention quality  this year. Are you trying to pick one for the holidays? Join Gizmag, as we compare six of the best smartwatches you can buy today.
+
+For this comparison, we picked six of the best (or best values) of today's smartwatches:
+
+Asus ZenWatch
+
+Samsung Gear S
+
+Motorola Moto 360
+
+LG G Watch R
+
+Pebble Steel
+
+Pebble
+
+You'll notice that we left out dedicated fitness trackers (like those from Jawbone and Fitbit), as well as two-parts-fitness-tracker, one-part-smartwatch hybrids like the Gear Fit and Microsoft Band. It's possible we'll look at them in a separate post, but right now we're focusing on full-fledged smartwatches.
+
+You'll also notice that the upcoming Apple Watch is missing. It doesn't release until 2015, and we're only looking at watches that you can buy today.
+
+Software
+
+Half of our watches run Android Wear, Google's card-based and voice-based wearable software. Samsung is going in its own direction with its Tizen OS for wearables, and Pebble has always run its own software.
+
+None of the three platforms have the app selections that you're used to on your smartphone or tablet, but I find Android Wear to have a more robust library than the other two platforms.
+
+Standalone wireless
+
+All of these watches pair with a phone over Bluetooth, but the Gear S is the rare watch that can also pair with that phone over the internet. It has a SIM card and 3G signal, giving you the option of leaving your phone at home.
+
+While leaving your phone at home is a nice option, it also puts the spotlight on the things the Gear S can't do (read on). It also, of course, requires a separate data plan.
+
+Android phone compatibility
+
+All of these watches are compatible with Android phones, but the Gear S requires a very specific kind: a Samsung Galaxy phone, running Android 4.3 or higher.
+
+iPhone compatibility
+
+Only Pebble plays nicely with iPhones. If you're an iPhone owner, though, your smartwatch options are going to get a lot more interesting early next year.
+
+Windows Phone compatibility
+
+None of these watches are compatible with Windows Phones.
+
+Size
+
+Pebble Steel is going to leave the smallest impression on your wrist, while the huge Gear S will leave the biggest.
+
+The Asus ZenWatch isn't exactly tiny, but it sits on the smaller end of the Android Wear spectrum.
+
+Weight
+
+The Pebbles are the lightest in this group, but the Moto 360 is also very light for its size.
+
+Also note that these weights are for the watches' main bodies only, and don't include their bands.
+
+Build (main body)
+
+Four of our watches have stainless steel bodies, while the Gear S and Pebble are made of plastic.
+
+Band material
+
+These are the materials you'll find in the default bands for each watch. If you want stainless steel bands on the Moto 360 and Pebble Steel, you'll need to pony up a little more.
+
+Swappable bands (22 mm)
+
+All but the Gear S and Pebble Steel let you swap those default bands for standard 22 mm ones. You can still switch out bands on the Gear and Steel, but you're limited to their proprietary options.
+
+Colors
+
+The original Pebble gives you the most color options, though you can also mix things up on the other watches by swapping bands.
+
+Physical buttons
+
+The Pebbles each have four physical buttons, while the other four watches get by with one.
+
+Touch screen
+
+... that's because the Pebbles lack touch screens, relying entirely on those physical buttons for navigation.
+
+Color display
+
+The Pebbles also have black & white displays.
+
+Display (size)
+
+The Gear S and Moto 360 have the biggest screens, while the Pebbles give you the smallest in this group.
+
+The round screens on the Moto 360 and G Watch R are striking, though you'll notice the Moto's has a small sliver cut out at the bottom.
+
+Display (resolution)
+
+The Gear S also has the sharpest screen, though the ZenWatch isn't far behind.
+
+With a much lower resolution, text is noticeably pixelated on the two Pebbles.
+
+Display (type)
+
+These are the display technologies used for each watch. The low-powered Sharp LCD ("e-paper") used on the Pebbles is less like something you'd see on a smartphone, and closer to what you'd see on a Kindle e-reader.
+
+Curved display
+
+The ZenWatch and Gear S both have curved screens, but the Gear's is much more pronounced. You have to look closely at the ZenWatch to notice its 2.5D curve.
+
+Always-on display
+
+All six watches give you the option of leaving ambient clock faces on at all times (for the Pebbles, you can't do anything but).
+
+Voice control
+
+This is one of the biggest advantages for Android Wear, as its Google Now voice control can do much more than the Gear's S Voice.
+
+The Pebble watches have no microphones, and therefore no voice control.
+
+Virtual keyboard
+
+One of my favorite Gear S features is its virtual keyboard. It lets you hammer out texts and reply to emails, much like you would on your phone. It's hard to hit the right letters on its 2-in screen (and the curve doesn't make things easier), but its auto-correct is good.
+
+Notifications
+
+All six watches will buzz your wrist and display notifications from your phone. This is still one of the main purposes of smartwatches.
+
+Receiving full emails
+
+You'll get email notifications on all of these watches (unless you choose to mute them), but only the Android Wear watches display full emails  even longer ones. The Gear and Pebbles cut off longer messages.
+
+Sending text messages
+
+The Android Wear watches and the Gear let you send text messages with your voice, and the Gear also gives you the option of rapping out an SMS on its keyboard.
+
+Unless you count canned (pre-written on your phone) responses, Pebble doesn't let you compose any messages.
+
+Sending emails
+
+Things are slightly different when it comes to sending emails: the Gear S only lets you reply to them. You can't compose a brand new email on the Gear, either by touch or voice.
+
+This is what I meant when I said the Gear's mobile data accentuates the ways that it can't replace your phone.
+
+Creating reminders
+
+I have no idea why, but Samsung removed the ability to create reminders and calendar events from the Gear S (you could do that on older Gears). I see this as another fundamental smartwatch feature  and something that Android Wear watches do very well.
+
+Fitness tracking
+
+All of these watches can serve as all-day pedometers, tracking your steps and notifying you when you reach your goals. They can also log individual workouts.
+
+Heart rate sensor
+
+Four of them also have built-in heart rate sensors. Most of them sit on the watch's backside, but the ZenWatch's is on its front bezels (you'll need to place two fingers on its front to read your pulse).
+
+The Moto 360 is the only watch in this group that automatically tracks your pulse in the background all day long. It can also give you daily summaries, and weigh them against recommended time spent with an elevated heart rate.
+
+Water resistance
+
+All of these watches offer some kind of water resistance. This is one of the few drawbacks with the ZenWatch, as it's only protected against splashes and occasional streams of water  not full submersion.
+
+Song ID
+
+A Shazam-like music identification feature makes a lot of sense on a smartwatch, but none of these watches support this natively. Android Wear does, however, have a Sony-made app called TrackID that works just fine.
+
+Battery
+
+When the Moto 360 launched, its battery life was a concern, but a software update now has it more easily lasting a full day. The rest of the watches are also easily all-day (or more) devices.
+
+This is a big advantage for Pebble, as you'll only need to drop it on a charger once or twice a week.
+
+Wireless charging
+
+The Moto 360 is the only watch in this bunch that supports wireless charging. It includes a nifty charging dock that turns it into a faux desk clock when you aren't using it. It also supports the Qi standard for third-party wireless chargers.
+
+The other watches use either magnetic snap-on chargers, similar to MacBooks' MagSafe (Pebble), small charging docks (ZenWatch and G Watch R) or snap-on charging cradles (Gear).
+
+Camera
+
+Samsung put cameras in a couple of its older Gears, but none in this group let you take pictures. Most of them can, however, serve as remote controls for your phone's camera.
+
+Storage
+
+4 GB seems to be the standard storage on touch screen watches. And since most apps only take up a few MBs of space at the most, this should be more than enough.
+
+This is one of Pebble's biggest drawbacks: it can only store eight apps (including third-party watch faces) at a time. That puts an unusually low ceiling on what you can do with it.
+
+Processor
+
+Wearable operating systems are so light that smartwatches don't need ultra-powerful processors. Performance isn't a concern in any of these watches.
+
+Most Android Wear watches run on Qualcomm's Snapdragon 400  the same chip found in the Moto G smartphone. But in an apparent cost-cutting move, Motorola opted for an older Texas Instruments OMAP processor in the Moto 360. Its performance is fine, but its weaker power management may have contributed to those initial battery life concerns.
+
+RAM
+
+Half a gig of RAM is the order of the day in touchscreen smartwatches. The lower-powered Pebble gets by with 128 KB.
+
+Speaker
+
+You can talk to Android Wear watches, but they won't talk back to you. Samsung's Gear can, if you want it to.
+
+Phone calls
+
+That means the Gear S is also the only one that lets you take and make phone calls on the watch. The other watches notify you of calls, and let you answer or reject them, but you'll need to grab your phone for the actual call.
+
+Release
+
+The original Pebble is nearly two years old, but we included it for its combination of price (see below) and established software ecosystem. The rest of these watches launched this year, most of them in the last few months.
+
+If Pebble follows its pattern from the last couple of years, we could potentially see a new model right after New Year's, at CES 2015.
+
+Price
+
+If you're shopping in the US$100 range, then the plastic Pebble is a solid deal (along with the Martian Notifier, which is also worth a look).
+
+You won't pay less than $200 for any of the other watches in our group. The Asus ZenWatch, though, might provide the best combination of price, style and features. It's among the cheapest Android Wear watches  and it's also one of the best-looking. For $50 more, the Moto 360 is also stylish (if a little bulky) and for $100 more, the G Watch R adds a diver's watch theme (and fully round screen) to Android Wear.
+
+The Gear S doesn't come cheap. It runs between $300-400 full retail (carriers are pricing it differently), and also requires its own data plan (they're priced like tablet plans). Carriers also offer the Gear discounted upfront with a contract or installment plan.
+
+For deeper dives on each of these watches, you can hit up our full reviews:
+
+If you're shopping for other mobile devices this holiday season, you can also check out our latest Smartphone Comparison Guide and Tablet Comparison Guide.
+
+Share
+
+Buy this on Amazon

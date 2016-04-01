@@ -1,0 +1,103 @@
+New 12-in MacBook vs. 11-in MacBook Air (2015)
+HEADLINE_ARTICLE
+Gizmag compares the features and specs of the new 12-in MacBook (left) and the 11-in MacBook Air
+
+Last month Apple finally announced a MacBook Air with Retina Display  only its just called "the new MacBook." Apple also announced a new version of the classic MacBook Air, which is now basically Apple's budget notebook (though no MacBook is really "budget"). Confused? We don't blame you. Let's break down their features and specs to see if we can clear things up.
+
+Size
+
+The new MacBook is 3 percent taller and 6 percent narrower than the 11-in MacBook Air. One of the new model's killer features, though, is that it's 23 percent thinner the already-svelte MBA.
+
+Weight
+
+Holy cow, are these Core M machines light. The new MacBook, despite having a bigger screen, comes out at 15 percent lighter than the MacBook Air.
+
+Build
+
+It looks a little different this time around, but the new MacBook still has an aluminum unibody build.
+
+First appearance of current design
+
+The new MacBook is an all-new design, and while the MacBook Air's internals have been updated annually, its external design hasn't changed since late 2010.
+
+Trackpad
+
+Both notebooks have Apple's outstanding glass trackpad on board, but the new model has the new "Force Touch" tech  which uses sensors and haptic feedback to make the non-moving pad feel like it's moving (for more, you can read our 2015 Retina MacBook Pro review).
+
+Colors
+
+This is the first time in recent memory that Apple has sold a MacBook in multiple colors. You can choose from silver, space gray or gold for the new 12-in MacBook.
+
+Display (size)
+
+The new MacBook gives you about 13 percent more screen than this 11-in MacBook Air does.
+
+And if you're curious, the new one gives you about 19 percent less screen than Apple's 13-in laptops (MacBook Air and Retina MacBook Pro) give you. So it's more in line with the legacy 11-inchers than it is the 13-inchers.
+
+Display (resolution)
+
+The new MacBook isn't just lighter and thinner, it finally brings a Retina Display to an ultra-light Apple notebook. Its pixel density is about 67 percent sharper than the screen on this MacBook Air.
+
+Processor
+
+That Core M processor opens the door to that ridiculously light and thin build, but you won't be getting pro-level power out of it. We wouldn't call the Air "pro" either, but it does have a more powerful processor.
+
+There's also a Core i7 made-to-order configuration that you can choose for the MacBook Air. There are a couple of faster Core M configurations for the new MacBook as well.
+
+RAM
+
+One advantage is that the new MacBook ships with 8 GB of RAM, while only configurable models of the Air jump up to 8 GB.
+
+Storage
+
+The new model also starts at 256 GB storage, while the Air's entry-level model gives you half of that.
+
+Graphics
+
+The MacBook Air also has a better integrated GPU.
+
+SD
+
+Neither lets you expand that with discreet SD card storage (like the Transcend JetDrive Lite), as there are no SDXC slots in sight.
+
+USB ports
+
+Yes, Apple put only one port in its new MacBook. Apart from a tiny headphone jack, its USB Type C connector is the only place you can plug anything in. Until USB-C becomes ubiquitous (which is clearly Apple's goal here) adapters are going to be an essential part of your purchase (as well as essential to drop in your laptop bag before you leave home).
+
+Standalone charging port
+
+That USB-C port is also used for charging the new MacBook. That means you can forget about powering the notebook while connecting to, say, an external hard drive or SD adapter.
+
+Thunderbolt
+
+The Air gives you a Thunderbolt port, though the standard appears to be headed towards obsolescence (not that it ever really caught on anyway).
+
+Video out
+
+Neither has an HDMI port, but the MacBook's USB-C is natively compatible with DisplayPort, while the MacBook Air's Thunderbolt is compatible with Mini DisplayPort.
+
+Battery
+
+Apple is estimating the same "up to 9 hours of web use" for both laptops.
+
+Webcam
+
+The MacBook Air gives you a higher-resolution webcam.
+
+Software
+
+Of course both machines run OS X Yosemite.
+
+Release
+
+The new MacBook Air launched after Apple's latest event, in March. The new MacBook is set to ship on April 10.
+
+Starting price
+
+The MacBook Air has a last-gen display and isn't as light and thin, but it does have a couple advantages. In addition to having a faster processor and GPU, as well as a wider series of ports, it also starts at US$400 cheaper. Though if you jump up to the same 256 GB storage found in the new MacBook, the Air is only $200 cheaper.
+
+For more, you can check out Gizmag's new MacBook review.
+
+Share
+
+Buy this on Amazon

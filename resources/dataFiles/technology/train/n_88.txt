@@ -1,0 +1,261 @@
+Anlisis: Samsung Galaxy S5
+HEADLINE_ARTICLE
+Uno de los smartphones ms esperados de este 2014 finalmente ha llegado. Anunciado en el MWC 2014, el Samsung Galaxy S5 ya est disponible en tiendas y cientos de personas ya lo tienen en sus manos. Si ests leyendo esto, significa que an ests esperando e investigando para ver si este es el smartphone ideal para ti.
+
+Como cualquier otro dispositivo de alto perfil, el Galaxy S5 genera entusiasmo, pasin y algunas veces controversia. Las expectativas son muy altas y cualquier decepcin se puede convertir en ruidosa y virulenta. Es importante tener en cuenta que las expectativas no hacen que un producto sea bueno o malo, sino lo que un slido grupo de funciones (o la ausencia) pueden hacer.
+
+En esta resea me enfocar en el uso del dispositivo en el mundo real, y compartir con ustedes mi experiencia al usar el Galaxy S5 como mi telfono principal. Listos?
+
+Especificaciones Importantes del Galaxy S5
+
+Contexto
+
+Antes de que profundicemos en lo detalles de esta resea, djenme decirles cmo uso mis telfonos: la mayor parte del tiempo uso mi telfono para lo que se utiliza normalmente un smartphone: correo electrnico, redes sociales, fotos, leer noticias/navegar en la red  en ese orden. Rara vez corro juegos que requieran muchos recursos, aunque tal vez pruebo uno nuevo cada semana. Tampoco uso muchas aplicaciones y me disgusta tener muchas cosas corriendo en segundo plano. Tengo 10-15 aplicaciones principales que en realidad uso con regularidad.
+
+Tengo telfonos iPhone y Android, y al parecer no me importa mucho usar el telfono con una sola mano todo el tiempo. Quiero decir, por lo general lo uso con una mano, pero no me encuentro en casos extremos en donde es absolutamente necesario que mi pulgar llegue a la esquina opuesta de la pantalla. Me gustan los telfonos pequeos por su compacidad y me gustan los telfonos grandes porque escribo ms rpido en ellos, adems de que la experiencia con una pantalla grande es bastante satisfactoria.
+
+Diseo Industrial
+
+El diseo industrial del Galaxy S5 es una evolucin de la generacin previa. En general, el marco y el diseo es bastante similar. Por supuesto, el nuevo Galaxy S5 es visiblemente ms grande que su hermano S4. El S5 luce ms rectangular, adems de que es ms largo y ancho. Cualquier usuario de Galaxy S4 se sentir como en casa al momento de usar el S5.
+
+Proteccin contra polvo y agua
+
+Vamos a comenzar con la parte emocionante. Dado que casi la mitad de los smartphones mueren debido a la exposicin al agua, decidir ofrecer la proteccin IP67 a prueba de agua y polvo es absolutamente la decisin correcta. No creo que no haya alguien que no quiera esto, y estoy muy complacido de que Samsung est ingresando a un mercado que anteriormente era gobernado por Sony. Denle un vistazo a la tabla de cdigos IP para conocer ms sobre este tema.
+
+IP67 es un cdigo de dos dgitos que significa que el Galaxy S5 est protegido de partculas de polvo (6) y que puede ser sumergido en hasta 1 metro (3 pies) de agua por 30 minutos (7). Samsung dice que es resistente al agua, lo que podra llevar a algunos usuarios a pensar que slo resiste salpicaduras de agua, pero de hecho, en las especificaciones IP67 significa que realmente puedes nadar con el por 30 minutos. En cualquier caso, un poco de cuidado no daa a nadie, y lo ms probable es que en alguna ocasin se vea expuesto a agua, ya sea en el cuarto de bao, en la cocina o en la alberca.
+
+Visin general del diseo exterior
+
+La cubierta posterior sigue utilizando plstico, pero en esta ocasin Samsung ha optado por un plstico con textura que lo hace lucir mucho ms atractivo. La textura tambin puede hacer que el plstico sea menos resbaladizo si tienes los dedos ligeramente sudados o con grasa, y no es propenso a mostrar rastros de huellas dactilares, lo que ayuda a mantener el telfono de aspecto limpio. Incluso la versin blanca de la cubierta posterior tiene un color perla y su tono va a cambiar un poco dependiendo del ngulo con el que se mire. Como de costumbre, la cubierta posterior es removible y puedes acceder libremente a la batera, la tarjeta SIM o la tarjeta micro-SD.
+
+En la parte inferior del telfono encontrars un gran conector USB 3.0 que est oculto detrs de una cubierta. El puerto fue incluido por primera ocasin en el Galaxy Note 3 y es evidentemente ms grande que el micro-USB 2.0 clsico que por muchos aos hemos usado en nuestros telfonos. La presencia de una cubierta es un poco molesto cuando llega la hora de cargar el dispositivo, pero ya que el diseo es a prueba de agua, es fcil comprender. Ms sobre esto ms adelante.
+
+El mdulo de la cmara se ha vuelto un poco ms complejo, y aunque an tiene una cmara de 13 Megapixeles, el mdulo de la cmara ahora sobresale an ms si se compara con el Galaxy S4. Para algunos usuarios, no hay duda de que esto podra dar la impresin de poder pero sin afectar mucho el diseo general y el equilibrio del telfono.
+
+Justo bajo el mdulo de la cmara, vers un flash LED y un monitor de ritmo cardiaco. Como vern ms adelante, el monitor de ritmo cardiaco usa luz LED para ver el flujo y medir tus biodatos.
+
+En la parte inferior de la cubierta posterior, hay una abertura para el altavoz que luce similar al del Galaxy S4 desde el exterior. Cuando abres la cubierta, vers que la parrilla del altavoz del Galaxy S5 es de hecho ms pequea. Tambin he notado la presencia de un sistema de carga inalmbrica, y aunque Samsung no ha mencionado un accesorio como este en su lnea de productos, ellos han confirmado a Ubergizmo que la cubierta de carga inalmbrica se lanzar en el futuro.
+
+No es de metal.. as que?
+
+Prcticamente cada ao, los materiales plsticos contra materiales nobles crear acalorados debates en los foros, y esto no es diferente en este sitio. Definitivamente hay un choque cultural entre los que quieren sentir el metal/vidrio y los que no les importa mucho.
+
+La buena noticia para mi como crtico es que ustedes son extremadamente capaces de apreciar y decidir sobre qu diseo les gusta ms: puedes simplemente tomar uno de esos codiciados telfonos en tu mano y decidir si la calidad de construccin es suficientemente buena para ti.
+
+Creo absolutamente que todas las personas deben conseguir un telfono que les proporcione una gran sensacin, lo que sea que eso signifique para cada uno de nosotros. La buena noticia es que realmente hay algo para todos. Como vidrio? El Sony Xperia Z2 te har feliz. Aluminio? El HTC One M8 puede ser tu favorito. Quieres un telfono ms ligero con batera extrable? El Galaxy S5 es para ti.
+
+Absolutamente no hay necesidad de ser crtico y dogmtico de lo que otras personas compran  He odo esto muy a menudo. Hay claras ventajas y desventajas para cada diseo. Los telfonos de vidrio son ms pesados a medida que se hacen ms grandes y tienden a romperse en caso de una cada. El aluminio puede rayarse con facilidad o sufrir abolladuras permanentes si se cae o golpea. El plstico no se siente como premium, pero es mucho ms resistente a cadas y araazos, y una cubierta posterior removible se puede reemplazar si es necesario. Tambin es notablemente ms ligero.
+
+Pantalla (excelente+)
+
+La pantalla Super-AMOLED de 5.1 pulgadas del Samsung Galaxy S5 es hermosa. Los colores son muy vivos y los niveles de negro superan a cualquier pantalla basada en LCD. No hay duda de que luce sorprendente y pase muy buen rato usndola en general, pero especialmente al ver pelculas y mostrar fotografas.
+
+Med el brillo en 599 nits, que es mucho ms alto que el Galaxy S4 (491 nits), e incluso que el HTC One M8 ms reciente (450 nits), y lo hace mientras tiene mejores niveles de contraste. Por primera ocasin, le doy a esta pantalla una calificacin de ms que excelente.
+
+Samsung tiene un modo automtico que funciona de esta manera: puedes ajustar el brillo para que funcione en tu actual condicin de iluminacin. Conforme cambie la luz del entorno, el telfono har su mejor esfuerzo en preservar un nivel similar de luminosidad. Me gusta, y ya que por lo general funciona bien no tengo que hacer muchos ajustes a esta opcin, a menos que quiera hacer algo muy especfico.
+
+Cmara (excelente)
+
+Cuando se lanz el Galaxy S5 en el MWC 2014 en Barcelona, Samsung dej en claro que la cmara era una prioridad. Con ese fin, el equipo de Samsung Mobile ha hecho varias mejoras para ir ms all que slo un nmero de megapixeles que no se correlaciona directamente con la calidad de imagen. Hay dos aspectos muy importantes de la cmara del GS5, y tambin cubrir otros elementos.
+
+Hemos publicado en Flickr algunos ejemplos de fotos del Galaxy S5 de tamao completo, sin modificar, en caso de que tengan curiosidad. Y tambin hay ejemplos de videos 4K 1080p en YouTube.
+
+Enfoque automtico de deteccin de fases (rpido!)
+
+He admirado la calidad de imagen que algunos smartphones producen, pero siempre he pensado que esa calidad nunca debe de ser a expensas de la velocidad de enfoque automtico en un dispositivo mvil. Eso es simplemente debido a que fallars al capturar el momento si la cmara persigue el enfoque. Es as de simple.
+
+La deteccin de fases es un mtodo popular (el otro es basado en contraste) para detectar si la imagen actualmente est enfocada o no. El Galaxy S5 es el primer telfono mvil que se beneficia de tener un sensor de deteccin de fases integrado directamente en el sensor de imagen.
+
+Anteriormente, la deteccin de fases estaba integrada en cmaras DSLR y por aos fue un sensor de imagen separado. Cuando el sensor de deteccin de fases y el sensor de luz se combinaron en uno, otras categoras de dispositivos comenzaron a beneficiarse de esto, comenzando con las cmaras compactas de gama alta, y ahora los mviles.
+
+Ya habamos visto lo rpido es el enfoque automtico del Galaxy S5 (entre 1.5 y 3 veces ms rpido que el Galaxy S4), y se siente bien en el uso diario. Tengan en cuenta que pronto se acostumbrarn, esto se siente como la nueva normalidad  es decir, hasta que utilice una cmara con enfoque automtico ms lento.
+
+Fotografa HDR de un slo disparo en tiempo real (excelente)
+
+Fotografa HDR significa alto rango dinmico (High Dynamic Range). La idea detrs de HDR viene del hecho de que el rango o soporte de la intensidad de la luz que puede ser capturada es mucho menos de lo que existe en la naturaleza.
+
+Por ejemplo, si he usado algunas unidades arbitrarias de unidades de energa de luz, podra ir desde 0 (oscuridad total) a 10,000 (el mximo de energa recibida del sol a la tierra), mi cmara puede ser capaz de capturar los datos dentro de un rango de 20 unidades debido a que es lo que el sensor de mi cmara puede ver.
+
+Al ajustar el ISO y la exposicin, puedo seleccionar el soporte de la luz que la cmara puede ver en un momento dado: [020] o [2040] o [4060] etc La fotografa HDR tradicional usa mltiples disparos con diferentes ajustes para ampliar la gama. En este ejemplo, dos fotos reciben un rango de 40 unidades, y tres fotos llegaran a un rango de 60.
+
+Y esto funciona muy bien, pero el principal problema con el HDR multi-disparos es que los objetos que estn en movimiento se ubicarn en diferentes posiciones en cada disparo, lo que resulta en una falta de definicin en general. Adems, la aplicacin de la cmara ahora tiene que leer y combinar datos de 3 fotos en vez de una, lo que es lento. Fcilmente se puede percibir la diferencia en el tiempo de procesamiento en tu actual cmara al cambiar a HDR.
+
+El HDR en tiempo real de Samsung no captura mltiples disparos. En lugar de esto, usa datos de HDR recogidos por el sensor que en realidad puede ver una gama ms amplia de energa de luz en comparacin a la tpica foto .jpg. Samsung no revel cul es el soporte, pero podra ser el doble de lo que un disparo normal podra capturar.
+
+Slo una imagen HDR necesita ser procesada y el resultado neto arroja una foto que es menos propensa a estar sobre-saturada o insuficientemente iluminado en reas debido al fuerte contraste de fondo. Y debido a que no necesita combinar mltiples archivos, el Samsung Galaxy S5 es rpido como para mostrar en tiempo real cmo luce la imagen HDR final para que puedas hacer la foto perfecta la primera vez.
+
+Fotografa con poca iluminacin (grandiosa, pero)
+
+Han pasado muchas cosas en lo referente a la fotografa con poca luz desde que sali el Galaxy S4, y el LG G2, el HTC One M8 y muchos telfonos Nokia han superado con facilidad tanto al Galaxy S4 como al iPhone 5S. En un futuro prximo, se espera que el XPERIA Z2 tenga un alto rendimiento con fotografas con poca luz.
+
+El Galaxy S5 produce unas grandiosas fotos con poca iluminacin para tratarse de un smartphone. Sin embargo hay una advertencia a esto: como pueden ver, algunas de las fotos se ven muy hermosas, pero el Galaxy S5 toma varios segundos para capturar una foto con poca luz  es mucho ms lento que el HTC One M8, y es tambin ms lento que lo que pueden ofrecer LG y Nokia. En la prctica, esto significa que es mejor para escenas estticas. Olvdate de los objetos en movimiento con poca luz.
+
+Como he publicado estas fotos en los ltimos das, algunas personas sealaron que aunque lucan muy bien en lo referente a colores, los bordes mostraban claras huellas de post-procesamiento. Es cierto, y esto es cierto para la mayora de las cmaras de hoy en da  en diversos grados.
+
+Tienda a pensar que las imgenes procesadas se ven mejor en la web (Facebook, Flickr), mientras que las imgenes no procesadas se ven ms ntidas cuando las ves en una PC.
+
+Los videos 4K se ven increblemente ntidos
+
+Como muchos otros telfonos de gama alta, el Galaxy S5 puede capturar videos 4K e hice una pequea prueba al capturar una escena al aire libre con un montn de detalles. La resolucin 4K hace una gran diferencia en las escenas de la naturaleza y las cosas que tienen mucha textura. Tambin he visto el video en un monitor 4K y es impresionante  tienes que probarlo por ti mismo, si puedes. Vale totalmente la pena. Por supuesto, ya que el video 4K en mviles es cuatro veces ms grande, lo mejor es mantener los videos cortos (o conseguir una de esas tarjetas microSD de 64GB), pero yo estaba impresionado con los resultados. Vean el video aqu:
+
+Funciones de la cmara
+
+Si bien nadie adquiere un smartphone por la interfaz de usuario de su cmara, tienes que admitir que sigue siendo un punto muy importante ya que la usars muy frecuentemente por mucho tiempo. Primero que nada, todos los ajustes han sido mejorados al hacer una sola pantalla en donde puedes acceder a todo lo que importa.
+
+Puede sonar contra-intuitivo, pero con un montn de pequeos iconos y submens es realmente confuso e induce a ms toques, que es mi parmetro en mviles. La idea con la interfaz de estilo antiguo era evitar obstruir la vista. Pero en realidad, si estoy en un men, no me importa la vista y lo que realmente quiero es cambiar mi configuracin y salir.
+
+La nueva configuracin trae un espacio de 2/3 de la pantalla, lo que permite ver y elegir de manera ms rpida y precisa. De esa manera, yo mi cambio en 2 toques, algunas veces en 3, y regreso a seguir tomando fotos. Debido al espacio extra, es mucho ms eficiente para ver los valores actuales, y cambiarlos si es necesario.
+
+Reduccin de modos personalizados
+
+Muy rara vez utilizo los modos personalizados, pero si ustedes acostumbran a hacerlo, lo ms probable es que slo utilicen un puado de ellos. Samsung ha decidido reducir el nmero de modo disponibles  esperemos que basados en los datos de los usuarios  en hacer las cosas ms legibles  y han adivinado, en ms rpidos de seleccionar.
+
+Multimedia (muy bien)
+
+Como pueden imaginar, el Galaxy S5 es un grandioso dispositivo multimedia. Con su excelente pantalla Super-AMOLED de 5.1 pulgadas, las pelculas lucen espectaculares y cuentan con sorprendente contraste y niveles de negro. En realidad se ve increble y les recomiendo verlo por ustedes mismos. Tambin puede reproducir pelculas 4K si cargas uno de esos archivos MP4 en el telfono. Prubenlo si pueden  es mucho mejor que las pelculas 1080p sobre-comprimidas que hay en Google Play. Es irnico que tuve que reproducir una pelcula 4K para usar al mximo mi pantalla 1080p.
+
+Altavoz (decente)
+
+El altavoz parece un poco debilucho en la parte posterior, pero sorprendentemente suena alto en comparacin a su tamao. As las cosas, el sonido producido es decente pero no es muy bueno y est lejos de excelente.
+
+No es de extraar: los altavoces en la parte posterior tienen que superar muchos desafos. En primer lugar un cuerpo delgado reduce la cantidad de aire que puede empujar, y obviamente es perjudicial para un sonido de alta calidad.
+
+En segundo lugar, el sonido proviene de la parte contraria del usuario, as que se pierde algo de energa en el proceso. Finalmente, la calidad del sonido reflejado al usuario depende del tipo de material que est detrs del telfono (si es que hay algo). En general, esto lleva a sonido decente o promedio.
+
+Si por alguna razn necesitas compartir msica o ver pelculas con el altavoz, el HTC One M8 es insuperable. Desafortunadamente, el desempeo del altavoz le cost al GS5 el no recibir la calificacin de exelente en la categora de Multimedia.
+
+Software
+
+Como siempre, Samsung usa TouchWiz, su interfaz de usuario que reemplaza la que viene por defecto de Google. Google ha hecho varios cambios desde el Galaxy Note 3, y aunque muchos de ellos siguen siendo muy familiares para pasar a usarlos sin problemas, estos son los que ms llamaron mi atencin:
+
+LEE: 10 caractersticas ocultas del Samsung Galaxy S5
+
+Teclado rpido
+
+He venido diciendo desde hace tiempo que un teclado sper responsivo es la clave para tener una gran experiencia de usuario, y estoy complacido de que Samsung finalmente lo haya hecho. En el pasado, frecuentemente he alabado a Windows Phone, iOS y algunos telfonos LG por su teclado altamente responsivo, pero no a los telfonos Android de Samsung.
+
+Aunque Samsung tiene un mejor soporte para idiomas y tiene teclados inteligentes (gracias a Swiftkey), nunca fueron los ms rpidos. El teclado del GS5 es muy responsivo y estoy realmente feliz por eso.
+
+Nuevo diseo de ajustes
+
+Los ajustes siempre han sido un rea intimidante para muchos usuarios, y es por una buena razn: es fcil perderse en los mltiples sub-mens y ya que tienden a cambiar de una versin a la siguiente, las cosas van empeorando con el tiempo. No importa qu sistema operativo mvil uses: los ajustes siempre son molestos y algunas veces estn diseados de manera irracional. Al menos, el Galaxy S5 reducir un poco ese dolor, gracias a la ingeniosa adicin de una barra de bsqueda.
+
+En lugar de adivinar qu sub-men contiene la opcin de porcentaje de batera, slo por citar algo obvio, simplemente puedes escribir batera y estars listo: cada ajuste que contenga la palabra aparecer en la pantalla. Muy til!
+
+Lector de huellas dactilares
+
+He clasificado este prrafo en la seccin de software ya que gran parte del lector de huellas dactilares est relacionado a la experiencia de usuario ms que a la apariencia fsica o al rendimiento del telfono. En general, funciona mejor de lo que esperaba ya que he usado lectores de este tipo por muchos aos y la mayora de ellos era terrible.
+
+La parte ms importante del proceso es la configuracin inicial de lector de huellas dactilares. Recomiendo ampliamente usar una pausa que sea natural y refleje cmo en realidad deslizaras tu dedo en una situacin del mundo real. Siempre que hagas eso, el escner funcionar de manera muy razonable.
+
+Para mi, usar cualquiera de los pulgares no me dio buenos resultados, pero con otros dedos funcion genial y hasta ahora no he tenido que usar la contrasea de respaldo. Dicho eso, no considero que este sistema sea sencillo de usar con una mano y recomiendo sujetar el telfono con una mano y usar el lector con la otra.
+
+En mi experiencia, el rango de fallas es un poco ms alto que el lector del iPhone 5S, pero en la mayora de los casos sigue siendo mejor que ingresar un cdigo de 4 dgitos o usar un patrn.
+
+Huella dactilar: seguridad o conveniencia?
+
+Toqu este tema en la cobertura anterior del GS5, y agregar ms informacin. La seguridad es tan fuerte como el eslabn ms dbil. Para empezar se ha demostrado que el lector de huellas dactilares del iPhone 5S y el Galaxy S5 se puede engaar con tcnicas relativamente crudas. As que si, alguien podra tomar tu huella dactilar y engaar al dispositivo con un poco de trabajo.
+
+Ahora, la buena noticia es que la contrasea de respaldo puede ser una bastante larga, as que si usas ayer quera cenar con 4 amigos, no sera sencilla de obtener a la fuerza o adivinar. Adems, si tu telfono es robado o extraviado en la calle, es poco probable que el ladrn tenga la oportunidad de obtener tu huella dactilar. Por ltimo, si la NSA est detrs de tus datos, es probable que ya la tengan. As las cosas, alguien en tu trabajo o en tu casa tendra muchas oportunidades de obtener tu huella dactilar.
+
+As que, aunque sigo considerando que las huellas dactilares son mejor para conveniencia, tambin hay un argumento razonable y una serie de circunstancias en donde se podra mejorar la seguridad.
+
+Integracin con el reloj inteligente Gear Fit
+
+Como tal vez sabrn, Samsung ha lanzado un tro de nuevos relojes inteligentes en el MWC 2014. Si bien publicaremos una resea especfica del Gear Fit, quera tocar algunos elementos de su integracin con el Galaxy S5.
+
+Gear Fit es extremadamente sencillo de sincronizar con el S5, y ya que el telfono viene precargado con el administrador del Gear Fit, es bsicamente sincroniza y utiliza. Esto se hace usando Bluetooth, as que aunque consumir un poco ms de energa, el gasto adicional no fue tanto como para cambiar mis hbitos diarios de carga (cargo cada 1.5 a 2 das durante uso normal). Carga a un rango de 1% por minuto.
+
+El Gear Fit puede durar hasta 4-5 das con mi patrn de uso, que es bastante. Deseara que tuviera una opcin de carga inalmbrica o micro-USB en lugar de tener que usar el pequeo adaptador. Me temo que podra perderlo/olvidarlo en un viaje, y estara en problemas.
+
+No uso Gear Fit con fines de rastrear mi actividad fsica ya que por lo general estoy sentado en un escritorio todo el da, o en un silln por las tardes (y si, yo se que esto es malo). Sin embargo, descubr que es grandioso para dos cosas (al igual que otros relojes inteligentes).
+
+Notificaciones: Samsung hace muy sencillo elegir qu clase de notificaciones quieres. Cuando llegan las notificaciones, puedes leer el contenido de correos electrnicos, etc., que es muy bueno para darle un vistazo rpido. Finalmente, puedes abrir artculos seleccionados en el telfono con solo tocar un icono en el reloj. Esto ahorra basante tiempo. Por ejemplo, si quiero responder un correo electrnico:
+
+Sin abrir el elemento desde el reloj:
+
+1. enciendo el telfono
+
+2. desbloqueo
+
+3. abro la aplicacin de correo electrnico
+
+4. abro el correo electrnico
+
+5. le doy un toque a la opcin de responder
+
+Abriendo el elemento desde el reloj inteligente:
+
+1. toco el icono de smartwatch
+
+2. toco responder
+
+Adems, el Gear Fit puede desbloquear tu telfono estando cerca de l: si el Galaxy S5 siente que el Gear Fit est a su lado, no tendrs que usar un patrn de desbloqueo o un cdigo. Esto probablemente no evitar que tus amigos vean tus cosas ya que funciona en un radio de 10 metros o algo as, pero si tu telfono es robado u olvidado, te pedir una contrasea.
+
+Sensor de ritmo cardiaco (fcil)
+
+El Galaxy S5 viene con un sensor de ritmo cardiaco que puede ser usado a travs de la aplicacin S-Health que Samsung present el ao pasado. El sensor funciona usando la luz del flash LED para iluminar el flujo de sangre bajo la piel, y mide las pulsaciones que normalmente no son visibles a simple vista. Slo coloca el dedo en el sensor y sigue las instrucciones de la aplicacin.
+
+El sensor de latidos del corazn no est diseado para realizar medidas continuas durante tus ejercicios. Sin embargo, fcilmente puedes hacer la medicin varias veces durante una sesin para llevar un seguimiento de tu nivel de cardio. Pero lo que ms me gust es que se crea algo de conciencia para cada usuario.
+
+Por ejemplo, no puedo recordar la ltima ocasin que revis mis latidos por minuto, pero ya que es fcil de hacerlo, no me importa revisar el dato cada semana o cada mes. Algo tan simple como el ritmo cardiaco puede revelar condiciones de salud que se deben de cuidar con el tiempo. Normalmente los doctores dicen que un rango por debajo de los 60 es muy bajo (bradicardia) y un rango por encima de los 100 es muy alto (taquicardia).
+
+Ser ampliamente utilizado? No espero que lo sea, pero su presencia no le hace dao al resto del telfono.
+
+Modo de seal de emergencia
+
+Mientras navegaba entre las opciones del Galaxy S5, not una caracterstica que quise ver rpidamente. Funciona de esta forma: si presionas tres veces el botn de encendido, el telfono enviar un mensaje de auxilio a tus contactos principales (tienes que definir cules son) en la forma de mensajes SMS con fotos de las cmaras y un enlae con tu ubicacin actual. Cuando se activa, el modo de emergencia automticamente encender el GPS para que pueda obtener la ubicacin ms precisa posible.
+
+Aunque espero nunca tener que usarlo, es una funcin bastante interesante. No es difcil imaginar que si te ves involucrado en un accidente (auto, moto, etc) o temas por tu seguridad esta podra ser una manera rpida para alertar a tus contactos principales.
+
+Obviamente, si tu vida est en peligro inminente llamar al 911 es probablemente la mejor opcin, pero igual podra ser bueno activar el modo de emergencia y luego llamar al 911. De esta manera tal vez tengas una mejor forma de proporcionar una ubicacin ms precisa, y si ests impresionado probablemente sea difcil describir en dnde te encuentras. Necesitamos ver cmo funciona esto en situaciones de la vida real, pero por el momento la idea me parece bastante interesante.
+
+Rendimiento del sistema
+
+Ya que el Galaxy S5 est equipado con el ms reciente Snapdragon 801, se coloca entre los mejores telfonos del mercado en trminos de rendimiento. Hablando de arquitectura, el Snapdragon 801 cuenta con 15%-20% en velocidad adicional en comparacin al chip Snapdragon 800 anterior  eso es en teora. En la prctica, las pruebas han mostrado que la diferencia es mucho ms modesta, si es que apenas visible. Esto muestra que los benchmarks en mviles sigue siendo poco confiable para el usuario final.
+
+El Snapdragon 801 est basado en la misma arquitectura, pero ha recibido las ms recientes optimizaciones gracias a los datos reunidos de su predecesor. En este momento, es el SoC ms poderoso disponible comercialmente.
+
+Si tienes curiosidad, aqu les tenemos algunos nmeros brutos. Tengan en mente que nunca recomendara comprar un telfono basndonos en datos de los benchmark, especialmente ya que pueden ser modificados.
+
+Sin embargo, proporcionan un buen indicador si no ests familiarizado con el panorama de procesadores de mviles. Adquirir un telfono porque obtuvo una calificacin 10% mejor en un benchmark puede ser un error ya que los problemas de rendimiento percibido por el usuario normalmente est ligado al software.
+
+Rendimiento percibido
+
+Hablando de rendimiento percibido, descubr que el Galaxy S5 es muy gil en general. Samsung frecuentemente es objeto de crtica por los usuarios entusiastas que quieren fluidez absoluta en la interfaz de usuario, y eso es algo que tambin me gusta. Sin embargo, creo que muchas personas no pueden notar la diferencia.
+
+En cualquier caso, Samsung ha mejorado gradualmente su interfaz de usuario Touchwiz y aplicaciones, y el GS5 es muy gil, con un teclado responsivo. Eso sigue siendo cierto, incluso despus de que configur el telfono con las aplicaciones que usualmente utilizo. Algunos smartphones son rpidos al principio, pero conforme les cargas datos, se hacen ms lentos.
+
+En general, creo que si eres particularmente exigente con la velocidad de la interfaz de usuario, deberas darle un vistazo al HTC One, que tambin encontr muy rpido. As las cosas, la diferencia es relativamente pequea, y las personas a tu alrededor no siempre lo percibirn.
+
+Duracin de la batera del Galaxy S5 (muy bien)
+
+El S5 tiene una capacidad de batera ligeramente mayor que el S4: 2800 mAh (versus 2600 mAh), que siempre es algo bueno. Entre la pantalla ms grande y otros cambios, el resultado neto fue que la duracin de la batera sigue siendo muy comparable a la del Galaxy S4: es cmodo, y no temo quedarme sin batera durante un da de trabajo, incluyendo un da ocupado en una conferencia de tecnologa.
+
+Con un consumo del 5% de batera durante las 8 horas de la noche (con datos, WiFi y Bluetooth encendidos), dira que el S5 tiene muy buen consumo de energa en modo de espera. Si veo una pelcula HD de 1 hora almacenada en el telfono, se consume alrededor del 9% de la batera, lo que en teora se traduce en 11 horas de video HD MP4 (nuevamente con WiFi y datos encendidos. El brillo de la pantalla es de 150 nits).
+
+Lo bueno sobre la cubierta de la batera extrable es que crea oportunidades para que terceros fabriquen bateras que se puedan integrar bien con el producto.
+
+Finalmente, Samsung le ha confirmado a Ubergizmo que una solucin de carga inalmbrica Qi se lanzar en algn punto, pero no nos han proporcionado la fecha exacta. Tener un cargador inalmbrico estndar en un par de lugares (trabajo, sala, recmara) es extremadamente til y podra resolver la mayora de los problemas con la duracin de batera, con la excepcin de los viajeros.
+
+Modo de ahorro de energa
+
+Si tu batera es muy baja (5%) y ests esperando una llamada importante, puedes cambiar al modo Ultra Power Saving que bsicamente apaga todo a excepcin de lo esencial para tener comunicaciones por voz y SMS. Bsicamente convierte a tu telfono inteligente en un telfono tonto. La pantalla Super-AMOLED tambin se hace en blanco y negro para ahorrar energa adicional.
+
+Como pueden imaginar, este modo ahorra MUCHA energa y Samsung asegura que una carga del 100% puede durar hasta 12.5 das en modo de espera. Cambiar a este modo se lleva alrededor de un minuto, y regresar al modo normal es casi lo mismo.
+
+Conclusin (excelente)
+
+El Galaxy S5 ofrece cambios evolutivos ms slidos en comparacin a la anterior generacin. Esta es la tendencia actual. Los smartphones se han hecho tan poderosos que los das de mejora de velocidad del 100% o cambios revolucionarios quedaron atrs y sucedern con mucha menor frecuencia.
+
+Algunos usuarios pensarn que los productos se quedarn cortos ante sus expectativa. Cuando ese sea el caso, la mejor estrategia es esperar por un producto que complazca sus necesidades. En lo que estoy interesado es en ver lo que este producto puede hacer en el mundo real, y presentar una imagen clara a nuestros lectores para que estn informados al tomar su decisin.
+
+Entre las mejoras, realmente me gust el hecho de que Samsung se enfoc en mejorar casos de uso bien conocidos, como hacer el diseo a prueba de agua, agregar HDR en tiempo real, buenas fotos estticas con poca iluminacin, ajustes de cmara ms sencillos y mejores notificaciones para el reloj inteligente. Al mismo tiempo, ofrece un diseo menos plstico, y permite reemplazar la batera. En resumen, el Galaxy S5 viene con potencia en donde importa.
+
+Al mismo tiempo, el diseo puede ser controversial y hasta polarizante, pero la verdad es que un diseo nico no puede complacer a todos, pero la buena noticia es que hay algo para todos en el mercado. Me sorprendi que Samsung distribuyera algo que es a prueba de agua y removible al mismo tiempo, y en general, el telfono est bien fabricado y es mejor que el Galaxy S4, as que si te gust el anterior, sospecho que te gustar ms el diseo del S5.
+
+En general, el S5 ofrece una experiencia de usuario excelente y fcilmente se coloca en lo ms alto de la lnea de smartphones Android de la actualidad.
+
+Calificacin general del producto: 9/10
+
+Resea escrita por Hubert Nguyen para Ubergizmo.com

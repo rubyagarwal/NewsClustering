@@ -1,0 +1,181 @@
+Anlisis: HTC One (M8)
+HEADLINE_ARTICLE
+Con la introduccin del HTC One M8, HTC ha actualizado su producto insignia y ofrece una nueva versin de su telfono ms famoso hasta la fecha. Y ya que la versin original (M7) tena una fuerte legin de seguidores (si no es que fanticos), la compaa decidi reforzar todo lo que hizo que el One fuera tan alabado: se ha mejorado el diseo, el rendimiento, el software y el sensor de la cmara.
+
+He pasado unas semanas con el HTC One, y en esta resea, hice mi mejor esfuerzo en aclararles cmo se siente usarlo en el mundo real y proporcionarles la informacin suficiente para que puedan responder la siguiente pregunta: es este tu prximo telfono? Vamos a comenzar con un poco de informacin tcnica y luego a pasar al uso en el mundo real. Listos?
+
+Especificaciones
+
+Contexto: Cmo utilizo mis telfonos
+
+Antes de profundizar en este anlisis, djenme decirles cmo uso mi telfono: no hago muchas llamadas, tal vez 5 minutos diarios como mximo. La mayor parte de mi tiempo en el telfono lo paso revisando correos electrnicos, Facebook o navegando la red. La fotografa casual es la segunda actividad despus de las comunicaciones a travs de texto, no uso muchas aplicaciones, menos de 20 y casi todas son de productividad y no de entretenimiento. Ah lo tienen, tengan en mente que mientras leen el anlisis ustedes deberan adaptar mi experiencia con la que podra ser la suya.
+
+Diseo industrial
+
+El HTC One M8 es un dispositivo de extraordinaria belleza, y no es ninguna sorpresa si HTC ha duplicado uno de los mejores activos del HTC One M7. Es uno de los telfonos Android que tiene a los seguidores ms leales y me atrevera a decir que ms fanticos.
+
+El ao pasado, tuvimos debates internos bastante acalorados sobre el M7, y mientras que a Eliane Fiolet le encant el diseo, no todo el equipo estuvo de acuerdo y en ese momento estuvimos con opinin dividida. El HTC One de 2014 ayuda a cerrar esa brecha y sospecho que ms personas estarn de acuerdo en que este es un mejor diseo, y menos pensarn que se trata de un paso hacia atrs.
+
+La calidad de fabricacin es an mejor. Es difcil de creer para los fans de HTC, pero para los que les gusta el metal, la cubierta externa pas de 75% de metal a 95% de metal. El telfono tambin est disponible en varios colores, y en mi opinin esto ayuda mucho. Por ejemplo, yo era aficionado al color plata aluminio original (llamado Plata Glaciar por HTC). Sin embargo, encuentro mucho ms atractiva la versin Gunmetal. Tambin hay una versin Oro mbar que debe ser muy popular en ciertas regiones.
+
+Ya que el telfono es evidentemente ms grande que el M7, HTC ha hecho su curva ms sutil y redondeada. Al sujetar el telfono, se siente que el volumen es el mismo en comparacin al ms pequeo. Es muy agradable de sujetar y de utilizar. La nica ocasin que realmente sent que era ms largo, fue cuando busqu el botn de encendido, que est en la parte superior. Si sujetas el telfono cerca de la parte inferior, no siempre es sencillo usar el botn de encendido. La solucin de HTC a esto es darle dos toques a la pantalla y se activar la posibilidad de usar gestos. Si, ese es el mismo concepto que LG present con el G2, y funciona.
+
+Algunas personas dicen que el nuevo HTC One es demasiado grande, y aunque esto definitivamente es cuestin de opinin personal, este tipo de declaraciones son tan ridculas como decir que algunos autos son demasiado largos, o demasiado anchos  slo depende de tus necesidades. El argumento siempre es el mismo: tu pulgar no puede alcanzar el lado opuesto de la pantalla.
+
+Te recomendara darle un vistazo por ti mismo y formar tu propia opinin. A pesar de escuchar a algunos expertos decir que los telfonos grandes son problemticos, la realidad es que las personas los compran, estn felices con ellos y piden pantallas incluso ms grandes. Afortunadamente, tambin hay mercado para telfonos ms pequeos, y el iPhone 5S o el Moto G son prueba de eso. Quieres un telfono pequeo? Hay muchos de dnde elegir.
+
+Al frente, fcilmente reconocers la configuracin de doble altavoz que es tan tpica en los recientes telfonos de HTC. Boomsound ahora es parte integral del lenguaje de diseo de HTC y es utilizado en los telfonos de gama alta, pero tambin en los de gama media como el atractivo HTC Desire 816 que vimos en el MWC 2014.
+
+El vicepresidente de diseo en HTC, Scott Croyle, me coment que es una de las caractersticas ms asociadas con HTC, y es una de las ms deseadas por los consumidores, ya que el estreo es obviamente superior al mono es un mensaje muy sencillo de entender. En realidad es sorprendente que nadie ms haya copiado esto, dice Scott, pero a pesar de la excelente calidad de sonido (hablaremos ms de esto ms adelante), hay un punto en contra innegable: le agrega longitud al diseo del telfono.
+
+Es cierto que el HTC One M8 tiene una menor proporcin de cuerpo-a-pantalla que otros telfonos, y HTC incluso tuvo que explicar qu estaban haciendo con el volumen interno en la parte posterior (que est lleno de electrnicos). Al final, HTC decidi incrementar el tamao para tener una calidad de sonido ms alta.
+
+En la parte posterior hay un impresionante conjunto de sensores de cmara con una cmara principal optimizada para fotografas con poca iluminacin, y un nuevo sensor de profundidad que es utilizado para opcionalmente reenfocar cada foto tomada con el HTC One. Ms sobre esto en la seccin de fotografa.
+
+Si ponen atencin, vern tambin una bandeja de nano-SIM que es suficientemente grande como para soportar dual-SIM si es necesario, y ahora hay una ranura para tarjetas microSD que puede aceptar hasta 128GB de memoria flash adicional para usuarios que lo necesiten. En trminos de valor de almacenamiento por el precio, es mucho mejor que el iPhone.
+
+HTC ha tomado la decisin correcta al mejorar el diseo existente en casi cada aspecto. Hay algunos fans del HTC One M7 que se decepcionarn por el diseo ms grande, pero esperemos que HTC pueda ayudarlos en un futuro con el HTC One mini M8. Mientras tanto, pienso que el nuevo diseo debe aportarle mucho a HTC.
+
+Pantalla (excelente)
+
+Nuevamente HTC est usando una pantalla Super-LCD, pero en esta ocasin las cosas son diferentes. En el pasado, not que las pantallas HTC algunas veces tenan un rendimiento inferior en calidad, especialmente cuando se trata de relacin de contraste. A pesar de tener excelentes especificaciones, frecuentemente descubr que Samsung y LG tienen mejores pantallas.
+
+Pero en esta ocasin es diferente: La pantalla Super LCD de HTC en el HTC One M8 se desempea muy bien, y tiene muy buenos niveles de negro (para una LCD) y produce imgenes bastante buenas que saltan.. Creo que la saturacin de color est ajustada para ser ms alta que la LCD IPS LG promedio, pero no tanto como las pantallas Super-AMOLED de Samsung. Esto no es algo malo, y luce grandiosa.
+
+He escuchado que algunas personas se quejan sobre tocar accidentalmente la pantalla debido al diseo borde a borde. Bueno, como pueden ver, aunque lo parezca, no es un diseo de pantalla borde a borde. Hay un par de milmetros en cada lado de la pantalla y en realidad no es ms propenso a accin tctil accidental que otros diseos.
+
+Cmara (muy buena en pantallas pequeas)
+
+Hay dos aspectos de la cmara del HTC One M8 que debemos considerar. Primero, la calidad de imagen en general que es derivada del sensor y el subsecuente procesamiento de imagen realizado dentro de la funcin bsica de la cmara. Segundo, el software de la cmara y la experiencia de usuario que es bastante singular en el HTC One. Vean ejemplos de fotos de tamao completo en Flickr si quieren un vistazo ms de cerca.
+
+Calidad de imagen
+
+Sensor Ultrapixel: Excelente en capturas con poca iluminacin para uso en web
+
+HTC ha optimizado el HTC One para fotografa con poca luz y quieren proporcionar pixeles de alta calidad, en lugar de solamente ms de ellos. Es por esto que la compaa est usando una tecnologa llamada Ultrapixel en donde el sensor cuenta con menos pixeles (4 Megapixeles), pero cada uno de ellos captura ms luz que en los sensores de la competencia. En teora ms luz = mejor calidad, as de simple.
+
+La idea tiene sentido, pero en la prctica, una combinacin de velocidad de obturacin baja y las fotos de baja resolucin hacen que las fotos del HTC One se vean geniales en el dispositivo y en la mayora de las aplicaciones web (Facebook, Instagram, etc), pero en una pantalla ms grande, pueden aparecer borrosas.
+
+Tengo que decir que el argumento de 4 Megapixeles es ms complejo ahora que lo que fue en la versin M7 del ao pasado, esto principalmente debido a las mejoras en la aplicacin de la cmara. En trminos de fotografa con poca iluminacin, el HTC One M8 es uno de los mejores debido a que un conteo de megapixeles ms alto normalmente no ayuda mucho ya que los detalles son difciles de ver de todas maneras.
+
+Los otros dos competidores que saltan a la mente son los telfonos Nokia ms recientes (Icon, 1520, 1020) y el LG G2. Ya establecimos en la resea del LG G2 que el iPhone 5S ya no es un contendiente real en la fotografa con poca iluminacin, as que la siguiente parada es el iPhone 6 para los usuarios de iOS. Sin embargo, el iPhone 5S sigue siendo un telfono con muy buena cmara en condiciones de buena iluminacin.
+
+Sensor Ultrapixel
+
+Como mencion, con slo 4 Megapixeles, el HTC One normalmente captura fotos grandiosas para uso en web, as que las cosas que publicas en Facebook, Instagram, Google+, Pinterest, etc., lucirn geniales, pero no tendr muchas opciones cuando se trate de cortar, hacer zoom digital y posiblemente imprimir.
+
+Incluso en una resolucin comparable (26881520 y 30721728), el Icon toma fotos mucho ms ntidas que el HTC One M8. Fuera de las situaciones con poca luz, el HTC One pierde su ligera ventaja y los telfonos de gama alta con ms megapixeles ganarn cada turno cuando se trate de comparar los detalles de las imgenes, y si vemos las fotos de cerca en la PC es innegable.
+
+Experiencia de usuario
+
+Rpida
+
+Como coment, la experiencia de usuario cuenta tanto como la calidad de la foto. Por ejemplo, cuando sali el Nokia 920, present un rendimiento superior, pero el retardo del obturador era bastante bajo, y as fue el enfoque y el proceso de medicin. Tomar una foto en un smartphone debe ser algo rpido y sencillo  por lo menos esa es mi opinin. Y es por eso que al sostener el telfono de modo horizontal y presionar el botn de Volume Up se encender la cmara inmediatamente.
+
+Fcil
+
+Con ese fin, realmente me gust la interfaz de la cmara del HTC One. Primero, es muy simple. En segundo, tiene muy poco retraso en el obturador, as que cuando lo presionas es cuando se toma la foto. Es tan rpido que volver a otros smartphones puede ser un poco frustrante. Si necesitas hacer ajustes a algunas opciones, casi cada caracterstica importante est a dos toques de distancia.
+
+Adems, es posible almacenar un nmero ilimitado de ajustes personalizados que pueden ser accesados inmediatamente despus (limitado slo por la memoria y almacenamiento). Esto es muy til si terminas en situaciones comunes para las que quieres tener a la mano los mejores ajustes posibles.
+
+Ufocus
+
+Sensor de profundidad: Tena muchas preguntas acerca del sensor de profundidad de 2 Megapixeles adicional del HTC One M8. Por alguna razn, muchas personas piensan que de alguna manera pueden combinar los 4 Megapixeles del sensor principal con estos 2. Bueno, no. Aunque tcnicamente es un sensor ptico, su funcin no es aumentar la calidad de imagen, sino reunir informacin que podr ser usada ms tarde para llevar a cabo efectos como el reenfoque.
+
+Usar un sensor secundario es grandioso por un par de razones: Primero, la mayora de los competidores toman dos fotos secuenciales y luego usan el movimiento (la separacin) entre las fotos para hacer un estimado de la profundidad. Tomar mltiples fotos puede ser un problema cuando los sujetos se mueven entre las fotos.
+
+El sensor de HTC puede hacer esto en un solo disparo al tomar dos fotos de manera simultnea, de esta manera dejando a un lado cualquier movimiento del sujeto. En segundo lugar, la separacin entre la foto principal y el sensor de imagen es mucho ms grande, y por esto ayuda a que la estimacin de profundidad sea ms precisa, resultando en un efecto de desenfoque mucho ms natural.
+
+Ahora, vamos a ser claros: aunque la caracterstica lleva por nombre UFocus y funciona muy bien, en realidad se debera llamar UBlur. Como otras aplicaciones de fotos basadas en el mismo principio, es imposible mejorar la nitidez de una foto que ya est borrosa.
+
+Lo que en realidad hace es agregar ms desenfoque a la foto para crear un efecto bokeh que normalmente se logra con lentes de amplia apertura en DSLRs. Considerando el tamao pequeo de las lentes de los smartphones, realmente no es posible lograr el mismo efecto usando slo la ptica. Es un elegante efecto de procesamiento, pero es el mejor de su tipo hasta la fecha.
+
+HTC finalmente tiene Pan360, que es el equivalente de Photosphere de Google. Se usa para crear una imagen virtual de 360 grados que funciona mejor para escenarios estticos en donde las personas no se mueven. La implementacin de HTC toma ventaja del ngulo amplio de la cmara, y tienes que tomar menos fotos para crear una esfera completa. Tambin funciona extremadamente bien con poca luz, lo que es impresionante.
+
+Esta es tambin la mejor implementacin de un escenario virtual de 360 grados hasta la fecha. Realmente me gust. La cmara frontal es una cmara de 5 Megapixeles (lo se, es muy inusual que una cmara frontal tenga ms megapixeles), y utiliza un ngulo amplio para permitir selfies con mltiples personas, ya que parece ser la nueva moda.
+
+Multimedia
+
+Como pueden imaginar, el nuevo HTC One no tiene problemas en manejar actividades multimedia. Desde pelculas hasta juegos, pasando por msica, todo lo puede hacer con facilidad. La bonita pantalla hace una gran diferencia, y en este momento se necesita una pantalla ms grande para superar la experiencia de usuario.
+
+Los altavoces frontales son sorprendentes
+
+Proporcionan un potente sonido que tiene ms profundidad que cualquier otro smartphone. La diferencia es muy grande, es ridcula. Pero no las utilice slo para msica o videojuegos. De hecho, es durante las llamadas en altavoz en donde qued ms impresionado. Primero, el auricular es tan potente que pens que estaba en modo altavoz con el volumen bajo, pero cuando activ el modo de altavoz, wow, qued impresionado por la potencia y claridad de la llamada.
+
+HTC dice que el M8 tiene altavoces 25% ms potentes debido a un nuevo amplificador y un volumen interno ms grande que permite que ms aire salga impulsado del amplificador. Ya que los usuarios de HTC podran estar particularmente interesados en el audio, ellos podran estar complacidos de saber que los auriculares incluidos son mejores que los del iPhone.
+
+Software: HTC Sense 6
+
+HTC Sense, la interfaz de usuario propiedad de HTC est sobre Android 4.4 y siempre ha sido un factor diferenciador para los smartphones de HTC. Esto fue particularmente cierto en los das antes de Android 4.0, pero incluso aunque Android stock haya alcanzado un punto en donde la mayora de las personas estn felices usndolo, Sense sigue teniendo algunos trucos bajo la manga. Es muy rpida y responsiva, que para empezar es una ventaja sobre Touchwiz de Samsung, el nmesis de Sense en telfonos Samsung. Los usuarios de HTC a menudo aseguran que esta es una de las razones por las que se deciden por un telfono HTC.
+
+El teclado HTC Sense es sper responsivo y bien diseado, incluso con la retroalimentacin de sonido y las sugerencias activadas, y es un placer usarlo. As las cosas, no maneja mltiples idiomas de manera simultnea, y descubr que las sugerencias de Samsung son mejores debido a que son impulsadas por Swiftkey. Si HTC pudiera mejorar esto, sera el teclado Android perfecto. Si quieres algo ms, es posible descargar el teclado bsico de Google.
+
+Blinkfeed, que es utilizado como un lector de noticias, ahora se ha convertido en un newsfeed ms general en donde no slo puedes ver las noticias o feeds ms recientes a los que ests suscrito, sino tambin actualizaciones sociales y notificaciones. De cierta manera, Blinkfeed est expandiendo su papel, y aunque yo al principio estaba escptico, tengo que admitir que es bastante genial y estuve usndolo regularmente para revisar noticias y actualizaciones de Facebook y Google+.
+
+Para eliminar la friccin de encender el telfono y abrir aplicaciones clave, HTC ha agregado la opcin de tocar dos veces la pantalla para despertar el telfono, adems de una serie de deslizamientos desde cada esquina de la pantalla. Esto toma un poco de tiempo, y si lo repites docenas de veces al da, es una opcin que suma y hace que el telfono sea ms agradable de usar.
+
+Los ajustes rpidos son muy limpios y legibles. No estoy seguro si hay una ventaja en particular sobre la competencia, pero me gusta el hecho de que hay muchas opciones.
+
+Desempeo del sistema (muy bueno)
+
+Ya que es el primer telfono en el mercado con un SoC Qualcomm Snapdragon 801, es justo decir que el HTC One M8 se ganar un lugar entre los smartphones ms rpidos. En este momento, es bsicamente la mejor plataforma de hardware en el mercado.
+
+Les mostrar algunos nmeros para que puedan tener una idea de cmo se ubica en general, pero tengan en mente que un rendimiento sinttico en realidad no afecta al rendimiento en el mundo real (especialmente con las trampas que hacen los fabricantes de telfonos), especialmente cuando se trata de la capacidad de respuesta del telfono en general.
+
+Benchmarks sintticos
+
+Como pueden ver, hay algo de incremento cuando se compara con el Snapdragon 800 y al probarlo en una variedad de benchmarks se marca una diferencia de entre 1% a 20% con un promedio de 15% de ganancia. Realmente depende de la tarea en cuestin.
+
+Ya que la versin M7 corre con el chip Snapdragon 600 ms antiguo, la diferencia es ms amplia. El desempeo grfico es el punto ms obvio, aunque a menos que juegues ttulos 3D modernos, esto no importa mucho.
+
+Rendimiento percibido
+
+En mi opinin el rendimiento percibido es mucho ms interesante, debido a que es algo de lo que realmente podemos beneficiarse todos los das, cada vez que se encienda el telfono. Afortunadamente, HTC ha hecho un gran trabajo con HTC Sense 6 y con su interfaz de usuario en general.
+
+El telfono es extremadamente responsivo todo el tiempo, y esto sigue siendo as despus de semanas de estarlo usando, con un telfono que est bien cargado con aplicaciones y fotos. En realidad, es muy rpido, se convierte en una adiccin.
+
+Desde el teclado hasta la cmara, pasando por casi cada aspecto del telfono, es muy raro cuando tienes que esperar a que el telfono reaccione, y cuando se compara con otros telfonos actualmente en el mercado, dira que el HTC One M8 tiene ventaja cuando se trata de capacidad de respuesta (que es principalmente un problema de software).
+
+Algunas veces, los telfonos pueden ser rpidos cuando recin los enciendes, y luego se comienzan a alentar, normalmente despus de que los cargas con correos electrnicos, aplicaciones y fotos. Es por eso que es importante resear esos telfonos en un contexto del mundo real, usndolo como el telfono principal de la persona que hace la resea.
+
+Cubierta Dot View
+
+Normalmente no me gusta usar cubiertas para el telfono debido a que pienso que esconden el diseo del telfono y lo hacen ms grueso, pero tambin entiendo que uno se debe preocupar por la proteccin de un dispositivo tan caro, as que con eso en mente, le coloqu la cubierta Dot View y la utilic por una semana.
+
+Me gust el hecho de que HTC intent buscar una nueva opcin a las cubiertas con ventana presentadas por Samsung y copiadas por todos los dems. Como pueden ver, las cubiertas Dot View estn perforadas con muchos hoyos pequeos, y gracias a eso, es posible ver detalles como quin est llamando, qu hora es, y otras notificaciones. Tambin es posible deslizar el dedo para responder una llamada telefnica sin necesidad de abrir la cubierta, lo que est bastante bien.
+
+La cubierta luce bien y debido a que el telfono es muy delgado, el bulto agregado es evidente, pero no algo que arruine la experiencia. Ya que soy muy cuidadoso, normalmente no dao mi telfono, pero una cubierta como esta ofrece buena proteccin sin convertir tu telfono en un tanque. Tambin es menos resbaloso que el cuerpo metlico, y descubr que esto es particularmente til cuando se trata de tomar fotos.
+
+Tan genial como suena, la cubierta no es perfecta: puede ser incmodo abrirlo y sujetarlo con una mano (yo uso mi mano izquierda) y no siempre se siente agradable sujetarlo mientras est abierto. Desafortunadamente, este es el caso con la mayora de las cubiertas que se abren de un lado del telfono, as que no estoy seguro de cmo HTC podra solucionar esto por completo.
+
+Duracin de la batera (muy buena)
+
+Desde el ao pasado, el HTC One tuvo un incremento en la capacidad de la batera del 13%, gracias a su batera de 2600 mAh. No es la mejor capacidad que puedes obtener: por ejemplo, el LG G2 que es un telfono ms pequeo, tiene una batera de 3000 mAh.
+
+Sin embargo, el fabricante del telfono ha aprovechado optimizaciones de software para tratar de hacer lo mejor, y parece que HTC ha logrado un gran trabajo de optimizacin. La duracin de la batera del HTC One M8 es muy buena. Pude usarlo por un par de das sin recargarlo (uso moderado ya que la mayor parte del tiempo estuve en la oficina), y durara un da si estuviera en un evento o algo parecido.
+
+60 minutos de reproduccin de video MP4 en HD almacenado localmente consumi 8% de la batera, que nos lleva a la teora de 12 horas de reproduccin de video. 60 minutos del demo Riptide GP2 requiri alrededor del 24% de la batera, que significa 4 horas de juegos 3D. Eso fue con el altavoz apagado, WiFi y LTE encendido.
+
+Ya que la batera no es extrable, no puedes hacer hard reset al quitarla, pero normalmente esto se puede hacer al dejar presionada una combinacin de botones. Estoy complacido de que hasta ahora no he tenido necesidad de hacerlo. Este no debe ser un problema, a excepcin de Corea en donde cada telfono de gama alta debe tener una batera extrable.
+
+No hay carga inalmbrica integrada, pero el HTC One soporta Quick Charge 2.0 de Qualcomm. Lo ms extrao es que el adaptador de corriente incluido no soporta QC 2.0, y necesitas encontrar otro si es que quieres beneficiarte de esta caracterstica.
+
+Modo Ultra Low Power
+
+HTC tambin ha agregado un modo Ultra Low Power que consume la menor energa posible. Hace eso al apagar los datos (dejando encendida slo la voz) y cambiando a una interfaz de usuario diferente no slo para ahorrar energa, sino para indicar de manera clara que est ejecutndose en un modo especial.
+
+Adems de obvias emergencias con la batera, como si tuvieras slo el 4%, esto podra ser til si vas a acampar o en un lugar en donde los datos no son necesarios o no estn disponibles, pero la voz sigue funcionando. Mientras conduca por muchos lugares en Estados Unidos, me encontr en varias ocasiones sin conexin de datos, pero la red de voz estaba bien.
+
+Lo que realmente me gust del modo de bajo consumo de energa de HTC es que activa los datos sin intervencin del usuario si es que necesitas enviar un correo electrnico. Esto es grandioso debido a que otros telfonos no hacen esto, y hace que todo sea ms conveniente. Cabe mencionar que las actualizaciones de Facebook y Twitter no recibieron el mismo tratamiento.
+
+Conclusin (excelente, pero)
+
+En general, me parece que el HTC One es un telfono excelente por el lado que lo vean. Mejorando todos los aspectos del telfono anterior, HTC ha llegado a un punto en donde han hecho casi todo bien (diseo, capacidad de respuesta, interfaz de cmara, tipografa), y la pregunta real es si te agrada o no te agrada el diseo del telfono, y si ests conforme con la baja resolucin de la cmara de 4 Megapixeles (que en todos los dems aspectos es excelente). Si ese es el caso, le dara una calificacin de 9/10. Si necesitas fotos que no usars en la web, bajara la calificacin a 8/10.
+
+HTC ha hecho un trabajo notable y me alegro de que hayan seguido adelante. Ahora, la parte ms difcil es demostrar esto frente a sus clientes prospecto, y esta no es una tarea sencilla dada la cantidad de dinero que actualmente se gasta en la mercadotecnia.
+
+Si quieres algo con ms capacidad de batera, una pantalla ms grande/ms pequea y una cmara con ms megapixeles, hay otras opciones en el mercado. Si ests dudando entre el HTC One y el Galaxy S5, esperen a nuestra resea del nuevo dispositivo insignia de Samsung que publicaremos en los prximos das.
+
+Evaluacin general del producto: 9/10
+
+Resea escrita por Hubert Nguyen para Ubergizmo.com

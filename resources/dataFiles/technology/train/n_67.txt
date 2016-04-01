@@ -1,0 +1,121 @@
+2014 Action Camera Comparison Guide
+HEADLINE_ARTICLE
+Whether you want to document your extreme exploits, or simply create a video of a family day out, an unobtrusive and sturdy action camera might be the best tool for the job. But with so many to choose from, which is right for you, and how you intend to use it? Gizmag's 2014 Action Camera Comparison Guide looks at the specifications and features of some of the best action cameras currently available.
+
+Despite how it sometimes feels, GoPros are far from the only actioncams on the market. There are dozens of capable devices that each offer different features and abilities. For the purpose of this comparison we've picked nine of our current favorites.
+
+The action cameras we will be looking at are:
+
+While this is our pick of the current crop of action cameras, it's not to say devices not represented here aren't equally good, or even better for your needs. For example, while we've included the Drift Stealth 2, you might be better served by its bigger brother, the Drift Ghost S. Or maybe quirky action cameras like the RE from HTC, or the cute Polaroid Cube might suit you better.
+
+Before we get into the comparisons, it's worth noting that unlike most other camera categories, where released specifications are fairly standardized, action camera manufacturers often choose not to release certain information, or present it in different formats. As such, there will be a few more gaps in some of our comparisons than we would ideally like.
+
+Dimensions
+
+As you can see from this selection, and their respective measurements, actioncams come in many shapes and sizes. This is great for consumers as it means you can buy a camera which is going to best fit how you plan to use it, whether that's mounting it to your skateboard, mountain bike or helmet.
+
+The sizes given are for the action cameras without any additional casing (even though the GoPro duo are shown in theirs). You will also want to consider what mounts are included or available, in case you want to do something like strapping your action cameras to your dog, and think about how this will impact its size.
+
+It should also be noted that the depth measurement for the Veho MUVI K2 NPNG includes its detachable LCD screen  without it, the camera is 23mm deep.
+
+Weight
+
+At first glance you might wonder why action cameras come in at such a wide range of weights. However, as you'll see soon, heavier cameras typically have a level of sturdiness (and often waterproofing) that the lighter cameras can only match when in their protective housing.
+
+For example, once the lightweight 83g GoPro Hero4 Silver is in its protective housing, it weighs 147g, making it more comparable to the heavier cameras which don't always need a case. The protective cases can also make the camera feel significantly larger.
+
+Because the Panasonic HX-A500 uses a quirky design which separates the camera from the recording unit, it's worth considering its weight distribution. The camera section only accounts for 31 g of its overall 159 g weight. This is going to be noticeably lighter than other cameras if wearing it using the head mount. Again the figure for the Veho MUVI K2 NPNG includes its detachable LCD screen.
+
+Waterproofing
+
+All of the action cameras in our line-up can survive in situations that would leave more traditional cameras heading the the great junk yard in the sky. However, while some of them are rugged and waterproof straight out of the box, others need to be put into a protective housing before being subjected to extreme conditions or submerged in water.
+
+An external housing (which is included with some action cameras, and an optional extra for others) typically means devices can be submerged deeper and for longer than those which rely on built-in waterproofing. This is why some already waterproof cameras, such as the JVC Adixxion GC-XA2 and Garmin Virb Elite, can also be used with dedicated protective cases.
+
+Given the beating that action cameras can receive in the line of duty, you might also need one which can take a knock or survive extreme cold temperatures. If you are looking for a tough camera which doesn't need a protective case, the aluminum body of the Contour Roam3 means it's tougher than most, and the JVC GC-XA2 is also shockproof and freeze-proof.
+
+Field-of-view
+
+A wide field-of-view is important for action cameras, as it allows recording in a more immersive perspective than you get with most traditional cameras. All of these action cameras tick that box and have lenses ranging from 17-mm to 20-mm equivalent.
+
+We've tried to give both the traditional 35-mm format equivalent and field-of-view degree measurements. This is because different manufacturers prefer to present their specifications in different ways. Where only one measurement was supplied, we've calculated the other, and marked this with an asterisk.
+
+The cameras with the widest view are the GoPro Hero4 duo, the Sony Action Cam Mini and the Contour Roam3, which all boast similar 17-mm equivalent  or 170-degree  lenses. Because Garmin was unable to provide us with any lens measurement other than "Wide," we've provided estimates measurements based on sample images.
+
+It is worth noting that manufacturer-supplied field-of-view measurements often refer to that when shooting stills. When shooting video, a smaller section of the sensor is normally used, producing a slightly narrower field-of-view. If an even narrower angle is desired, most of the cameras offer crop modes.
+
+Lens aperture
+
+While there were a few lens aperture specifications that we weren't able to obtain (Contour gave us the physical 2.14mm aperture of the Roam3), it's safe to assume they will come in around the F2.4 to F2.8 range of the other cameras.
+
+Some of the cameras like the Contour Roam3 and Drift Stealth 2 feature rotating lenses which can be twisted around to allow shooting in different orientations. This is handy if mounting your actioncam to the side of your helmet or car.
+
+Sensor size
+
+Given the small size of the action cameras in our round-up, we are not surprised that they use sensors in the 1/3.2-inch to 1/2.3-inch range.
+
+These sensor sizes are around the same as those typically used in smartphones, but much smaller than those in quality cameras. The reason for this is that if much bigger sensors were used, the lenses and the entire actioncam would also need to grow accordingly, and you don't want a DSLR-szed action camera strapped to your helmet.
+
+4K video recording
+
+Last year when we compared action cameras the GoPro Hero3+ Black was the only offering to feature 4K video recording, and then only at 15 fps. This time around we've got three 4K shooters. While the GoPro Hero4 Silver is limited to 15/12.5 fps, both the GoPro Hero4 Black and Panasonic HX-A500 can manage a more usable 30//25 fps.
+
+HD recording
+
+There's Full HD 1080p video across the board, with the majority of the action cameras able to do this up to a respectable 60 fps. Only the Contour Roam3, Drift Stealth 2, and Garmin Virb Elite are limited to a maximum of 30 fps. The GoPro Hero4 Black is the only camera here capable of Full HD at 120/100 fps for creating slow motion footage, though several of the cameras can do it at 720p, where 60 fps is the norm.
+
+Still photo resolution
+
+While an actioncam is never going to be the best quality stills camera, if it's the only one you've got with you (because you've just been swimming in a lake or climbing a snow-covered mountain) it's the one you'll be using. As such it's good to know what it's capable of, and these cameras range from 5 megapixels up to 16 megapixels.
+
+It should be noted that while the JVC can produce 16-megapixel stills, its sensor is only actually 8-megapixel, and though stills from the Drift Stealth 2 can come in at 12-megapixel, the Aptina sensor inside is only of the 3-megapixel variety. However, while the Panasonic A500 only gives 8.34-megapixel stills, it has a 12.8-megapixel sensor, and the drop in resolution is accounted for by a 16:9 format crop.
+
+If you plan on shooting stills with your action camera, you might want to also think about whether you want one with an LCD screen, or remote viewfinder capability, for composing shots.
+
+Burst rate
+
+If you are trying to photograph fast action, you'll want a camera which can rattle off a series of high-resolution stills quickly. In this regard it's the GoPro Hero4 cameras which stand out, thanks to their 30 fps shooting. The next fastest camera is the JVC GC-XA2, which is only capable of half the speed, 15 fps.
+
+While the Contour Roam3 is stated to have a burst speed of 1 fps, we understand this is an interval burst rate, which is intended more for creating time-lapse videos, with other setting allowing for shooting at 3, 5, 10 or 60 second intervals. Most of the cameras here also feature similar interval shooting modes.
+
+Monitor
+
+While some action cams leave you guessing about what you're shooting until you import your footage, a number feature LCD monitors for composing or reviewing shots and navigating menus. Others use basic LED screens to display shooting information.
+
+Of the LCD monitors, the biggest is the 2-inch offering which is included with the Veho Muvi K2 NPNG. This is closely followed by the 1.75-inch touchscreen which is built into the back of the GoPro Hero4 Silver.
+
+The Panasonic HX-A500, JVC GC-XA2 and Garmin Virb Elite all also feature built-in monitors, though Garmin strangely declined to share the resolution of its offering claiming that it was "proprietary information." Optional dedicated monitors can be used with the GoPro Hero4 Black, and in the form of a controller watch for the Sony Action Cam Mini.
+
+Wireless
+
+The Contour Roam3 is the only camera here that lacks Wi-Fi connectivity. On the other cameras this is used to enable features which can include easy sharing, remote control and even remote viewfinder functionality.
+
+It's also worth noting that the Panasonic HX-A500 and Sony Action Cam Mini feature NFC connectivity for easy pairing with compatible devices, and that the Garmin Virb Elite has built-in GPS.
+
+Storage media
+
+Because of the obvious size limitations, most of these cameras record onto microSD memory cards (though the Sony can also take Memory Stick Micro cards). However, the JVC GC-XA2 shoots to standard-sized SD cards which you are already likely to have lying around, and can be used in many computers without the need for an adapter.
+
+Battery life
+
+Battery life can range dramatically on the same camera depending on recording resolution, frame-rate, and what other features are being used. As such, where we can, we've provided figures for 1080p 30 fps recording with Wi-Fi turned off. This is the case for the GoPro Hero4 Black and Silver, the Drift Stealth 2 , and the Garmin Virb Elite.
+
+The 2-hour battery life of the JVC GC-XA2 is when shooting at 720p 30 fps, and we are not sure of the Veho settings, but we'd be surprised if it had the stamina to last 4 hours at 1080p 30 fps. While we don't have officially-released figures for a couple of cameras, users have reported the Sony Action Cam Mini lasting for around 1hr 15 minutes, and the Panasonic HX-A500 around the 2hr 30 minute mark.
+
+Price
+
+The Contour Roam3 is the cheapest action camera in our selection at US$200, with the GoPro Hero4 Black being the most expensive at $500.
+
+Summary
+
+Hopefully this comparison has helped you to identify which features and specifications you would would like in your next action camera, and those that you can't do without.
+
+For example, if you want a budget-friendly entry-level device, there's a lot to like about the small Sony Action Cam Mini and Drift Stealth 2. However, if you want built-in toughness and don't mind missing out on wireless capabilities, there's also the Contour Roam3.
+
+But at this end of the price-range, the JVC Adixxion GC-XA2 is quite compelling in that it includes built-in toughness, wireless capabilities and an LCD screen. The Garmin Virb Elite and Veho Muvi K2 NPNG also feature an LCD monitor, but with different form factors that could better suit how you want to use the camera.
+
+Then we've got the three 4K-capable cameras. The quirky Panasonic HX-A500 features a distinctive camera and recording unit design that will appeal to some users who want to use it attached to their head or clipped to their body, but will no doubt rule it out for others.
+
+Finally, if you are choosing between the GoPro duo, you'll probably be deciding based on whether 4K/30fps recording or a built-in LCD screen is more important to you, though you can always add an external LCD to the Hero4 Black. You might also want to check out our recent GoPro comparison.
+
+Share

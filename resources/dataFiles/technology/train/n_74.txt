@@ -1,0 +1,129 @@
+2014 Full Frame DSLR Comparison Guide
+HEADLINE_ARTICLE
+We recently compared a selection of the best entry-level and enthusiast APS-C DSLRs on the market. But if sensor size is important to you, you might want a full frame offering in your next camera. So here's Gizmag's 2014 full frame DSLR comparison guide, where we compare the specifications and features of some of the most popular full frame DSLRs currently available.
+
+In this comparison guide we will be looking at a selection of full frame DSLRs which would suit enthusiast and professional photographers. We've not included flagship models like the Nikon D4S and Canon EOS-1D X because these fast-shooting professional-focused DSLRs are aimed at a very specific market. They also cost twice as much as the cameras here, so are probably only best compared with each other.
+
+For each of the categories the cameras will appear in two rows, in the same order as this list. So if you get lost, just pop back up here.
+
+Size
+
+If you're looking for a DSLR that you can carry around all day without noticing it around your neck, look away now. These are all big cameras, which are considerably larger than APS-C DSLRs and mirrorless cameras.
+
+Of the bunch the Canon 5D M3 and Nikon D810 are the largest, while the retro-styled Nikon Df is the smallest. Because all of these DSLRs have full frame sensors, their respective lenses will be of similar sizes.
+
+Weight
+
+A quick look at these weights will show you why full frame DSLRs are suited to enthusiasts and professionals who are getting paid to lug these beasts around. The stated weights include a battery and memory card, but you're still going to need to add the weight of any lenses or accessories you also want to use.
+
+Build
+
+All of these are solid-feeling cameras which feature magnesium alloy in their construction, though to varying degrees. Cameras like the Canon EOS 6D and Nikon D750 have a couple of magnesium alloy body covers, while the Canon EOS 5D M3 and Nikon D810 have a more solid magnesium alloy build.
+
+It's worth noting that all of the cameras feature a level of weather resistance and sealing, though without standard measures it's hard to compare. For example, Canon only states that the 6D has water and dust resistance equal to the EOS-1N, while Sony says its A99 is sealed against dust and moisture. Meanwhile the Nikon D750, Df, D810 and the Canon 5D M3 are all described as being dust and weather sealed.
+
+Sensor size
+
+Given that this is a comparison of full frame DSLRs, it will come as no surprise that they all feature the same size 36 x 24 mm sensors. If you want to see how this compares to the sensor size of other cameras, there's always our guide to camera sensor size.
+
+Megapixel count
+
+When it comes to resolution, the standout camera is undoubtedly the megapixel monster that is the Nikon D810  with its 36.3-megapixels. While this gives more detailed images, the files will also require more processing horsepower and storage space. That said, unlike the original D800, the D810 features a RAW Small file which comes in at half the resolution and approximately 1/4 the file size of full RAW files.
+
+While the Nikon Df has the lowest resolution with 16.2-megapixels, this is still going to be more than enough for most users, most of the time. It would only become a limitation if you were shooting highly detailed subjects or needing to produce massive prints.
+
+Processor
+
+Each of the DSLR manufacturers uses its own processors, which makes it hard to draw comparisons between them. However, it's worth noting that the Nikon D750 and D810 use the newer Expeed 4 processor than the Expeed 3 in the Nikon Df, and that the Sony A99 uses the BIONZ rather than the new BIONZ X which has been used in the likes of the A7 cameras.
+
+Autofocus
+
+Of these cameras it's the Canon EOS 5D M3 which wins the autofocus numbers race with 61 autofocus points, of which an impressive 41 are the better cross type. This puts it on par with the Canon EOS-1D X. Not far behind are the Nikon D810 and D750: they each boast 51 AF points, with 15 cross type (the same as the Nikon D4S) and feature Group-area AF (for better subject tracking than on previous Nikon models).
+
+Behind them is the Nikon Df with its older autofocus system and the Sony A99. The straggler of the group appears to be the Canon EOS 6D with its 11 AF points, of which only one is a faster cross type. However, if you are of center-focus-recompose school of focusing, that's not going to be a concern.
+
+Burst rate
+
+Continuous shooting speed is one category in which these full frame DSLRs appear to be losing the battle against their smaller mirrorless competition, and that spending more doesn't always get you something better.
+
+All of them have comparable speeds of between 4.5 and 6.5 fps when shooting full frame, full resolution images. This can however sometimes be increased by shooting a crop part of the frame, or at a reduced resolution.
+
+ISO range
+
+The large full frame CMOS sensors of these cameras mean they should all perform well in a variety of lighting conditions, and the ISO ranges certainly appear to back this up. While we've tried to stick to the manufacturer quoted native ranges, it's worth noting that these can be extended in some cases, when needs must. For example the Canon 5D M3 can reach and expanded ISO 102400.
+
+Video resolutions
+
+With the exception of the Nikon Df which shuns video recording altogether, all of the cameras can shoot Full HD 1080p video.
+
+The Nikon D750 and D810 shoot Full HD at 60/50/30/25/24 fps and the Sony A99 can do this at 60/50/24 fps, while the other cameras are limited to a maximum of 30/25 fps. When dropping resolution demands to 720p Canon 6D and 5D M3 can also record at 60/50 fps.
+
+While none of the DSLRs in this category are able to record 4K video  despite cameras like the Panasonic GH4 and Samsung NX 1 being able to  we'd be surprised if we were saying the same thing this time next year.
+
+Viewfinder
+
+The Sony A99 shows its true colors as a SLT camera rather than a DSLR (it features translucent mirror technology) by its use of an electronic viewfinder. This OLED offering comes in at 2,359k dots and is able to show a real-time display of the images you are taking.
+
+The other more traditional DSLRs have optical viewfinders, of which only the one of the Canon 6D fails to show 100 percent frame coverage. Its 97 percent coverage means that the images you shoot will actually be slightly wider than they appear in the viewfinder.
+
+Monitor
+
+While fully-articulated touch-screens now feature on many mirrorless and lower-end DSLR cameras, they've not yet made it to full frame DSLRs. Indeed it's only the monitors of the Nikon D750 and Sony A99 that can be angled to make it easier when shooting in awkward positions, and none are touch-screens.
+
+There isn't much of a size difference between the 3-inch screens of the Canon 6D and Sony A99 and the other 3.2-inch offerings on the others cameras. Resolution is also reasonably similar on all of these monitors. The monitors on the Nikon D750 and D810 might be easier to use than most of the others in sunny conditions, as they use white sub-pixels to improve brightness.
+
+Flash
+
+While the Nikon D750 and D810 both feature a built-in flash along with a hot-shoe, the other cameras just have the hot-shoe option for use with an external flash.
+
+File types
+
+As you would expect, all of these cameras can shoot both JPEG, along with RAW images  which users are probably going to prefer for their post-processing friendliness.
+
+Having previously pointed out that the Nikon D810 can now shoot RAW Small files, it's also worth noting that Canon cameras have been shooting a variety of RAW files for some time and that RAW, M-RAW and S-RAW options available are on both the 6D and 5D M3.
+
+Storage media
+
+As with the majority of cameras nowadays, all of these cameras have the option of shooting onto SD/SDHC/SDXC memory cards. However several have dual slots, which allow for instant back-up, additional storage space, or the ability to shoot one type of file to one card, and another on the second.
+
+While the Nikon D750 features dual SD card slots, the Nikon D810 and Canon 5D M3 instead have one SD and one CompactFalsh slot. The Sony A99 has just one card slot, but it is dual compatibility, meaning either SD or Memorystick Duo cards can be inserted.
+
+Wireless capabilities
+
+On the face of it, it might look like the cheaper full frame DSLRs outgun their more expensive competition in terms of wireless ability, and when it comes to built-in connectivity, they do. Both the Canon 6D and Nikon D750 feature built-in Wi-Fi for the easy sharing of images and remote shooting. The 6D and Sony A99 have built-in GPS while the D750 need an optional adapter.
+
+However, the other three cameras can all gain wireless and GPS capabilities through the use of various adapters. For example, the Nikon Df is compatible with the WU-1a wireless mobile adapter, while the Nikon D810 and Canon 5D M3 use the more professional-specified (and professionally-priced) WT-5A and WFT-E7 devices.
+
+Battery life
+
+Because of their size, full frame DSLRs tend to boast big long-lasting batteries which will get you though a long photo-shoot. And with the exception of the Sony A99, which is only good for 500 shots on a full charge, that appears to be the case here.
+
+The Nikon Df has the longest-lasting battery and with it being able to shoot around 1,400 images on a single charge, you might not need to carry a spare battery around with you.
+
+Lens mount
+
+There are no surprises when it comes to the lens mounts on each of these cameras. As such, these DSLRs all benefit from there being plenty of lens options, old and new, for photographers. This is potentially one of the biggest advantages that remains for DSLRs over the newer and less developed mirrorless systems.
+
+Price
+
+Full frame cameras don't come cheap, and the entry-point is currently around the US$1,900 to $2,000 mark that will get you a body-only version of the Canon 6D, Sony A99, or the not featured Nikon D610. The newer Nikon D750 is slightly more expensive at $2,300.
+
+At the other end of the price range, the Nikon D810 and Canon 5D M3 will set you back a comparable $3,300 or $3,400.
+
+Summing up
+
+There has never been a better selection of full frame DSLRs on the market, and any of the cameras in our comparison would serve you well. The Canon 6D, Sony A99, and the Nikon D610 (which we omitted in favor of its bigger brothers) all give you that big full frame sensor in a mid-sized DSLR.
+
+While this comparison has hopefully helped you identify which features are most important to you, and which camera most closely meets your needs, you'll probably also be thinking about the lens system you are already invested in. But remember, if you're jumping up from APS-S lenses to full frame, this might be as good a time as any to think about whether another brand can serve you better.
+
+Sitting above these great entry-points to the full frame DSLR market is the Nikon D750, which benefits from a more recent release date, and offers features including a variable monitor and built-in Wi-Fi. Then there's the quirky Nikon Df with its chunky retro-looks and lack of video recording which is sure to appeal to photography purists.
+
+At the higher end are the Nikon D810 and Canon 5D M3, which are both very solid and capable DSLRs that are only bettered by their respective brands' flagship cameras (with their much bigger price-tags). Decisions between the two will probably come down to what system you are already invested in, and whether you need all of those megapixels on the D810.
+
+As ever, we'd advise trying to get a bit of hands-on time with any of these cameras before you pull the purchase trigger, and remember that there are features which aren't easily compared in an article like this. It might be that dynamic range is more important to you, or that you just prefer the images from one specific camera. Button layout and handling are also major factors to consider, and best decided with the camera in your hands.
+
+Finally, it's worth noting that because of release schedules, there's a chance Canon and Sony could both update their full frame DSLR lineups early next year. So if you find yourself heading towards one of their current cameras and don't need to buy it right now, you might want to hold off for a couple of months to see if there's something coming out that suits you even more.
+
+Share
+
+Buy this on Amazon

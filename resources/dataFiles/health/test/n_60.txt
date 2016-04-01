@@ -1,0 +1,45 @@
+<health>##Technical Overview on Spinning Disk Confocal Laser Microscopy
+HEADLINE_ARTICLE
+Introduction
+
+This article offers an overview of spinning disk confocal laser microscopy and explains why it is more beneficial than confocal microscopy. In traditional widefield optical microscopy, the sample is broadly illuminated with excitation light (Figure 1a). The sample then emits fluorescence outside the focal plane of the objective, which disrupts the resolution of features in focus. The capturing of fine detail above out-of-focus signal becomes increasingly difficult, the thicker a sample is. According to the confocal principle, out-of-focus light is rejected by using a pinhole, with the additional benefit of better axial and lateral resolution.
+
+Figure 1a. Widefield Microscopy
+
+In a typical confocal microscopy setup, light from the right plane (shown in green in Figure 2) moves through the pinhole. Light from the plane under the imaged plane is focused before the pinhole and does not pass through it. This means that only light from one of the planes is in focus to pass through the pinhole and therefore confocal.
+
+Confocal microscopy is a popular optical method that is widely used in many fields of biological science, from plant science through to mammalian research. The reason it is so commonly used is that it offers several advantages over conventional widefield microscopy such as the elimination of out-of-focus signal, the ability to capture information from a reduced focus depth and imaging discreet optical regions in thicker samples that creates high contrast 3D sets of images.
+
+Principle of Confocal Laser Scanning Microscopy
+
+Confocal laser scanning microscopy (CLSM) is the most widely used confocal technique (Figure 1b). A single point of laser light is used to illuminate a sample. In this technique, laser radiation undergoes point by point scanning in a raster pattern. A photomultiplier tube is used to detect the signal sequentially from each point until a complete image is produced.
+
+In CLSM, a trade-off exists between speed and image resolution. In the case of a 512x512 pixel array, light is focused on each point for 1 s, and each scan takes around 262 ms. Within that 1 s, the signal from each point must be obtained and between the first and last scan points there is a 0.26 s time skew. A powerful laser beam is required to make up for the brief illumination of each pixel and if the sample is dynamic, this skew can cause observation errors.
+
+Figure 1b. Confocal laser scanning microscopy
+
+Spinning Disk Confocal Laser Microscopy
+
+This problem with observation errors can be overcome by using spinning disk confocal laser microscopy (SDCLM) and exploiting the multiplex principle. In SDCLM (Figure 1c), the sample is illuminated and light detected simultaneously at multiple points. The use of parallel detection to enhance sensitivity was originally illustrated by Felgett.
+
+Figure 1c. Spinning disk confocal microscopy
+
+The operation (Figure 2) of the dual spinning disk confocal laser scanner involves sequential scanning of the sample using a narrow laser beam. Microlenses mounted on a disk are illuminated by an expanded beam of light. Each microlens has an associated pinhole that is co-aligned on another pinhole axially positioned at the focal plane of the microlenses.
+
+The disks are fixed to a common shaft driven by a motor at high speed. When the disks spin and the scanner is linked to a microscope that has the pinhole disk located in its primary image plane, a range of focused laser beams scan the sample. The advantage of this method was realized by Yokogawa who created the CSU spinning disk confocal unit, which is now commonly applied in confocal live cell imaging.
+
+The microlenses and pinholes are arranged in a way that scans a field of view defined by the microscope objective magnification and the array aperture size. Fluorescent labels in the sample are excited by the scanning laser beams. The emission of fluorescence is the greatest where this array is focused - the focal plane. A certain amount of this light is returned back along the excitation path, where it is preferentially selected by the same 'confocal' pinholes. The laser emission is separated from the excitation light by a dichroic mirror located between the two disks. The geometry of this emission path gives rise to a confocal fluorescence signal with very low background noise.
+
+Figure 2. Dual disk arrangement of the Yokogawa CSU-X
+
+Conclusion
+
+Although conventional CSLM is still a widely used optical technique, the use of photomultiplier tubes that have a low quantum efficiency (QE of 30-40%) is another limitation. With SDCLM, a camera serves as a detector, which can have a very high QE, of more than 90%, making it an almost perfect detector. The combination of a high QE detector and the Yokogawa dual spinning disk offers a high speed confocal instrument with a signal-to-noise ratio that is unparalleled.
+
+About Andor
+
+Andor Technology, an Oxford Instruments company, is a global leader in the pioneering and manufacturing of high performance scientific imaging cameras, spectroscopy solutions and microscopy systems for research and OEM markets. Andor has been innovating the photonics industry for over 20 years and continues to set the standard for high performance light measuring solutions, enabling its customers to break new ground by performing light measurements previously considered impossible. Andors digital cameras, are allowing scientists around the world to measure light down to a single photon and capture events occurring within 1 billionth of a second.
+
+Andor now has over 400 staff across 16 offices worldwide, distributing products to over 10,000 customers in 55 countries. Andors products are used in a wide range of applications including medical research to further the understanding of heart disease, cancer and neuronal diseases such as Alzheimers and Parkinsons disease. Andor also has applications for forensic science and astronomy. Through continuous dialogue with customers and strong teamwork, Andor continues to innovate ground-breaking products that improve the world in which we live.
+
+Sponsored Content Policy: News-Medical.net publishes articles and related content that may be derived from sources where we have existing commercial relationships, provided such content adds value to the core editorial ethos of News-Medical.Net which is to educate and inform site visitors interested in medical research, science, medical devices and treatments.

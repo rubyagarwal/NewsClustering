@@ -1,0 +1,37 @@
+U-M study: Nearly half of American hospitals not taking key steps to prevent C. diff infections
+HEADLINE_ARTICLE
+Nearly half of American hospitals aren't taking key steps to prevent a kind of gut infection that kills nearly 30,000 people annually and sickens hundreds of thousands more - despite strong evidence that such steps work, according to a new study.
+
+While nearly all of the 398 hospitals in the study use a variety of measures to protect their patients from Clostridium difficile infections, 48 percent haven't adopted strict limits on the use of antibiotics and other drugs that can allow the dangerous bug to flourish, the researchers report.
+
+Hospital patients are especially prone to developing C. diff infections, and suffering serious effects -- especially after they take antibiotics that disrupt the community of bacteria in their digestive systems.
+
+In a paper published online in Infection Control & Hospital Epidemiology, the team from the University of Michigan Medical School and VA Ann Arbor Healthcare System reports the results of their survey of a national random sample of hospitals.
+
+Virtually all the hospitals had programs to monitor for C. diff infections, and use protective gear, separate hospital rooms and special cleaning techniques when treating a C. diff-infected patient, so that it doesn't spread to other patients. In addition to being present in bodily fluids, C. diff can form spores that can persist in the hospital environment for weeks.
+
+But the lack of antimicrobial stewardship programs, as antibiotic-limiting efforts are called, persists in nearly half of hospitals -- despite the fact that the infection control leaders surveyed almost all agree that such efforts have been proven to prevent C. diff infections.
+
+In addition to the lack of antimicrobial stewardship programs, the researchers also found a widespread lack of written policies to test patients for C. diff infection when they developed diarrhea while taking antibiotics or within several months of taking them. Nearly three-quarters of hospitals didn't have such policies, though diarrhea is a key symptom of C. diff -- and can lead to dangerous complications and death in vulnerable hospitalized patients.
+
+"C. diff infection over the last decade has emerged as a threat to patients, especially the most vulnerable and the elderly, and has increased in incidence and severity," says Sanjay Saint, M.D., MPH, lead author of the new paper.
+
+"There are many ways to try to limit the spread, and from our data it looks like hospitals are aware of the evidence behind them and acting on many where they believe the evidence is strong," he continues. "But the one area where there's a major disconnect between evidence and practice is antimicrobial stewardship, or limiting antibiotics to use only when necessary. This is a real opportunity for improvement."
+
+For the new study, Saint and his colleagues from the Patient Safety Enhancement Program, a joint U-M and VA program, surveyed infection control leaders at hospitals, as part of an ongoing project that started in 2005. More than 70 percent of the 571 hospitals that received the survey answered it.
+
+Antibiotics in the crosshairs
+
+More than 60 percent of hospitalized patients receive antibiotics - and as much as 50 percent of that antibiotic use may be inappropriate, according to other research.
+
+Saint notes that reducing antibiotic use in hospitals not only reduces the risk of C. diff infection - it also reduces the chance of bacteria will develop antibiotic resistance and become "superbugs".
+
+Last fall, the White House set a goal of reducing C. diff infections by 50 percent by 2020, as part of its National Strategy for Combatting Antibiotic-Resistant Bacteria. The Centers for Disease Control and Prevention has also targeted C. diff as a key threat to public health. And hospitals' C. diff infection rates among Medicare participants are publicly reported on the Hospital Compare website operated by the U.S. Department of Health and Human Services.
+
+Saint points to a Michigan-based effort that is working to help hospital-based doctors, called hospitalists, improve quality and safety. Led by U-M hospitalist and co-author of the new study Scott Flanders, M.D., the Michigan Hospital Medicine Safety Consortium is exploring collaborations between hospitalists and infectious disease prevention specialists to reduce use of antibiotics.
+
+"The doctors who prescribe most of these antibiotics, and who would have to buy in to stewardship programs, are hospitalists," says Saint. "Nationally, they're the ones we must engage with to overcome this disconnect between what people think works and what they're actually doing, and to implement stewardship programs. This is about changing physician behavior and that makes it more challenging."
+
+Saint and Flanders in 2014 authored a viewpoint article in JAMA Internal Medicine about factors that might cause antibiotic overuse in hospitals to persist.
+
+Research on C. diff at U-M goes back decades to the work of Robert Fekety, M.D. to improve the diagnosis and treatment of the infection in hospitalized patients. At the same time, current research by U-M scientists is tracking the impact of C. diff on the gut, and the impact of antibiotics on it.

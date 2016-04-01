@@ -1,0 +1,83 @@
+Lipoproteins and Their Applications
+HEADLINE_ARTICLE
+Introduction
+
+Lipids are a group of organic compounds that include fatty acids (or their derivatives), steroids, waxes, and many natural oils. These compounds can be dissolved in organic solvents but are insoluble in water. Blood plasma contains triacylglycerols, fatty acids, fat soluble vitamins, and steroids, which are all transported by carrier proteins. Serum albumin carries fatty acids from the adipose tissue to the heart, muscle, and liver tissues, and the retinol binding protein carries vitamin A. Steroids are carried to target cells by steroid carrier proteins. Figure 1 shows a standard cell structure.
+
+Figure 1. A typical cell structure
+
+Lipoproteins are biochemical assemblies that are made up of lipids and proteins. The lipids or their derivatives may be bound to the proteins either covalently or non-covalently. In the plasma, lipoproteins transport most of the body's lipids, which include triacylglycerols, phospholipids, and cholesterol. Lipoproteins constitute various enzymes, structural proteins, transporters, adhesins, antigens, and toxins. Examples include low density lipoproteins (LDLs) and high density lipoproteins (HDLs), which transport fats in the blood; the transmembrane proteins of chloroplasts and mitochondria and bacterial lipoproteins. The function of these lipoprotein particles is to transport cholesterol and fats around the body via the bloodstream.
+
+Alfa Aesar supplies various LDLs and modified LDLs. These products are commonly used as disease markers and cell markers.
+
+Human LDL and Acetylated LDL
+
+Human LDL is separated from human plasma produced from blood banks. Ultracentrifugation is used to purify the human LDL to homogeneity, as determined by agarose gel electrophoresis. Each batch is assessed for receptor binding to human skin fibroblasts. Acetylated human LDL (Ac-LDL) is also supplied by Alfa Aesar. As shown on agarose gel electrophoresis, Ac-LDL is purified to homogeneity and each batch is then assessed for receptor binding to murine peritoneal macrophages.
+
+Anti-Human LDL
+
+Purified LDL immunogen is used to prepare anti-Human LDL in rabbits and the serum obtained is purified on an LDL sepharose column. Both human VLDL and LDL react with the antibody, while human HDL does not react, as determined through ELISA and immunodiffusion methods. The antibody is appropriate for the immunohistochemical localization of LDL, oxidized LDL (Ox-LDL), and Ac-LDL in tissues or cells. Each batch is examined for the localization of Ac-LDL or LDL receptors using ligand blotting methods.
+
+Oxidized LDL
+
+Ox-LDL plays a key role in the atherogenic process. Generated using various different methods including copper mediated oxidation, Ox-LDL has been used in several published studies. Indeed, the biological effects of Ox-LDLs on endothelial cells, macrophages, and smooth muscle cells have been widely researched in various laboratories across the globe. The majority of researchers who focus on the biological effects of Ox-LDL such as gene regulation, tend to use regularly oxidized Ox-LDL. Alfa Aesar supplies Ox-LDL and Dil-Ox-LDL products. The former is produced through copper sulfate oxidation. Each lot is examined for the level of oxidation and then assessed for receptor binding to macrophages.
+
+DiI-LDL, Cell Marker
+
+Labeled with 1,1'-dioctadecyl-3,3,3',3'-tetramethylindocarbocyanine perchlorate, DiI-LDL is typically used to check for cell mutants defective in the expression of LDL receptors or to observe LDL binding sites in cultured cells. DiI-LDL can also be used to assess receptor levels using fluorescent activated cell sorting, and for studying tissue levels of receptor in vivo. It serves as an excellent marker of cellular endocytosis. This process follows a complete protocol.
+
+DiI Ac LDL and LDL Reagents
+
+Labeled with 1,1'-dioctadecyl-3,3,3',3'-tetramethylindocarbocyanine perchlorate, Ac-LDL is used to flag both macrophages and vascular endothelial cells in order to identify and/or isolate these from populations of mixed cells. Once labeled with DiI-Ac-LDL, lysosomal enzymes degrade the lipoprotein and the DiI (fluorescent probe) collects in the intracellular membranes. This labeling of cells with DiI-Ac-LDL does not affect cell viability.
+
+It is possible to separate pure cultures of vascular endothelial cells from complex primary cultures through fluorescent activated cell sorting based on their increased metabolism of the DiI-Ac-LDL. Smooth muscles, fibroblasts, epithelial cells, and pericytes are contaminating cell types and these are not labeled. Since they are more brightly labeled, macrophages can be differentiated from populations of mixed cells, including endothelial cells.
+
+Points to consider when using DiI Ac LDL and LDL reagents are listed below:
+
+They act as cell marker labels of macrophages and endothelial cells
+
+DiI-labeled cells remain viable
+
+DiI-labeled cells can be trypsinized
+
+They do not label matrix associated proteins
+
+They are directly applicable to cell sorting and fluorescence microscopy
+
+Labeling endothelial cells with DiI-Ac-LDL offers many benefits over labeling other endothelial cell associated antigens. This labeling is a one-step process and after the cells are labeled, trypsin does not remove the fluorescent probe (DiI). Confluent as well as low density cultures of endothelial cells are labeled effectively. With the exception of macrophages, no other cell type is labeled to the same extent as vascular endothelial cells. In order to ensure consistent results, each batch of DiI-Ac-LDL is assessed for specific labeling of murine macrophages and bovine aortic endothelial cells. Alfa Aesar also provides an FITC-like label DiO-Ac-LDL labeled with 3,3'-dioctadecyloxacarbocyanine perchlorate. This is useful for fixed wavelength FACS cell sorters.
+
+Carbamylated LDL
+
+The presence of accelerated atherosclerosis in kidney disease patients is not explained by traditional cardiovascular risk factors. Such patients have an increased urea level, which leads to protein carbamylation. It has been proposed that the LDLs carbamylated by urea have biologic effects that are relevant to atherosclerosis.
+
+Carbamylated LDL promotes death of endothelial cells and makes way for the growth of smooth muscle cells. Differentially carbamylated LDL (c-LDL) are available from Alfa Aesar. Carbamylated Human LDL is prepared with potassium cyanate and each batch is examined to assess the extent of carbamylation present compared with native LDL in nanomoles/mg protein, and the migration of c-LDL compared with the native LDL on agarose gel electrophoresis.
+
+Human HDL and VLDL
+
+Human HDL is isolated from human plasma produced from blood banks. Ultracentrifugation is used to purify it to homogeneity, as determined by agarose gel electrophoresis. It is aseptically packaged and refrigerated at 4C.
+
+Human very low density lipoprotein (VLDL) is also isolated from this plasma and purified to homogeneity via ultracentrifugation, as determined by agarose gel electrophoresis. VLDL is membrane filtered, aseptically packaged, and refrigerated at 4C.
+
+Lipoprotein Deficient Serum
+
+Lipoprotein deficient serum (LPdS) is prepared through ultracentrifugation and is extensively dialyzed. Alfa Aesar offers LPdS, which is assessed along with LDL to establish the level of LDL receptor upregulation.
+
+Apolipoproteins
+
+Apolipoproteins act as receptor ligands, enzyme cofactors, and lipid transfer carriers that control the metabolism and uptake of lipoproteins in tissues. Lipids are transported by apolipoproteins through the circulatory and lymphatic systems. Alfa Aesar offers two kinds of apolipoproteins: Apo A-I and Apo A-II, both of which are isolated from our human HDL and purified using column chromatography.
+
+Conclusion
+
+Lipoproteins are biochemical complexes composed of lipids and proteins. Examples of lipoproteins include enzymes, structural proteins, adhesins, antigens, transporters, and toxins. LDL and HDL are lipoproteins that transport fats around the body in the blood stream. Alfa Aesar supplies a variety of LDLs and modified LDLs, which are commonly used as disease and cell markers.
+
+References
+
+The neuroimmune guidance cue netrin-1 promotes atherosclerosis by inhibiting the emigration of macrophages from plaques, Janine M van Gils et al., Nat Immunol. 2012, 13(2): 136143. Membrane traffic and turnover in TRP-ML1deficient cells: a revised model for mucolipidosis type IV pathogenesis, Mark T. Miedel et al., J Exp Med. 2008, 205(6),14771490. CD36 coordinates NLRP3 inflammasome activation by facilitating the intracellular nucleation from soluble to particulate ligands in sterile inflammation, Frederick J. Sheedy, et al., Nat Immunol. 2013; 14(8), 812820. Mitotic Spindle Defects and Chromosome Mis-Segregation Induced by LDL/CholesterolImplications for Niemann-Pick C1, Alzheimers Disease, and Atherosclerosis, Antoneta Granic et al., PLoS One. 2013, 8(4), e60718. Caveolin-1 reduces HIV-1 infectivity by restoration of HIV Nef mediated impairment of cholesterol efflux by apoA-I, Shanshan Lin et al, Retrovirology. 2012; 9, 85. Murine bone marrow-derived macrophages differentiated with GM-CSF become foam cells by PI3K-dependent fluid-phase pinocytosis of native LDL, Joshua J. Anzinger et al., J. Lipids Research, 2012, 53, 34-42. ROCK2 Deficiency in Bone Marrow-Derived Cells Leads to Increased Cholesterol Efflux and Decreased Atherosclerosis, Qian Zhou et al., Circulation 2012, 126(18), 22362247. Cyclin-dependent kinase inhibitor 2B regulates efferocytosis and atherosclerosis, Yoko Kojima et al., J Clin Invest. 2014, 124(3), 10831097. Hsa-Let-7g miRNA Targets Caspase-3 and Inhibits the Apoptosis Induced by ox-LDL in Endothelial Cells, Yefei Zhang et al., Int J Mol Sci. 2013; 14(11), 2270822720. Macrophage Gene Expression and Foam Cell Formation Are Regulated by Plasminogen, Riku Das et al., Circulation, 2013, 127(11), 120916. The pro-atherogenic effects of macrophages are reduced upon formation of a complex between C-reactive protein and lysophosphatidylcholine, Mi-Kyung Chang et al., J Inflamm (Lond). 2012, 9, 42. Arterial endothelial dysfunction in baboons fed a high-cholesterol, high-fat diet, Qiang Shi et al., Am J Clin Nutr. 2005 82(4), 751759. Generation and characterization of feline arterial and venous endothelial cell lines for the study of the vascular endothelium, Dominique AJ Olyslaegers et al, BMC Vet Res. 2013; 9, 170. Phloroglucinol Inhibits the in vitro Differentiation Potential of CD34 Positive Cells into Endothelial Progenitor Cells, Yi-Hong Kwon et al., Biomol Ther (Seoul) 2012, 20(2), 158164. ROCK2 Deficiency in Bone Marrow-Derived Cells Leads to Increased Cholesterol Efflux and Decreased Atherosclerosis, Qian Zhou et al., Circulation. 2012 October 30; 126(18): 22362247 Molecular basis of cardiac endothelial-to-mesenchymal transition (EndMT): Differential expression of microRNAs during EndMT, Asish K. Ghosh et al., Cell Signal. 2012, 24(5), 10311036. Caveolae-Dependent and -Independent Uptake of Albumin in Cultured Rodent Pulmonary Endothelial Cells, Hui-Hua Li et al., PLoS One 2013; 8(11) e81903 A Systematic Approach to the Establishment and Characterization of Endothelial Progenitor Cells for Gene Therapy, Natalie Jayne Werling et al., Hum Gene Ther Methods. 2013, 24(3), 171184. Identification of mouse colony-forming endothelial progenitor cells for postnatal neovascularization: a novel insight highlighted by new mouse colony-forming assay, Shizu Tsukada et al., Stem Cell Res Ther. 2013, 4(1), 20. Carbamylation-induced alternations in low-density lipoprotein metabolism, Sohvi Horkko et al., Kidney International, 1992, 41, 1175-1181. Carbamylated low-density lipoprotein induces death of endothelial cells: A link to atherosclerosis in patients with kidney disease, Ercan Ok et al., Kidney International, 2005, 68, 173-178. Role of lysine residues of plasma lipoproteins in high affinity binding to cell surface receptors on human fibroplasts, K. H. Weisgraber, et al., J. Biol. Chem., 1978, 253, 9053-9062. Cholesterol efflux analyses using stable isotopes and mass spectrometry, Robert J. Brown et al., Anal Biochem. 2013, 433(1), 5664. Membrane traffic and turnover in TRP-ML1deficient cells: a revised model for mucolipidosis type IV pathogenesis, Mark T. Miedel et al., J Exp Med. 2008, 205(6), 14771490. Cholesterol efflux is differentially regulated in neurons and astrocytes: implications for brain cholesterol homeostasis, Jing Chen et al., Biochim Biophys Acta 2013, 1831(2), 263275. Human Subtilase SKI-1/S1P Is a Master Regulator of the HCV Lifecycle and a Potential Host Cell Target for Developing Indirect-Acting Antiviral Agents, Andrea D. Olmstead et al., PLoS Pathog. 2012, 8(1), e1002468. PCSK9 Prosegment Chimera as Novel Inhibitors of LDLR Degradation, Yascara Grisel Luna Saavedra et al., PLoS One. 2013, 8(8), e72113. Caveolin-1 reduces HIV-1 infectivity by restoration of HIV Nef mediated impairment of cholesterol efflux by apoA-I, Shanshan Lin et al, Retrovirology. 2012, 9, 85. ROCK2 Deficiency in Bone Marrow-Derived Cells Leads to Increased Cholesterol Efflux and Decreased Atherosclerosis, Qian Zhou et al., Circulation. 2012, 126(18), 22362247. Cholesterol efflux analyses using stable isotopes and mass spectrometry, Robert J. Brown et al., Anal Biochem. 2013, 433(1), 5664.
+
+About Alfa Aesar
+
+Part of the Johnson Matthey group of companies, Alfa Aesar is a leading manufacturer and supplier of research chemicals, metals and materials in a wide span of applications. For more than 50 years, scientists have relied on Alfa Aesar to supply high purity raw materials for a variety of research and development applications. Today we offer over 46,000 products in stock, in sizes from gram-scale catalog items to semi-bulk and bulk production quantities. With custom manufacturing capabilities to supply many more specialized items, we are a one-stop source for research chemicals, metals and materials.
+
+Our product line consists of a comprehensive range of inorganic, organic and organometallic compounds; pure metals and elements; precious metal compounds and catalysts; biochemicals; fuel cell products; nanomaterials; rare earths; analytical products; and select laboratory equipment. Backed by the global manufacturing network of Johnson Matthey and other key partnerships, we offer customers the highest quality and purity in fine chemical products. We are accustomed to supplying R&D laboratories in the pharmaceutical industry and the electronics industry, as well as academic institutions and many others.
+
+Sponsored Content Policy: News-Medical.net publishes articles and related content that may be derived from sources where we have existing commercial relationships, provided such content adds value to the core editorial ethos of News-Medical.Net which is to educate and inform site visitors interested in medical research, science, medical devices and treatments.

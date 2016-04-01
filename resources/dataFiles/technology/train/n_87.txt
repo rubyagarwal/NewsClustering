@@ -1,0 +1,15 @@
+TableDrum iDevice app turns any surface into a virtual drum kit
+HEADLINE_ARTICLE
+With a few notable exceptions, the fine art of tabletop tapping has been a purely non-digital experience for most people. Now, iDevice users can turn their rhythmic creations into real-time drum sounds, courtesy of the TableDrum app from Sweden's Dohi Entertainment. Rather than have virtual drummers tap out the beat on touchscreen icons, this app uses the device's microphone to pick out individual sounds made by thrumping on different surfaces, and allows the user to assign them to the various parts of a drum kit.
+
+Who doesn't like to while away the odd moment or two drumming away on a table, desk or counter top? The Table Drum Augmented Audio application allows iOS device users to turn that acoustic finger pounding into digitized drum sounds, in real time. The developers say that just about any real world object can be used to generate the sounds needed to make up the four piece drum kit. Each virtual pad can be assigned one of 40 drum samples.
+
+With the app active on your iPhone, iPad or iPod touch, you need to grab yourself some household, kitchen or office objects that happen to be lying around and place them within range of your device's included (or external) microphone. The app recognizes the different sounds made by tapping each object with a pen, pencil or finger and each sound can then be assigned to one of the four drum pads on the screen - such as the top of an upturned coffee cup for the snare, the plastic casing of a computer mouse for the hi-hat or crash cymbal, the thud of a table top for bass drum, and so on.
+
+"By altering sound through live interaction on an iOS device, TableDrum pushes the boundaries of table drumming" says Rasmus Larsson, Software Developer at Dohi Entertainment. "Users interact with objects in their surroundings, teaching the app their distinct drumming sounds, augmenting the input of up to four simultaneous sources into a complete drumming experience."
+
+The TableDrum app comes supplied with a Classic Rock drum kit, but the library can be expanded to include samples from the Ethno and Jazz kit, and Electro and Glitch kit. As you can see from the following video demonstration, once the percussive objects have had drum samples assigned - you can turn your finger drumming into realistic rhythms:
+
+Unfortunately, at the moment TableDrum is a play only app - there's no facility to record your percussive creations, but that may change in a future update. It's available now from the iTunes Store for US$3.99 (at the time of writing, though, it can - for a limited time - be purchased at a significant discount).
+
+Share

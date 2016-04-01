@@ -1,0 +1,39 @@
+Using EFT NMR to Determine Spectra of Propyl benzoate
+HEADLINE_ARTICLE
+Chemical Structure
+
+Introduction
+
+Propyl benzoate or benzoic acid propyl ester is a naturally occurring, organic chemical compound found in clove stems and sweet cherry. This compound has a broad range of useful applications. It is used as a synthetic food flavoring due to its nutty odor and sweet taste and as a preservative in the cosmetic industry due to its antimicrobial properties.
+
+An automated process has been developed by Anasazi Instruments for the calibration of decoupler power and pulse widths. The standard sample used for this process is 98% propyl benzoate/2% TMS.
+
+Propyl benzoate
+
+The proton spectrum in figure 1 shows the typical resolution that can be achieved using EFT, even when a sample is concentrated. As is the case with all esters, the alpha protons are shifted to a higher frequency as a result of deshielding caused by the conjugation in the region of the ester functionality. The 1H-1H proton couplings are well resolved for the aliphatic resonances.
+
+Figure 1. Proton spectrum of 98% propyl benzoate with 2% TMS
+
+As indicated in figure 2, the 13C spectrum was obtained in just one minute and the eight resonances were clearly resolved. The single substituted ring carbon and the carbonyl carbon are easily distinguished. This could be further enhanced by using pulse widths of 30 rather than 90 and by increasing the relaxation delay by 1 to 2 seconds beyond the standard.
+
+Figure 2. C13 spectrum of propyl benzoate
+
+The EFT spectrometers use the 13C distortionless enhancement via polarization transfer (DEPT) experiment to obtain the DEPT45, DEPT90 and DEPT135 spectra. The spectra are collected as a single data set and then automatically processed. Carbons missing directly attached protons (1, 7) are excluded in all three experiments. Figure 3 illustrates that the DEPT-90 shows almost no residual evidence of the CH2 or CH3 resonances.
+
+Figure 3. C13 DEPT spectra for propyl benzoate
+
+2D Experiments
+
+The most common 2D experiments used on the EFT are the Correlation Spectroscopy experiment or COSY (Figure 4) and the Heteronuclear Correlation experiment or HETCOR (Figure 5). In COSY, gradient pulses are used, which enables faster acquisitions, without the need for complete phase cycling. This reduces the experiment time by a factor of 4.
+
+Figure 4. COSY spectrum of propyl benzoate
+
+The HETCOR experiment provides 1H-13C coupling data for protons that are directly attached to carbons. The 2D plot peaks show that the 13C immediately above the peak is directly linked to the proton(s) to the left of the peak.
+
+Figure 5. HETCOR spectrum of propyl benzoate
+
+About Anasazi Instruments
+
+Anasazi Instruments has been providing high quality, rugged, easy-to-use 60 and 90 MHz NMR spectrometers and upgrades to the educational and industrial markets. These instruments have been successfully implemented at hundreds or institutions ranging from large companies and top-tier universities to community colleges throughout North and South America. In research environments, the Eft is a cost-effective workhorse for synthetic and analytical laboratories.
+
+Sponsored Content Policy: News-Medical.net publishes articles and related content that may be derived from sources where we have existing commercial relationships, provided such content adds value to the core editorial ethos of News-Medical.Net which is to educate and inform site visitors interested in medical research, science, medical devices and treatments.

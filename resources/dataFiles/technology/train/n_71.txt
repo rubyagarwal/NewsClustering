@@ -1,0 +1,109 @@
+2015 MacBook Pro with Retina Display vs. 2015 MacBook Air
+HEADLINE_ARTICLE
+Gizmag compares the features and specs of the 2015 versions of the 13-in MacBook Pro with Retina Display (left) and 13-in MacBook Air
+
+Apple's new MacBook may have stolen the thunder with the company's early 2015 notebook releases, but the Retina MacBook Pro and MacBook Air got updates as well. Let's compare the features and specs of the latest 13-in MacBook Pro with Retina Display and 13-in MacBook Air.
+
+Size
+
+The exteriors on both models are unchanged from recent versions. That still has the MacBook Air measuring about 4 percent taller and 3 percent wider than the Retina MacBook Pro.
+
+Based on maximum thickness, the Air is only 4 percent thinner  but when you consider the Air's tapered design (vs. the more uniform thickness on the Retina MBP), it's a significantly thinner device.
+
+ if you really want thin, though, then neither of these come close to that new 12-in MacBook. Suddenly the MacBook Air's entire identity (the light and thin one) is called into question, and it now simply stands at "the cheaper one."
+
+Weight
+
+The MacBook Air tips the scales at about 15 percent lighter than the MacBook Pro with Retina Display.
+
+Build
+
+No changes here either, as both have the same aluminum unibody exteriors from years past.
+
+First appearance of current design
+
+For a little extra context on that, these are the dates that the exteriors for the current models first debuted. Note that the late 2013 Retina MacBook Pro was nearly identical to the first two generations, but was slightly thinner.
+
+Colors
+
+Apple is offering that new MacBook in three different color options, but these two stand pat with one choice: that familiar silver finish.
+
+Display (size)
+
+Both machines have 13.3-in displays, with 16:10 aspect ratios.
+
+Display (resolution)
+
+This is still a huge advantage for the Retina MacBook Pro, as its screen is 77 percent sharper.
+
+That 12-in MacBook is shaking up identities here too. Now a Retina Display is no longer the main reason to buy the Retina MBP. Its new selling point is that it has a terrific screen resolution and pro-level power (along with a full set of ports).
+
+Force Touch trackpad
+
+Apple's new trackpad uses technology that will show up in the Apple Watch. Force Touch makes a non-moving glass trackpad feel very similar to the old moving ones (like you'll still find in this latest MacBook Air). This may have freed up some space for the bigger battery found in this year's rMBP.
+
+The Force Touch trackpad also allows for a new way of interacting with OS X. The Force click is a deeper press on the trackpad, and (for the time being) replaces the old three-finger double-tap (for calling up pop-up definitions and the like). Apple will probably be adding more Force click capabilities down the road.
+
+Storage
+
+The base storage options are the same on both machines, but the Retina MacBook Pro reaches up a little higher.
+
+Note that the tiers marked with asterisks are configurable (made-to-order) options, and won't likely be sold in stores.
+
+SDXC
+
+Unlike that new 12-in MacBook, each of these machines has an SD card slot. These are great for photographers, as well as discreet storage expansion, courtesy of accessories like the JetDrive Lite.
+
+Processor
+
+This is one of the biggest reasons to go for the Retina model, as its performance is in a higher class. For casual use (and many pro uses), the MacBook Air still delivers great speeds, but for power users, there's no question which model is the better choice.
+
+Note that there are also made-to-order processor configurations for each model.
+
+RAM
+
+This is another performance advantage for the rMBP. Here again the asterisk figures are configurable options.
+
+Graphics
+
+The Retina model also has better integrated graphics.
+
+Battery
+
+Along with portability and pricing, this is the other big reason to go for the MacBook Air  though the rMBP's improved uptimes make this less of an advantage for the Air than it used to be.
+
+USB 3.0
+
+Each laptop gives you two USB 3.0 ports. Apple clearly sees USB Type-C as the future, as that's the only port (including for power) found on the new 12-in model, but until that standard catches on, you still have these two machines to play nicely with all your current accessories.
+
+Thunderbolt
+
+Both machines support the (likely on its way to the grave) Thunderbolt standard, though the rMBP gives you and extra one.
+
+HDMI
+
+Only the Retina MacBook Pro has an HDMI port. You can use the Air's Thunderbolt port for Mini DisplayPort for video out, or use an adapter with one of its USB ports.
+
+Webcam
+
+Apple didn't change anything here, as these 720p webcams ("FaceTime cameras") have been found in every MacBook for years.
+
+Incidentally, that new MacBook dropped this down to 480p  in an apparent sacrifice in the name of lightness and thinness (or perhaps as an ode to profit margins).
+
+Software
+
+Both PCs run OS X Yosemite.
+
+Release
+
+The latest Retina MacBook Pro and MacBook Air launched after Apple's latest event, in March. We also saw a new 11-in MacBook Air at the time, but there's no new 15-in Retina MacBook Pro just yet.
+
+Starting price
+
+You can save US$300 on the MacBook Air, but with its aging (some would say "ancient") display resolution and 4+ year-old design, that $1,000 price is getting harder to justify. From where we stand now, we think the Retina MacBook Pro and the new 12-in MacBook are likely to be more compelling values at $1,300 and up. But at least you still have a "cheap" (relatively speaking) option for a 13-in MacBook.
+
+For more, you can read Gizmag's 2015 13-in Retina MacBook Pro review and our new 12-in MacBook review.
+
+Share
+
+Buy this on Amazon

@@ -1,0 +1,39 @@
+Apple Watch Gets Teardown Treatment
+HEADLINE_ARTICLE
+Apple's wrist bling earned a five-out-of-10 repairability score from the iFixit teardown experts.
+
+Enough has been said about the Apple Watch's aesthetic, apps, and abilities. But what really makes the high-tech wearable tick?
+
+The iFixit team found out this week in a teardown of the Apple Watch Sport, charging cradle, and power adapter.
+
+The team flew to Australia to get it as early as possible, and after some initial oohing and aahing, they turned their attention to the back of the case, where the heart-rate monitor's infrared and visible-light sensors are housed.
+
+First things first: Remove the plastic band. Apple makes it easy to swap strapsjust press a button on the back case to release a metal peg, then slide out each end. The manufacturer does not, however, want users mixing models; customers are encouraged to pick a new band from the same collection as the watch face.
+
+Look closely and you'll find the model number (A1553 for the 38mm case, A1554 for 42mm) and a hidden wee door, likely just the reported diagnostic port.
+
+Moving into the belly of the beast, the iFixit team celebrated a lack of external screws before popping open the watch screen. Disconnecting the display proves difficult, thanks to cables trapped under a springy bracket.
+
+Past the first obstacle, the teardown crew soldiers on, removing the display panel to find the Taptic Engine (supplies notifications) and Digital Crown (allows scroll, zoom).
+
+Occupying the bottom half of the watch is the 205 mAh battery, which Apple claims will provide up to 18 hours of use, or about 6.5 hours of audio playback, three hours of talk time, and 72 hours in Power Reserve mode.
+
+The first real roadblock: What iFixit called "the tiniest Tri-wing screws we've ever seen." Too small, even, for their expert tools. Quick on their feet, the team made a few modifications and moved on with their teardown, where they found the microphone ribbon cable fixed between the inner and outer layers of the case.
+
+Digging deeper, they found the O-ring-equipped speaker, which promises water resistance during exercise, rain showers, and hand washing. Do not, Apple repeats, submerge the watch in water.
+
+The team took another stumble when it reached a tiny panel covering a diagnostic port; they pushed it free through the holes on the inside of the case. "There's got to be an easier way to access the door than disassembling the whole watch," the teardown said. "But we're not privy to Apple's secrets."
+
+With the release of the Digital Crown bracket comes access to the S1 SiP, with ribbon cables and "gobs of adhesive" covering its undercarriage, which houses the lonesome AD7166 ARM Cortex M3-based touch-screen controller.
+
+The teardown experts, however, didn't end with their Apple Watch excavation; they also broke into Cupertino's inductive charger, which was filled with glue and covered with undecipherable markings.
+
+In the end, the high-tech wrist bling earned a five-out-of-10 score, bolstered by its easily removed watchband, and difficult-but-not-impossible-to-remove display. But while the battery is fairly simple to squeeze out, a number of other components won't budge.
+
+Most customers, however, will never even peek inside their new wearable, which is due out today to early-bird buyers, who can also tap into the now-live Apple Watch App Store.
+
+A lucky handful of developers were also chosen for a chance to buy the 42mm Apple Watch Sport and have it arrive by April 28.
+
+For more, see PCMag's Hands On With the Apple Watch and the slideshow of video tips above. Our full review will arrive next week.
+
+Also check out 5 Reasons You Should Buy the Apple Watch and 5 Reasons You Should Not Buy the Apple Watch and 25 Things to Know About Apple Watch.

@@ -1,0 +1,45 @@
+Evaluation of Biological Specimens Using CytoFLEX Flow Cytometer
+HEADLINE_ARTICLE
+Introduction
+
+Senior research and development scientists at Beckman Coulter along with other research laboratories, used Beckman Coulters CytoFLEX flow cytometers to assess biological samples. These samples included human leukocyte control cells and fresh human whole blood, as well as smaller particles and cells such as microbes, vesicles, liposomes, platelets and red blood cells (RBCs). The flow cytometers were configured with 9 fluorescent detectors and 12 parameters equipped with violet laser side scatter channel (VSSC) option.
+
+Human Leukocyte Control Cells
+
+Beckman Coulter human leukocyte control cells were used to obtain a 9-color data set. Examination of the human control leukocyte cells demonstrated the predicted populations of B cells, T cells, NK cells, and NKT cells. In order to assess the capability of the instrument to resolve small particles, RBC microparticles were analyzed. Annexin V was used to stain a three month old human blood sample stored according to standard blood banking conditions.
+
+Side scatter and forward scatter extinction showed intact RBCs. transition events, and RBC microparticles. A homogeneous population of rod-shaped bacteria called Listeria innocua was stained with Syto9 and propidium iodide. Finally, the live cell versus dead cell populations were analyzed.
+
+Another experiment analyzed micro particles isolated from rat plasma. These vesicles were stained using CD42d and AnnV Dy488. Using fluorescence and VSSC, vesicle resolution from instrument noise was achieved. Using the VSSC, an increase in background noise and scatter signal sensitivity were achieved. The figures and data presented in this article represent the joint efforts of researchers from the University of Pittsburgh; La Jolla Bioengineering Institute; Beckman Coulter, Miami Site; and Purdue University Cytometry Laboratory (PUCL). Here, the flow cytometry instruments used are for research purposes only.
+
+Methods and Materials
+
+Human leukocyte control cells were stained in the following manner. First, the control cells were stained for a period of 15 minutes under dark conditions, washed, centrifuged and re-suspended prior to data acquisition on the CytoFLEX. VersaLyse was used to remove RBCs from three month old blood sample maintained under standard blood banking conditions before staining and analysis. Events were thresholded on Gly-A+ to eliminate non-RBC debris and white blood cells.
+
+Vesicles prepared from rat plasma were centrifuged using two spin cycles at 2500g. Listeria innocua was prepared from overnight culture. Multicolor flow cytometry was conducted on Beckman Coulters CytoFLEX cytometer. Analysis was performed using Beckman Coulters Kaluza and CytExpert software, and Applied Cytometrys VenturiONE software. Beckman Coulter supplied all the conjugates that were used in 9-color stainings, as shown in Table 1.
+
+Table 1: Antibody conjugates
+
+Results and Discussion
+
+Figure 1. 9-color human control leukocytes immunophenotyping staining.
+
+Figure 2. 9-color human whole blood immunophenotyping staining.
+
+Figure 3. From left to right: RBC clusters are eliminated; glycophorin dim events are eliminated; glycophorin+ events are subsetted on the basis of forward light extinction into low, intermediate and high populations; annexin binding (surface phosphatidyl serine) is detected in low (E, red), intermediate (C, yellow), and high (B, green) forward light extinction populations. Color eventing annexin binding events on forward light extinction and side scatter reveals RBC microparticles (red), transitional events (yellow), and intact RBC (green).
+
+Table 2 depicts inter-replicate accuracy as shown by the CV; however, WO886114 and WO85315A samples are not shown.
+
+Figure 4. Listeria innocua. Bacteria staining with propidium iodide and Syto9. Both dead and live bacteria exhibit a clear side scatter (SSC) profile.
+
+Figure 5. Vesicles prepared from rat plasma. Treated versus untreated, using both CD42d and AnnexinV Dy488.
+
+Conclusion
+
+The advanced Beckman Coulter CytoFLEX flow cytometer configured with 9 fluorescent detectors and 12 parameters, as well as the VSSC option was used at Beckman Coulter, Miami Site and independent research laboratories to assess biological specimens. These biological samples included human leukocyte control cells and human whole blood as well as smaller particles and cells such as microbes, vesicles and red blood cells. The capabilities of scatter resolution and fluorescent detection were typical across all sample analyses. It was possible to view clear and distinct populations of particles and cells through fluorescent dyes and fluorescent antibody tagging, excited by 638, 488, and 405 nm lasers.
+
+About Beckman Coulter
+
+Beckman Coulter develops, manufactures and markets products that simplify, automate and innovate complex biomedical tests. More than a quarter of a million Beckman Coulter instruments operate in laboratories around the world, supplying critical information for improving patient health and reducing the cost of care.
+
+Sponsored Content Policy: News-Medical.net publishes articles and related content that may be derived from sources where we have existing commercial relationships, provided such content adds value to the core editorial ethos of News-Medical.Net which is to educate and inform site visitors interested in medical research, science, medical devices and treatments.

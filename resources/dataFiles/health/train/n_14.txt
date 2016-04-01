@@ -1,0 +1,45 @@
+Magnetic Nanoparticle Mediated Biofilm Treatment
+HEADLINE_ARTICLE
+Biofilms occur when bacterial colonies adhere onto a surface and excrete a polymeric matrix, within which they can then proliferate and aggregate to form a bacterial film.
+
+Biofilm formation can lead to the antibiotic resistance of these pathogenic bacteria, supporting the development of chronic infections, because much higher doses of antibiotics become necessary to deal with biofilms than with ordinary colonies.
+
+This has been found to be a major cause in the development of a number of antibiotic-resistant strains, a developing global health crisis. These multi-drug resistant strains prevent the prescription of antibiotics by general practitioners to their patients.
+
+A significant biomedical application of super paramagnetic iron oxide nanoparticles (SPIONs) is that they can be used to treat biofilm mediated infection.
+
+Magnetic targeting of SPIONs allows them to penetrate deep within the biofilms, and heating them using an AC magnetic field reduces the viability of the bacterial community. This treatment is very effective, as it can be used to treat antibiotic resistant biofilms and antibiotic resistant strains.
+
+magneTherm and the LC-AMF system can handle biofilms either grown on a coupon or directly in a 35mm petri dish, allowing researchers to perform experiments on magnetic nanoparticle mediated biofilm treatment.
+
+Figure 1: Bacteria adhere to a surface, colonize and later aggregate to form biofilms.
+
+magneTherm users from the University of New Mexico and the University of Texas at Austin have demonstrated that performing such antimicrobial treatment is possible using magneTherm technology.
+
+Pseudomonas aeruginosa is a nosocomial pathogen causing infections in immunocompromised individuals including urinary tract, gastro intestinal, skin and tissue infections. Researchers have demonstrated inhibition of Pseudomonas aeruginosa by exposing the pathogen to iron oxide (magnetite) nanoparticles conjugated with the drug tobramycin and exposing them to an AC magnetic field.
+
+Figure 2: magneTherm provides the option to do experiments in a Petri dish, located within a micro incubator to provide the correct incubation temperature for the microorganisms.
+
+Similarly, Staphylococcus aureus, a bacteria known to cause pimples, cellulitis folliculitis, furuncles, scalded skin syndrome i.e. skin infections and other serious illnesses, has been studied by researchers from University of California at Davis and Kent State University.
+
+They have demonstrated that functionalised magnetic nanoparticles targeting antibodies on the surface of Staphylococcus aureus were involved in thermal inactivation of the above bacteria when subjected to alternating magnetic field. The researchers reported this thermal inactivation on an in vitro biofilm model as well as in an in vivo mouse model with subcutaneous infection. The notable aspect of this research was that increased rate of wound healing without any tissue damage.
+
+Figure 3: This LC-AMF system can be mounted onto different types of microscopes allowing the microbiologists to understand the mechanisms behind the AMF mediated biofilm treatment real time.
+
+References:
+
+Armijo, Leisha M., et al. "Inhibition of bacterial growth by iron oxide nanoparticles with and without attached drug: Have we conquered the antibiotic resistance problem?." SPIE BiOS. International Society for Optics and Photonics, 2015.
+
+Kim, Min-Ho, et al. "Magnetic nanoparticle targeted hyperthermia of cutaneous Staphylococcus aureus infection." Annals of biomedical engineering 41.3 (2013): 598-609.
+
+About nanoTherics
+
+nanoTherics are based at the Keele University Science & Business Park in Newcastle under Lyme, Staffordshire, in the United Kingdom.
+
+Their mission is to become the leading supplier of IP protected products addressing the field of magnetic nanoparticle research and applications. In particular they aim to be the number one supplier of products for nanoparticle heating applications utilizing AC field and solenoid coil principles.
+
+They also apply their significant know how in magnetic nanoparticles to the field of transfection devices and reagents for biomaterial delivery into cells for the life science research and development market and reagents for biomaterial delivery into cells for the life science research and development market.
+
+Their aim is to provide superior performance magnetic based tools to address global markets and to underpin the research and development of current and future nanoparticle, magnetic particle, cancer therapy, drug delivery, genetic screening and gene therapy programs.
+
+Sponsored Content Policy: News-Medical.net publishes articles and related content that may be derived from sources where we have existing commercial relationships, provided such content adds value to the core editorial ethos of News-Medical.Net which is to educate and inform site visitors interested in medical research, science, medical devices and treatments.

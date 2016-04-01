@@ -1,0 +1,29 @@
+WhatsApp Calling now officially available on BlackBerry 10 with v2.12.1.2 update
+HEADLINE_ARTICLE
+Although WhatsApp Calling has been available in WhatsApp beta releases for a few months now, the latest official release rolling through BlackBerry World officially brings the feature to all BlackBerry 10 WhatsApp users. Noted as v2.12.1.2, the latest update also covers several other bug fixes and improvements from previous beta releases such as search for individual messages, improved font scaling, custom ringtone selection and more.
+
+WhatsApp Calling: Call your friends and family using WhatsApp for free, even if they're in another country. WhatsApp calls use your phone's Internet connection rather than your cellular plan's voice minutes. Data charges may apply.
+
+You can now instantly search for individual messages, chats and contacts just by tapping the Search action from the chats list. (Note: It may take a few days before this feature is available to you.)
+
+Improved font scaling to better match the system display font size setting.
+
+ Font and highlighting updates to better match the system style on OS 10.3
+
+Improved support for focus and navigation on the BlackBerry Classic
+
+Location messages now show a larger map preview
+
+Added "Add to Contacts" context actions to the chats list (for chats with unknown contacts) and to the group info screen (for unknown group participants)
+
+Added custom ringtone selection for incoming WhatsApp calls (Settings, Notification Settings, Call notifications)
+
+Added year/month subdirectories for received pictures, and WhatsApp-specific subdirectories for received audio and video
+
+Added counts to the Favs/Groups/Contacts tabs when pulling down the list past the beginning
+
+Miscellaneous fixes and updates
+
+If you've never used a beta release previously, a lot of this will be new so go ahead and give it a go. If you're a beta tester, you'll likely have to delete the current beta if you wish to load up the official BlackBerry World release. The update is live now, if you're not seeing it, just search for WhatsApp and it should appear for you.
+
+Download WhatsApp for BlackBerry 10

@@ -1,0 +1,15 @@
+Highlights On Twitter For Android Will Summarize Tweets From The Entire Day
+HEADLINE_ARTICLE
+Twitter today announced that its adding a new feature called Highlights to its Android application. The feature will provide a simple summary of the best Tweets for a user which will be delivered via rich push notification. The idea is to boost engagment from people who might not open the app as frequently because they find it hard to go through all of the tweets in the timeline. With Highlights they get a summary of the days tweets, and thus open the Twitter app at least once in a day.
+
+Highlights will display tweets which will be most relevant to the user. To create Highlights, Twitter will look at things like accounts and conversations that are popular among the people a user follows.
+
+Tweets from people theyre often tweeting with, topics or events trending in their area or within their network as well as the people that are popular or trending among the people a user follows.
+
+This is an opt-in feature and once users decide to go with it they will get a notification on their phone no more than twice in a single day informing them that their Highlights are ready. Opening the notification will take them directly into the Twitter app where they will be displayed in a new interface.
+
+They can be viewed and dismissed by swiping through from right to left. Once the user reaches the end of the Highlights one more swap takes them straight to the timeline.
+
+Highlights will initially be available in English only to Android users, it can be turned on in the Settings by going to the notifications menu and checking the Highlights box.
+
+Twitter says its currently refining the Highlights experience on Android and will consider about bringing this feature to other platforms in the future.

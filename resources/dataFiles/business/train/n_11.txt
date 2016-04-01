@@ -1,0 +1,17 @@
+Apples HealthKit Linked to Patients at Big Los Angeles Hospital
+HEADLINE_ARTICLE
+Apple Inc.s health-tracking software is being connected to patient files at Cedars-Sinai Medical Center in Los Angeles, marking the largest integration yet for the tech companys foray into the health industry.
+
+The hospital updated its online medical records system this weekend, turning on access to HealthKit for more than 80,000 patients, Darren Dworkin, chief information officer at Cedars-Sinai, said in an interview.
+
+This is just another set of data that were confident our physicians will take into account as they make clinical and medical judgments, Dworkin said. We dont really, fully know and understand how patients will want to use this and were going to basically stand ready to learn by what will happen.
+
+HealthKit, which synchronizes data from various health and fitness apps, was introduced last year along with the new iPhone 6 and 6 Plus and is a major part of the new Apple Watch, which went on sale last week. The move into health is part of Chief Executive Officer Tim Cooks strategy to move Apple into new industries, including mobile payments.
+
+HealthKit, I think, is going to be profound because it enables you to take all of the information from different apps and if you desire to you can share that information with a physician, you can share it or you can place it in a way that you can begin to correlate the data and find out some pretty interesting things about your health and be able to monitor it, Cook said during a conference in February.
+
+More than 900 health, medical and fitness apps are now integrated with HealthKit, according to Apple. The Mayo Clinic and Duke University Hospital are among the other medical centers connected to the system.
+
+The change at Cedars-Sinai allows patients using HealthKit to integrate personal medical information with their patient files, giving online access to their doctors. Weight, blood pressure, steps taken, glucose levels and oxygen saturation levels are among the kinds of data monitored through HealthKit.
+
+Rather than turn it on as sort of an opt-in, weve basically enabled it for all of our patients, Dworkin said in an interview last week. The opt-out is just dont use it.

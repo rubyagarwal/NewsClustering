@@ -1,0 +1,137 @@
+Measurement of Reactive Oxygen Species in Different Cell Types
+HEADLINE_ARTICLE
+Introduction
+
+New evidence shows that reactive oxygen species (ROS) play an important role in cell signaling and cell cycling. They have been shown to be key in gene expression, apoptosis, and the activation of cell signaling cascades.
+
+Formed by several different mechanisms, these reactive molecules can be detected using various methods. Oxygen-based radicals can promote toxic events.
+
+Previously, it was believed that only phagocytic cells were responsible for producing ROS as part of host cell defense. ROS can function as both inter- and intra-cellular messengers. This article describes the mechanisms behind these reactive molecules and how they can be detected.
+
+Types of Reactive Oxygen Species
+
+Most ROS are by-products produced as a result of mitochondrial electron transport. They are also formed as essential intermediates during metal catalyzed oxidation reactions.
+
+Atomic oxygen is sensitive to radical formation. The sequential reduction of oxygen by adding electrons results in the formation of several ROS such as nitric oxide, superoxide, hydroxyl ion, hydroxyl radical and hydrogen peroxide (Figure 1).
+
+Figure 1. Electron structures of common reactive oxygen species. Each structure is provided with its name and chemical formula. This designates an unpaired electron.
+
+Cellular Defense against ROS
+
+Detoxification of ROS is important for all forms of aerobic life. A range of defense mechanisms in cells have evolved to counteract the toxic effects of ROS. Superoxide dismutase (SOD) is an enzyme that catalyzes the conversion of two superoxide anions into a molecule of oxygen (O2) and hydrogen peroxide (H 2 O 2 ) (Equation 1).
+
+In the peroxisomes of eukaryotic cells, H 2 O 2 is converted to oxygen and water by the catalase enzyme, thereby concluding the detoxification process started by SOD (Equation 2).
+
+Equation 1: 20 2 + 2H+ -> H 2 O 2 + O 2
+
+Equation 2: 2 H 2 O 2  2 H 2 O + O2 2H 2 O 2 -> 2 H 2 O + O 2
+
+Several non-enzymatic antioxidants contribute to detoxification. Glutathione is a tripeptide (glutamyl-cysteinyl-glycine) that is considered to be a major intra-cellular defense against the deleterious effects of ROS. It provides an exposed sulphhydryl group that offers an abundant target for attack.
+
+Glutathione is oxidized by reactions with ROS molecules; however, the reduced form is reproduced in a redox by an NADPH-dependent reductase. Vitamin C can also reduce ROS and vitamin E is believed to play a similar role in membranes.
+
+The ratio of the reduced form of glutathione (GSH) and the oxidized form (GSSG) indicates the oxidative stress of an organism.
+
+Reaction to Oxidative Stress
+
+The normal cellular response to stress is to exit the cell cycle process and enter into G0. Apoptosis mechanisms are activated with constant exposure and high ROS levels.
+
+In cycling cells, p21 and p53 respond to the presence of oxidants by promoting dephosphorylation of retinoblastoma (RB). Exposure to nitric oxide, H 2 O 2 or other oxidants also leads to dephosphorylation of RB, independently of p21 and p53.
+
+In both cases, cells are arrested in S-phase. Under certain conditions, Foxo3a is capable of triggering bim gene expression and inducing apoptosis.
+
+Regulation of ROS Production
+
+Phagocytic Cells
+
+The production of ROS by phagocytic cells is catalyzed by the activity of NADPH oxidase. A complex regulatory system involving the G-protein Rac controls the activity of the NADPH oxidase, as shown in Figure 2.
+
+Figure 2. Schematic illustration of the activation of NADPH Oxidase.
+
+Cell Signal Transduction
+
+ROS play an important role in several cellular processes. High ROS levels can promote oxidative stress, cellular damage and DNA damage. Depending upon the duration and severity of exposure, ROS can also trigger apoptosis or cell survival mechanisms.
+
+Nitric oxide, or NO has been shown to function as a cell-to-cell messenger and lead to effects such as blood pressure reduction.
+
+Together with antioxidant enzymes, ROS is thought to play a key role in switching enzymes on and off through redox signaling in a similar fashion to the cAMP second messenger system.
+
+Mitogenic signaling starts at the surface of cells with the activation of tyrosine kinases, which in turn, trigger the MAP kinase cascades required for proliferation. These cascades result in the production of H 2 O 2 from a number of catalysts, including NADPH oxidase.
+
+Thiol-dependent peroxidoxins serve as key regulators of mitogenic signaling and H 2 O 2 . They are activated and recruited to receptors and limit the impact of ROS-associated stimulation on targets downstream of the mitogen cascade (Figure 3).
+
+Figure 3. Schematic illustration of reported interactions of ROS and mitogenic cascades.
+
+Redox Signaling (Cell Cycle Control)
+
+Whenever cells proliferate, they undergo a coordinated process of DNA duplication, cell growth, and mitosis. This tightly regulated process is known of as the cell cycle and includes a number of checkpoints. These checkpoints are regulated by proteins and protein complexes that are influenced by a cells oxidative state.
+
+The exit of G0 and entry into G1 is regulated by oxidants. Redox-dependent signaling pathways induce cyclin D1 expression. As such, the expression of cyclin D1 has been suggested as an indicator of effective mitogenic stimulation.
+
+ROS also play a major role in apoptosis. NF-kB prevents apoptosis by up-regulating a number of antiapoptotic genes. On the other hand, the c-Jun N-terminal kinase (JNK) triggers apoptosis when it is activated for a long period of time.
+
+Measuring Reactive Oxygen Species
+
+The measurement of ROS depends on the analytic target, as well as the ROS in question. At the animal level, the effects of oxidative stress are usually determined from urine samples or blood products, while at the cellular level, a particular ROS can be evaluated using tissue culture.
+
+Oxidative Stress
+
+Of the non-enzymatic defense mechanisms, glutathione is the most important. It is relatively abundant and serves to detoxify peroxides and reproduce several key antioxidants such as ascorbic acid and tocopherol. The activity of an NADPH dependent reductase (Equation 3) reproduces the reduced glutathione (GSH) from its oxidized form (GSSH).
+
+Equation 3: GSSH + NADPH + H+ -> 2GSH + NADP+
+
+Both GSH and GSSH levels can be measured by capillary electrophoresis, HPLC or biochemically in microplates.
+
+A number of assays are available that can be used to measure glutathione in samples. The total glutathione can be measured colorimetrically by reacting GSH with DTNB in the presence of glutathione reductase. This glutathione reductase reduces GSSH to GSH, which in turn, reacts with DTNB to give 5-thio-2-nitrobenzoic acid (TNB), which absorbs at 412nm wavelength.
+
+Lipid peroxidation is a major indicator of oxidative stress. Reactions usually take place as a chain reaction where a hydrogen moiety from an unsaturated carbon is captured by a free radical to form water. This leaves an uncoupled electron on the fatty acid, which can capture oxygen to form a peroxy radical, as shown in Figure 4.
+
+Figure 4. Illustration of lipid peroxidation
+
+Superoxide
+
+The detection of superoxide requires the interaction between superoxide and another compound to produce a measurable result. In order to evaluate the rate of superoxide formation, the reduction of ferricytochrome c to ferrocytochrome c has been utilized in several situations.
+
+The conversion of citrate to isocitrate is catalyzed by the aconitase enzyme. This enzyme is inactivated by superoxide through oxidization of the Fe moiety from its cubane {4Fe-4S} cluster. Therefore, concentrations of superoxide can be estimated by the extent of enzyme inactivation.
+
+Hydrogen Peroxide
+
+H 2 O 2 is the most important ROS with respect to cell cycle regulation and mitogenic stimulation. Homovannilic acid dimerizes when oxidized by H 2 O 2 via horseradish peroxidase catalysis. Similar to Amplex red, homovanillic acid monomer is non-fluorescent, but it has an emission wavelength of 425nm and a peak excitation wavelength of 315nm, as illustrated in Figure 5.
+
+Figure 5. Dimerization of homovanillic acid by the action of HRP and hydrogen peroxide.
+
+Colorimetric substrates such a phenol red and tetramethylbenzidine (TMB) have also been utilized along with HRP to determine H 2 O 2 concentrations.
+
+Initially, DCF was believed to be specific for H 2 O 2 , but new evidence has demonstrated that other ROS including hypochlorous acid and nitrate are capable of oxidizing H2DCF. Importantly, the H 2 O 2 -dependent oxidation of H2DCF requires ferrous iron.
+
+To address the limitations of DCF fluorescence, a number of new fluorescent probes have been designed, including the Peroxy Crimson 1 (PC1) and the Peroxy Green 1 (PG1). These H 2 O 2 probes are based on boronate and have high membrane permeability and selectivity, as well as visible-wavelength excitation and emission wavelengths.
+
+PG1 has an excitation wavelength of 460nm with emission maxima at 510nm (Figure 6), while PC1 shows enhanced properties of red-shifted excitation and larger stokes shift, which in turn reduces auto-fluorescence.
+
+Figure 6. Structure of Peroxy Green 1 and Peroxy Crimson 1.
+
+Nitric Oxide
+
+Nitric oxide (NO) is generated by several different types of cells that have a range of biological functions. Two isoforms of nitric oxide synthase have been discovered. Found in endothelial cells and neurons, the constitutive isoform produces very small quantities of nitric oxide in a calmodulin- and calmodulin-dependent manner.
+
+The inducible isoform is present in hepatocytes, macrophages and fibroblasts and produces large amounts of NO in response to mitogenic or inflammatory stimuli and provides host defense through its oxidative toxicity.
+
+One standard way to determine NO is to measure its composition products nitrate (NO 3 ) and nitrite (NO 2 ) colorimetrically. This reaction requires that NO 3 is first reduced to NO 2 , usually by the action of nitrate reductase (Figure 7).
+
+Figure 7. Conversion of Nitrate to nitrite by the action of Nitrate Reductase.
+
+Conclusion
+
+ROS have the potential to promote a number of toxic events. New evidence shows that ROS play a major role as messengers in cell cycling and cell signal transduction processes. In this context, a number of studies explored the role of these agents in cancer, aging and chronic diseases.
+
+Additional research has shown that ROS are generated in all types of cells and acts as key messengers for inter- and intra-cellular interactions. It is now evident that a complex intra-cellular regulatory system involving ROS is present inside cells. Depending on the duration, intensity, and context of the signaling, cells respond to ROS moieties in varying ways. With respect to intracellular signaling, H 2 O 2 seems to be the most interesting candidate, while NO is mainly involved in intercellular signaling.
+
+Following the finding that ROS are used as intracellular regulators and messengers, novel chemistries were designed with the micromolar detection needs kept in mind. These reactive molecules are mainly fluorescence based, but now luminescent-based detections have been developed.
+
+The major challenge associated with cellular ROS research is the lack of reporter agents that are specific for discrete molecules. Since ROS moieties react with several different molecules, it has been difficult to design reporter agents. With more specific chemistries, especially for H 2 O 2 , the particular mechanisms for regulation will be explained.
+
+About BioTek Instruments, Inc.
+
+BioTek Instruments, Inc., headquartered in Winooski, VT, USA, is a worldwide leader in the design, manufacture, and sale of microplate instrumentation and software. These technologies are used to aid life science research, facilitate drug discovery, provide rapid and cost-effective analysis, and enable sensitive, accurate quantification of molecules across diverse applications. BioTek espouses a Think Possible approach that sets the tone for fresh ideas, unsurpassed customer service and original innovations. As such, they are often honored for local accomplishments and technological innovations, including Best Places to Work in Vermont, North American New Product Innovation Award for Workflow Solutions in Life Sciences and Drug Discovery Product of the Year  Scientists' Choice Award.
+
+Sponsored Content Policy: News-Medical.net publishes articles and related content that may be derived from sources where we have existing commercial relationships, provided such content adds value to the core editorial ethos of News-Medical.Net which is to educate and inform site visitors interested in medical research, science, medical devices and treatments.

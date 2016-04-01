@@ -1,0 +1,83 @@
+Gene editing technique could prevent inherited diseases
+HEADLINE_ARTICLE
+Researchers created 'bespoke' enzymes
+
+"Researchers in the US have raised hopes for a simple genetic therapy that could prevent devastating diseases being passed on from mothers to their children," The Guardian reports.
+
+The diseases in question are known as mitochondrial diseases, where mutations occur in mitochondria: a small section of DNA that is passed directly from mother to child.
+
+Some children born with mitochondrial diseases can develop symptoms including muscle weakness, intestinal disorders and heart disease  and have reduced life expectancy.
+
+One option to treat this, as we have discussed several times, is so-called "three-parent IVF", where unhealthy mitochondria are replaced by donor mitochondria.
+
+This new technique from the US may offer an alternative approach.
+
+The researchers developed a way to target and break down mutated mitochondrial DNA. They found they could successfully use this technique in mouse eggs. Once fertilised, these eggs could go on to produce healthy and fertile mice, with little of the targeted mitochondrial DNA in their cells. The technique also seemed to work on hybrid mouse-human cells carrying human mitochondrial DNA mutations in the lab.
+
+This new technique is of interest because if it were effective and safe in humans, it could offer a way to prevent mitochondrial diseases without the need for the donor egg. Many questions remain for future studies to investigate before this technique could be considered for testing in humans.
+
+Controversy in China A related and controversial news story follows reports of a Chinese research team attempting a similar technique on human embryos; reportedly the first time this has been tried. They were apparently trying to edit out genetic mutations associated with beta thalassaemia: a genetic blood disorder. This was a proof of concept study, as there were no plans to implant the modified embryos into women. Also, their attempts at editing out the mutations were unsuccessful. The news has raised concerns about where such research could eventually lead. One geneticist, speaking anonymously to The Guardian, said: "You can argue that it could be hugely beneficial to correct genetic diseases, but on the other hand we dont know its safe and its a slippery slope. How long will it be before people try to alter eye and hair colour, and height and intelligence?" Nature News has a useful overview of the story
+
+Where did the story come from?
+
+The study was carried out by researchers from the Salk Institute for Biological Studies and other research centres in the US, Japan, Spain and China.
+
+The researchers were funded by the Leona M. and Harry B. Helmsley Charitable Trust, the US National Institutes of Health, National Basic Research Program of China, Chinese Academy of Sciences, National Natural Science Foundation of China, the JDM Fund, the Muscular Dystrophy Association, United Mitochondrial Disease Foundation, the Florida Department of Health and the G. Harold and Leila Y. Mathers Charitable Foundation.
+
+The study was published in the peer-reviewed scientific journal Cell on an open-access basis, so the study is free to read online.
+
+Both the Guardian and The Independent cover this research reasonably. One quote from a study author suggests that: "the technique is simple enough to be easily implemented by IVF clinics around the world", but it is important to realise that much more research is needed to make sure the technique is effective and safe before it could be tested in humans.
+
+What kind of research was this?
+
+This was laboratory and animal research aiming to develop a new way of preventing transmission of mutations in the mitochondrial DNA. This research is appropriate for the early development of new techniques, which may eventually be used to treat human disease.
+
+While most of our DNA is found in a compartment of our cells called the nucleus, there is some DNA within the cells many mitochondria. These are the energy producing "powerhouses" of the cells. Mutations in this DNA can cause a range of serious diseases affecting the organs that need a lot of energy  such as the brain and muscles.
+
+We inherit our mitochondria from our mothers. Researchers have developed techniques to avoid passing these mutations on, involving transferring the DNA from the mothers nucleus into a donor egg. Manipulation of human embryos is tightly controlled in the UK, and after much debate, the government recently agreed to make it legal to perform these "three-parent IVF" techniques to prevent mitochondrial diseases.
+
+One concern with these techniques is that the child inherits mitochondrial DNA from a third person (the egg donor). The current research aimed to develop a different technique to avoid passing on mitochondrial mutations that does not involve a donor egg. It is specifically aimed at women who have a mixture of mitochondria in their cells  some carrying a disease-causing mutation and some not.
+
+What did the research involve?
+
+The researchers developed a technique to reduce the amount of mutation carrying mitochondrial DNA. This involved injecting into the cells genetic instructions for making a protein to be sent to the mitochondria and cut the mitochondrial DNA in a specific place. They first tested this technique on mouse egg cells that carried a mixture of two types of mitochondrial DNA, one of which could be cut by the protein (the "target" mitochondrial DNA) and one which could not. They then checked to see if it could reduce the amount of target mitochondrial DNA.
+
+They then tested it on fertilised "mixed mitochondrial DNA" mouse egg cells to see if it had the same effect and whether it affected development of the embryo. They also implanted treated embryos into host mother mice to see if the offspring were born healthy and how much of the target mitochondrial DNA they carried.
+
+Finally, they modified their technique slightly so they could use it against human mitochondrial DNA carrying disease-causing mutations. After testing this adapted technique in mice, they tested it on cells in the lab containing human mitochondria with mutations that caused one of two different mitochondrial diseases:
+
+Lebers hereditary optic neuropathy and dystonia (LHOND)
+
+neurogenic muscle weakness, ataxia and retinitis pigmentosa (NARP)
+
+These are both rare conditions in humans that cause symptoms affecting the muscles, physical movement and vision.
+
+These hybrid cells were created by fusing mouse egg cells and human cells carrying the mitochondrial mutations.
+
+What were the basic results?
+
+The researchers found that their technique reduced the amount of the target type of mitochondrial DNA in the "mixed mitochondrial DNA" mouse egg cells. Their technique performed similarly in fertilised embryos from these eggs. These embryos appeared to develop normally in the lab when examined under a microscope. The technique did not appear to affect the DNA in the mices nuclei.
+
+When the treated embryos were implanted into host mothers, the offspring born also had much less of the target type of mitochondrial DNA throughout their bodies. They appeared to be healthy and develop normally in the tests performed, and could themselves produce healthy offspring. These offspring had such low levels of the target type of mitochondrial DNA that it was barely detectable.
+
+The researchers were able to adapt their technique to target human mitochondrial mutations. It reduced the amount of mitochondrial DNA containing the LHON or NARP mutations in hybrid egg cells in the lab.
+
+How did the researchers interpret the results?
+
+The researchers concluded that their "approaches represent a potential therapeutic avenue for preventing the transgenerational transmission of human mitochondrial diseases caused by mutations in [mitochondrial DNA]".
+
+Conclusion
+
+This early research has developed a new technique to reduce the amount of mutation-carrying DNA within mitochondria. The hope is that this technique might be used in the eggs of women carrying disease-causing mitochondrial mutations.
+
+The government has recently given the go ahead for a technique that allows a woman who carries such a disease from passing it on to her child  making the UK the first country to do so.
+
+This technique has raised some ethical and safety concerns, as it places the womans chromosomes into a donor egg with healthy mitochondria. This means that once this egg is fertilised it contains DNA from three people  the DNA in the nucleus comes from the mother and father, and the mitochondrial DNA comes from the egg donor.
+
+This new technique is of interest because if it were effective and safe in humans, it could offer a way to prevent mitochondrial diseases without the need for the donor egg. This technique shows promise, but is still in its early stages. It has thus far only been tested in mice, and in human-mouse hybrid egg cells carrying mutated human mitochondria in the lab.
+
+It is also specifically aimed at women who have a mixture of normal and mutated mitochondrial DNA, as it relies on the normal mitochondrial DNA being there to "take over" once the mutated DNA has been reduced. It would not work in women who have only mutated mitochondria, and there may be a certain level of normal mitochondrial DNA that needs to be present for the technique to work.
+
+All of these issues are likely to be investigated in future studies.
+
+Analysis by Bazian. Edited by NHS Choices. Follow Behind the Headlines on Twitter. Join the Healthy Evidence forum.

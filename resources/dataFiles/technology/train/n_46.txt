@@ -1,0 +1,65 @@
+New MacBook vs. MacBook Pro with Retina Display
+HEADLINE_ARTICLE
+For the first time, you can now buy an ultra-light MacBook that also has a Retina Display. Maybe you're torn between that slim and sexy new MacBook and the company's bigger workhorse, the Retina MacBook Pro? We have both notebooks in house, so how about we take a hands-on look at the two.
+
+If you're looking for the most raw power bang for your buck, then there's no question which machine is better for you: the MacBook Pro with Retina Display. Looking at the entry-level versions of each laptop (which we're handling for this review), the 2015 Retina MacBook Pro is 37-52 percent faster than the new MacBook. The MacBook Pro's Intel Core i5 is just a much more powerful processor than the Core M that you'll find in the MacBook.
+
+What surprised us a little, though, is that the new MacBook is still a very capable machine that runs quickly for just about everything we throw at it. The most intensive app I use regularly is Photoshop CC, and the new MacBook has no problems whatsoever there. And that includes having three or four high-res images open in tabs, running intensive filters and the like.
+
+The only times we noticed a slowdown with the new MacBook were when we pushed it in ways a machine like this isn't meant to be pushed. Things like running a Windows virtual machine in the background, while jumping around OS X Yosemite. Do that, and things will get choppy awfully quickly. Of course that will slow most Macs down at least a little, but it was a lot more pronounced here.
+
+Performance-wise, it's going to come down to what your workflow looks like. Yes, you can do real work on the new MacBook; we've been doing so for the last week and have been very happy with it. Only if your workflow sits at an intense extreme  you know, things like virtual machines multitasking alongside OS X, 4K video editing and the like  do you want to rule out the new 12-inch MacBook right off the bat.
+
+So why would you want to consider the new MacBook? Well, it starts with its lightweight and minimal design. It's going to be a little confusing for customers that Apple didn't call this a MacBook Air, because it's even lighter and thinner than the Air. Pick it up, and you're going to be shocked at how feathery this puppy is. It makes the MacBook Air feel like a brick.
+
+Considering the MacBook Pro was already thicker and heavier than the Air, we're looking at a big difference between these two. Specifically, the new 12-inch MacBook is 42 percent lighter and 27 percent thinner than the Retina MacBook Pro. And make no mistake: you'll feel that difference in hand, on lap and in a backpack or messenger bag.
+
+The new MacBook gives us a glimpse of a next-generation type of laptop. One that's a bit more like an iPad, and less like the bulky, port-laden tanks that laptops have traditionally been known for. You could also say that about the MacBook Air and Ultrabooks in general, but the new MacBook pushes it all a little further in that direction.
+
+Ports need to be a big part of your decision. Or, in the case of the new MacBook, port.
+
+Apple is going all-in on an all-wireless world with the new MacBook, only giving it one port. Its USB Type C port is fast, reversible and versatile  but it's also going to require adapters for all your older (USB 3.0 and older) accessories. And since it doubles as the MacBook's charging port, you'll need an even more expensive adapter (US$79) to charge and use any accessories at the same time.
+
+What is Apple thinking? Why is the company suddenly dropping its love for simplicity and forcing new MacBook owners to complicate their lives with a bunch of clunky adapters?
+
+Well, it isn't  at least not in the long-term. Apple is using the new MacBook as a chess piece in its long game of pushing us all into a simpler world. One where everything is done wirelessly, and wires only come into play when absolutely necessary.
+
+We've already moved pretty far in that direction, thanks to smartphones, iPads and other mobile devices. But laptops, due to their work-oriented nature, still have a foot firmly planted in that world of wires and ports. The new MacBook is Apple's attempt to grab laptops by their bootstraps and pull them into that world as well.
+
+The Retina MacBook Pro, meanwhile, is Apple's acknowledgement that some people simply can't do that. It has a full series of ports: two USB 3.0 ports, HDMI, an SD reader, two Thunderbolt and a MagSafe charging port. These two machines are sitting at two extremes, as far as ports go. And if you want something in between, there's still the MacBook Air.
+
+Whether the new MacBook's wireless focus is right for you will, again, depend on your workflow. The biggest adjustments I had to make ("had to," only because I didn't want to rely on adapters) were switching from a standard SD card to a wireless Eye-Fi for my DSLR, and going from wired Time Machine backups to wireless ones. Both were long overdue moves, so in this case, the new MacBook was a catalyst for some changes that make my workflow smoother and simpler.
+
+Obviously your mileage may vary, and we certainly aren't saying the new MacBook is for everyone. But we are saying it can be a positive thing, as long as you know what you're getting into and are comfortable with the necessary costs  financial and otherwise.
+
+We haven't talked about displays yet, because you really can't go wrong either way  both are outstanding. The new MacBook's Retina Display looks every bit as good as the one on the bigger Pro.
+
+The new MacBook's screen is smaller, though, only giving you 81 percent as much real estate. We didn't have a problem adjusting to its 12-inch size. It's still 13 percent bigger than the 11.6-in MacBook Air's display, so it's actually an upgrade over Apple's previous light-and-thin champion.
+
+The Retina MacBook Pro's 13.3-in display size does have an immersive quality that you don't quite get from the smaller 12-incher. It's big enough that you can kinda lean back and get lost in it. The new MacBook is still a nice size; it just doesn't dominate your focus to the same degree.
+
+(and of course there's also a 15-inch Retina MacBook Pro that takes that to a new level, but we didn't handle that one for this comparison)
+
+Like all modern MacBooks, both machines have excellent keyboards  but there are some differences. On the new MacBook, the keys have a shallower travel distance, and the keys themselves are larger with less space in between each one. On the Retina MacBook Pro, the keys are exactly like you'd find on every modern MacBook Pro and Air.
+
+The keys do feel a little better on the Pro, but we actually prefer the new MacBook for typing. There's something about writing on such a light and thin device that's just immensely satisfying. You can reposition it in more ways on your lap, and more comfortably use it with your feet propped up on a couch. It's a lot like typing on the 11-in MacBook Air, only even lighter and with a much sharper display.
+
+And as for that shallower travel distance, the new MacBook's keys do have a different feel, but it wasn't the huge adjustment we thought it might be. After five minutes, it felt perfectly natural  no typos in sight.
+
+Battery life is very good on both machines. In our benchmark, where we stream video with brightness set at 75 percent (and no major background apps running), the new MacBook actually lasted longer  dropping 6 percent per hour compared to the Retina MacBook Pro's 9 percent per hour.
+
+In regular use, the Pro does (contradictory to those results) seem to last a little longer, but not by a wide margin. We don't think battery life is different enough to be a deciding factor here.
+
+So which MacBook is the better value? Well, if you don't care much about portability or design, then the Retina MacBook Pro gives you more bang for your buck  with its much faster processor and graphics, larger screen and full set of ports.
+
+But there's something about the gorgeous, ultra-portable new MacBook that makes it hard to dismiss. If your workload doesn't require cutting-edge performance, then it should fit the bill just fine  and you get to enjoy that super slim build every time you pick it up. And as a bonus, it gives you double the internal storage for the same price as the entry-level Retina MacBook Pro.
+
+We can't stress enough, though, how important the port situation is. Before buying the 12-inch MacBook, you need to break down which accessories and external devices you currently plug into USB, SD, Thunderbolt or HDMI ports. For each one, ask yourself if you're willing to switch to a wireless alternative (better, but likely more expensive), or lug around adapters to use with them (clunkier, but likely cheaper).
+
+Both the 12-inch Retina MacBook and 13-inch Retina MacBook Pro are available now. Both start at US$1,300, which gets you 256 GB storage for the new MacBook, and 128 GB storage for the Pro.
+
+For more, you can hit up Gizmag's individual reviews of the new MacBook and Retina MacBook Pro.
+
+Share
+
+Buy this on Amazon

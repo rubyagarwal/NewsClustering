@@ -1,0 +1,9 @@
+WhatsApp Calling Makes Its Way Onto BlackBerry 10 In Latest Update
+HEADLINE_ARTICLE
+While users on Android have enjoyed WhatsApps voice calling feature for a while now, there are still some platforms that have yet to receive the feature. It was only earlier this week that the feature rolled out to iOS and the good news is that if youre a BlackBerry user, it looks like the feature is now available for you guys as well.
+
+According to reports, the latest update for WhatsApp for BlackBerry 10 (which is version 2.12.1.12) will bring about the voice calling feature. The feature will be the same as its iOS and Android counterparts so theres no difference here, although there might be some slight difference in its UI, but for the most part it should remain the same.
+
+The voice calling feature will require a WiFi or cellular data connection, so keep that in mind especially if youre the type that likes to chat away for hours on end. Now apart from the voice calling feature, the update to WhatsApp has also brought about some changes and improvements, such as being able to search for messages and chats and contacts, and improved font scaling.
+
+The update will also bring better focus and navigation on the BlackBerry Classic, and a better map preview when sharing location messages. There have also been some unspecified bug fixes included in the latest update. Now the question is when can we expect the feature to arrive for Windows Phone too?

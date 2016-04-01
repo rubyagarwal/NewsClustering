@@ -1,0 +1,93 @@
+Detecting breast cancer in dense breasts
+HEADLINE_ARTICLE
+By Dr. Steven Quay
+
+This article is about the problem of detecting tumors in dense breasts, and how many states are tackling the problem by requiring doctors to tell women that mammograms dont work well for those who have dense breasts. I will also discuss effective solutions to this problem.
+
+But first, I want to tell the story of Nancy Cappello, Ph.D. a former Connecticut state department of education administrator from Woodbury, Connecticut. Like many women, Dr. Cappello began having yearly mammograms starting at age 40. Year after year, her mammograms came up negative. Cappello assumed that everything was fine.
+
+It wasnt. In 2004, when she was 51, Cappello had her yearly mammogram. As usual, it looked normal. Just six weeks later, however, her doctors felt a lump in her breast. She had cancer. By then, the advanced-stage cancer had already spread to 13 lymph nodes. Even then, though, another mammogram still couldnt find the tumor. Cappello needed multiple surgeries, chemotherapy, radiation and hormone treatment.
+
+Cappello was stunned that her cancer was missed by mammogram and diagnosed at such a later stage. Only after asking her doctors why the mammogram did not find her cancer was she told that she had dense breast tissueand that mammograms have a hard time spotting tumors in such breasts. She did some digging in the scientific research, and discovered that has been a huge issue for decades. Seventy-four percent of patients between 40 and 49 years old have dense breasts, according to one study. (1)
+
+Dense breasts, Cappello learned, have lots of glandular or connective tissue. That kind of tissue blocks X-rays and shows up as white on mammograms. Cancer also looks white on mammograms. Thats why tumors are hard to spot in women with dense breasts.
+
+In contrast, breasts that arent dense have more fat. They show up on mammograms as black. So the white tumors in non-dense breasts are easier to see.
+
+The surprising fact is that it is impossible to know if a breast is dense or not just by touching it. The only way to know for sure is to have a mammogram.
+
+Cappello was outraged to learn these facts. She decided to do something about it. She started an activist organization, Are You Dense, Inc. (AreYouDense.org), to warn other women. How many women are like me and had normal mammograms and may have a hidden intruder stealing their life? she asked. (2)
+
+What American women needed, she decided, were doctors routinely informing women of this critical breast health issue. After being told by several doctors in CT that they were not ready to do this Cappello began to press lawmakers to pass such legislation. Testifying before the Connecticut state legislature in 2009, she said: I live each day knowing that my late stage diagnosis could have been prevented IF someone (especially those I depend on  my doctors  my caregivers) had told me that I have dense breast tissue. (3)
+
+Her education and outreach campaign, including a second organization focusing on legislative and regulatory efforts, Are You Dense Advocacy, Inc. has been successful. Connecticut passed the countrys first measure requiring disclosure of dense breasts, the Breast Density Law, in 2009. Since then, five more statesTexas, Virginia, New York, California and Hawaiihave passed similar laws, and the U.S. Congress is considering the measure.
+
+The New York law, for example, took effect January 19, 2013. It states that mammography patients with dense breasts must be told:
+
+Your mammogram shows that your breast tissue is dense. Dense breast tissue is very common and is not abnormal. However, dense breast tissue can make it harder to find cancer on a mammogram and may also be associated with an increased risk of breast cancer. This information about the result of your mammogram is given to you to raise your awareness. Use this information to talk to your doctor about your own risks for breast cancer. At that time, ask your doctor if more screening tests might be useful, based on your risk. A report of your results was sent to your physician.
+
+Thanks to laws like these and to the awareness campaigns launched by activists like Cappello, the word is getting out that mammograms dont work for women with dense breasts. The American Cancer Societys own guidelines explain that dense breast tissue can also make it harder for doctors to spot problems on mammograms. (4)
+
+At the same time, there is a continuing controversy over the effectiveness of mammograms in general. A study published in the New England Journal of Medicine in November of 2012 argued that mammograms cause substantial harm by falsely raising alarms in many women, leading to unnecessary worry, biopsies and treatment. Woman are also justifiably concerned about radiation exposure from mammograms.
+
+Clearly mammograms just arent doing the job. So whats the solution?
+
+Cappello believes for women with dense breast tissue it is critically important to supplement a mammogram with another screening tool such as an ultrasound. When women with dense breasts supplement their yearly mammogram with an ultrasound, the combined screenings detect cancer 97 percent of the time, says Cappello.
+
+Ultrasound can indeed help. So can MRIs.
+
+But I believe theres even a better approach, one that solves the dense breast detection problem completelyand makes it possible to spot signs of precancerous changes up to eight years before a tumor would show up on a mammogram or an ultrasound.
+
+To explain this approach, which I think is a major medical advance, let me tell the story of another pioneer, a Greek-born doctor named Georgios Nikolaou Papanikolaou. In the 1920s, Papanikolaou discovered that he could take cells from womens vaginal fluid, smear them on a slide and spot cancerous cells. The now famous Pap smear was born.
+
+Papanikolaou also showed that a normal cervix doesnt suddenly become cancerous. Over a number of years, cells first seem to grow too fast and pile up on each othera phenomenon called hyperplasia. Then they start to look funny, with enlarged nuclei. In the third phase, they do turn into cancer. But initially the cancerous cells are found just on the surface of the cervixso called `carcinoma in situbefore finally turning malignant and invading the body.
+
+Using Pap smears to spot the abnormal cells, and then killing or removing those cells during those first three stages, doctors now have virtually eliminated cervical cancer in women who get regular screening.
+
+Less well known is that Papanikolaou, in 1958, also discovered the same progression from normal to cancerous in cells in fluid leaking from womens breasts. He realized that examining these cells could be as powerful a tool for detecting breast cancer as the Pap smear was for cervical cancer.
+
+Whats more, an approach like this is especially important for women with dense breasts. Back in 1994, researchers the University of California, San Francisco did a key study. (5) They examined over a 19 year period aspirated fluid from the breasts of 2,700 women between the ages of 25 to 65. As Papanikolaou noted, this fluid contains duct cells, and we now know that more than 90 percent of breast cancers occur in these duct cells. The study found that women with dense breasts were more than four times more likely than women without dense breasts to have atypical hyperplasiaa key step on the path to cancer.
+
+Im not the only scientist who has been struck by these findings. Since Papanikolaus initial discovery, many others have realized that cells from the breast ducts offer a far better approach to the diagnosis of breast cancer than do mammograms or ultrasound. The problem has been reliably collecting enough of the breast fluidand the duct cells the fluid containsto make accurate diagnoses.
+
+I believe that my own company, Atossa Genetics, has solved this problem. The key step forward was understanding that it would never be possible to reliably collect more than a miniscule amount of nipple fluid. So we developed a method, using a breast pump-like device and a microfilter, to extract and collect tiny amounts of fluid. We then found a way to analyze the cells from that fluid directly on the microfilter. Not only can we look for hyperplasia and other abnormalitiesand for cancer itselfwe can also analyze the cells for genetic mutations.
+
+I see three major benefits from the test. First, its a far more effective way to screen for the steps that lead to cancer. It works just as well in women with dense breasts as in those with fatty breasts. And it can spot cancer in as few as ten cells. In contrast, tumors dont show up in mammograms or ultrasounds until they contain hundreds of millions of cells. Even an MRI cant spot anything smaller than 10 million cells.
+
+Second, we can spot the first signs of precancer by looking for hyperplasia. Cellular abnormalities like hyperplasia can show up eight years before the cells become fully cancerous and grow into a tumor big enough to been seen on a mammogram.
+
+Third, the ability to spot these early signs of precancer opens the door to what really would be a medical revolutionpreventing breast cancer entirely. Right now, in fact, a kind of prevention is possible. Women whose nipple fluid shows abnormalities can take an FDA-approved drug like tamoxifen and usually prevent the onset of cancer. Unfortunately, though, the systemic side effects of tamoxifen can be so severe that less than 10% of women with atypical hyperplasia take the medication.
+
+In the future, however, I believe it will also be possible to treat and eliminate those early cellular abnormalities and thus prevent cancer, just as we now do when the Pap smear finds precancerous changes. A recent study (6) at Johns Hopkins points the way. In 2012, 17 women with already-diagnosed cancerous lumps were treated with chemotherapy administrated directly into their breasts through catheters threaded up their ducts.
+
+Because the drug went directly into the breast duct (not the bloodstream), levels of the drug were 50 times higher in the breast, but 50 times lower in the bloodstream, compared to conventional IV chemotherapy.
+
+The result was far higher effectiveness than conventional chemotherapy with virtually no side effects. When the women had surgery two weeks after the treatment, as scheduled, their tumors were already dead in all the cases. Although additional studies need to be performed and this treatment is not FDA-approved, the results of the study are clear: the treatment worked.
+
+Now imagine extending this type of treatment to women in whom our test has detected hyperplasia or other precancerous changes. I believe that administering the right drugs through a catheter into the breast can effectively eliminate those cellsthus achieving the ultimate goal: preventing breast cancer before it occurs.
+
+Thats why I personally believe that our test, which we call ForeCYTE, should become the standard of careespecially for women with dense breasts. Right now, more than 230,000 women are diagnosed with cancer every year and about 39,000 die. We can do better. We can dramatically reduce those numbers with the right diagnostic tests and treatments.
+
+References
+
+AJR Am J Roentgenol. 2012 Mar;198(3):W292-5. doi: 10.2214/AJR.10.6049. The relationship of mammographic density and age: implications for breast cancer screening. Checka CM, Chun JE, Schnabel FR, Lee J, Toth H. http://www.ncbi.nlm.nih.gov/pubmed/22358028 http://www.areyoudense.org/worxcms_published/stories_page13.shtml http://www.cga.ct.gov/2009/INSdata/Tmy/2009SB-00458-R000203-Nancy%20Cappello-TMY.PDF http://www.cancer.org/cancer/breastcancer/overviewguide/breast-cancer-overview-what-causes Association of abnormal nipple aspirate cytology and mammographic pattern and density. M M Lee, N L Petrakis, M R Wrensch, et al. Cancer Epidemiol Biomarkers Prev 1994;3:33-36. http://www.hopkinsmedicine.org/news/media/releases/through_the_nipple_breast_cancer_therapy_shows_promise_in_early_tests
+
+About Dr Steven Quay
+
+Dr. Steven Quay is founder, chairman, CEO and president of Atossa Genetics, a Seattle-based medical diagnostics company.
+
+Dr. Quay has served as Chief Executive Officer and Chairman of the Board of Directors of Atossa Genetics since the Company was incorporated in April 2009.
+
+Prior to his work at Atossa Genetics, Dr. Quay served as Chairman of the Board, President and Chief Executive Officer of MDRNA, Inc. from August 2000 to May 2008, and as its Chief Scientific Officer until November 30, 2008 (MDRNA, Inc. was formerly known as Nastech Pharmaceutical Company Inc. and is currently known as Marina Biotech, Inc.). From December 2008 to April 2009, Dr. Quay was involved in acquiring the Companys assets and preparing the Companys business plan.
+
+Dr. Quay is certified in Anatomic Pathology with the American Board of Pathology, completed both an internship and residency in anatomic pathology at the Massachusetts General Hospital, a Harvard Medical School teaching hospital, is a former faculty member of the Department of Pathology, Stanford University School of Medicine, and is a named inventor on 14 U.S. and foreign patents covering the MASCT System.
+
+He oversaw the clinical testing and regulatory filing of the MASCT device with the FDA that led to its ultimate marketing clearance. Including the patents for the MASCT System, Dr. Quay has a total of 76 U.S. patents, 98 pending patent applications and is a named inventor on patents covering five pharmaceutical products that have been approved by the FDA.
+
+Dr. Quay received an M.D. in 1977 and a Ph.D. in 1975 from the University of Michigan Medical School. He also received his B.A. degree in biology, chemistry and mathematics from Western Michigan University in 1971.
+
+Dr. Quay is a member of the American Society of Investigative Pathology, the Association of Molecular Pathology, the Society for Laboratory Automation and Screening and the Association of Pathology Informatics.
+
+Disclaimer: This article has not been subjected to peer review and is presented as the personal views of a qualified expert in the subject in accordance with the general terms and condition of use of the news-medical.net website.
+
+Further Reading

@@ -1,0 +1,131 @@
+2014 iPad Comparison Guide
+HEADLINE_ARTICLE
+Gizmag compares the features and specs of the five iPads Apple is offering up for the next year
+
+This is the first year that Apple has given you five iPads to choose from. Granted, three of them are old models (and a fourth is old in spirit), but you might still be facing a tough decision. Join Gizmag, as we break down the features and specs of all the iPads you can buy today.
+
+Before we jump in, these are the five iPads that Apple will be offering up for the next year:
+
+iPad Air 2
+
+iPad Air
+
+iPad mini 3
+
+iPad mini 2
+
+iPad mini
+
+For each category you'll see two rows, ordered exactly as you see above. If you lose track of which is which, just scroll back up here for a refresher.
+
+Release
+
+Though the iPad Air 2 and iPad mini 3 are the 2014 models, only the new iPad Air is a completely new device. The iPad mini 3 is an iPad mini 2 with a Touch ID sensor.
+
+Size
+
+As far as the tablets' faces go, we're only looking at two sizes. This year's batch also marks the phasing out of the old non-Air iPads (the early ones with wide bezels).
+
+The iPad Air 2 is easily the thinnest in this bunch  and one of the thinnest mobile devices we've seen. The new Air measures 19 percent thinner than the already-thin iPad Air 1.
+
+Weight
+
+The iPad minis are lighter than the Airs, but the iPad Air 2 is very light for its size. It tips the scales at 7 percent lighter than last year's iPad Air.
+
+The original iPad mini is dated in other areas, but it's still very light for its size. The two newer iPad minis added some weight to compensate for their more advanced hardware.
+
+Build
+
+Like most other modern Apple devices, these five have aluminum unibody designs.
+
+Colors
+
+The two 2014 models come in gold, in addition to the silver and space gray models that you'll find across the board.
+
+The silver and gold models have white fronts, while space gray has a black front.
+
+Display (size)
+
+An iPad mini screen is 66 percent as big as an iPad Air screen.
+
+Display (resolution)
+
+Four of the five tablets have the same sharp resolution (branded as "Retina Displays"). The iPad minis 2 and 3 have higher pixel densities, but since you'll probably hold smaller tablets closer to your eyes, the perceived sharpness could be roughly the same.
+
+The original iPad mini has a dated 163 pixel per inch (PPI) screen.
+
+Anti-reflective display
+
+The iPad Air 2 has an anti-glare screen, which Apple says can reduce reflections by 56 percent.
+
+Touch ID
+
+Only the two 2014 models have Apple's excellent Touch ID fingerprint sensor onboard.
+
+Touch ID isn't just a dead-simple way to secure your tablet; in iOS 8 you can also use your fingerprint to log into Touch ID-enabled third-party apps. Password managers, like 1Password and LastPass, are an especially great fit.
+
+Pay
+
+You'll need one of the new iPhones (or an upcoming Apple Watch) to use the in-store portion of Apple's new payment service, Apple Pay (branded as Pay). But the iPad Air 2 and iPad mini 3 will let you authorize online purchases in Apple Pay-enabled apps.
+
+Cellular model
+
+All five models are sold in both Wi-Fi only and Wi-Fi with cellular data models.
+
+If you only occasionally use data on the go, though, you might find it easier than ever to go with a Wi-Fi only iPad. With iOS 8's new Instant Hotspot feature, your iPhone's data connection is readily available for your iPad. Just one tap under your iPad's Wi-Fi settings is all it takes to fire it up.
+
+Apple Sim
+
+If you live in the US or UK, Apple snuck a customer-friendly SIM card into the cellular-enabled iPad Air 2 and iPad mini 3. The Apple SIM lets you switch among plans on major cellular providers without needing a new SIM card.
+
+The only caveat is that AT&T is only halfway playing ball in the US. Once you activate an Apple SIM on AT&T, you'll no longer be able to activate it on T-Mobile or Sprint. That isn't to say that the iPad itself is locked though: to return to T-Mobile or Sprint, just pop in a new SIM Card.
+
+Battery
+
+Apple estimates the same 10 hours of web use over Wi-Fi for all five models. We'll have more on battery in the new models once we publish our full iPad Air 2 and iPad mini 3 reviews.
+
+Cameras
+
+The iPad Air 2 is the only one with a more iPhone-like 8 MP rear camera (though, make no mistake, it's still playing catchup to the iPhone).
+
+Slow-motion video
+
+The Air 2 is the first iPad to support iOS' terrific slow-motion video recording.
+
+Panorama photos
+
+We're really splitting hairs now, but if you like to take panorama photos on your tablet, all but the first iPad mini will fit the bill.
+
+Storage
+
+The two 2014 models offer three storage tiers, going all the way up to 128 GB.
+
+RAM
+
+The iPad Air 2 gets a much-needed RAM upgrade, to 2 GB. You might notice the other models more often refreshing browser tabs or apps that were backgrounded.
+
+Chip
+
+Four of the five chips have desktop-like 64-bit architecture. The A7 is fast, but the zippy A8X in the iPad Air 2 is breaking new ground.
+
+Side switch
+
+In the name of thinness, Apple cut the mute/orientation lock switch from the iPad Air 2. On the other models, it sits on the upper left side of the tablet.
+
+Software
+
+All five of the current iPads run iOS 8.1. If you own an iPhone, this update has some nice perks: SMS and call forwarding to your iPad, Handoff (pick up where you left off on another device) and that Instant Hotspot tethering we mentioned.
+
+Starting price
+
+With its razor-thin build, improved display and blazing speed, the iPad Air 2 is clearly the best iPad you can buy. But it's also the most expensive.
+
+The year-old iPad Air is still a terrific tablet, and its US$400 price makes it worth a look. If you can afford that extra $100, though, I think the iPad Air 2 is a fairly significant upgrade.
+
+Is Touch ID worth $100? That's what Apple is offering up with the iPad mini 3. As terrific as Apple's fingerprint sensor is, I'd say most buyers will be better off saving a Benjamin and using a passcode on the otherwise identical iPad mini 2.
+
+For more on this year's crop of iPads, you can check out our full reviews of the iPad Air 2 and iPad mini 3.
+
+Share
+
+Buy this on Amazon

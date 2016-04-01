@@ -1,0 +1,31 @@
+3D Structured Illumination Microscopy Provides New Insights into Cell Nucleus
+HEADLINE_ARTICLE
+Introduction
+
+Structured illumination microscopy (SIM) and saturated structured-illumination microscopy (SSIM) techniques provide excellent alternatives to current microscopy methods. The techniques extend the capabilities of standard confocal and multi-color fluorescence wide-field microscopic systems, providing the level of resolution required for studying fine intracellular structures such as nuclear pore complexes (NPCs).
+
+Nuclear Pore Complexes
+
+NPCs are protein complexes found in the nuclear envelope of cells, where they provide an exchange pathway through the nucleus  cytoplasm boundary for numerous molecules including signal molecules, ribosomes, and RNA. This mechanism ensures a steady flow of the information needed for protein synthesis in the living cell. The use of SIM makes it possible to view the NPC complexes directly. This meant that for the first time, a series of studies on subcellular structures beyond the diffraction limit, could be performed, allowing new routes to be opened up for unraveling aspects of the nucleus superstructure.
+
+New Structured Illumination Microscopy Technique
+
+A team of researchers from the University of California, San Francisco developed an innovative SIM technique that provides sub-diffraction resolution at high speed. The study was conducted by Professor John Sedat, Dr. David Agard, and Assistant Professor Mats Gustafsson. The technique uses diffracted laser light to produce a pattern of numerous interfering illumination beams. This research is based on the fundamental paper of Mats Gustaffson that demonstrates the principle of utilizing Moir interference to deal with Abbe resolution limit. This study ultimately resulted in the development of the SSIM technique, which has proved to be an exceptional experimental tool. Images are captured across various directions of the beams incident on the sample, which is followed by rigorous computational analysis. The final images created have a spatial resolution that is twice as fine as the 200-300 nm resolution achieved with standard fluorescence microscopy.
+
+3D-SIM: Super-Resolution Technique
+
+The study on NPCs in C2C12 cells imaged with a SSMI derivative was published by UCSF researchers. This SSMI derivative is known as 3D structured illumination microscopy or 3D-SIM. Following preliminary tests of the resolution and images obtained with the system, it was obvious that the 3D-SIM technique delivers images that are superior in quality to those delivered by confocal and wide-field systems. Even at a somewhat lower resolution than usually applies to other super-resolution methods on similar samples, the researchers were able to study individual NPCs and measure chromatin inside the nucleus and the lamina from NPCs. The team was also able to detect the presence of membrane invaginations that could previously only be viewed with a transmission electron microscope.
+
+The instrument uses a parallel array of iXon3 897 EMCCD cameras designed by Andor Technology. These detectors provide improved speed and sensitivity over various fluorescent probe wavelengths. This enhanced performance was essential to realizing the implementation of this procedure for the high resolution imaging of highly complex live samples within an appropriate measurement time.
+
+Conclusion
+
+The UCSF researchers have shown that by increasing the resolution two-fold, the 3D-SIM has become the first, super-resolution method that can provide multi-color 3D images of entire cells and their organelles. This microscopic technique provides an excellent alternative to costly and complex instruments that frequently require unique and dedicated fluorescent dyes and complicated optical set-ups.
+
+About Andor
+
+Andor Technology, an Oxford Instruments company, is a global leader in the pioneering and manufacturing of high performance scientific imaging cameras, spectroscopy solutions and microscopy systems for research and OEM markets. Andor has been innovating the photonics industry for over 20 years and continues to set the standard for high performance light measuring solutions, enabling its customers to break new ground by performing light measurements previously considered impossible. Andors digital cameras, are allowing scientists around the world to measure light down to a single photon and capture events occurring within 1 billionth of a second.
+
+Andor now has over 400 staff across 16 offices worldwide, distributing products to over 10,000 customers in 55 countries. Andors products are used in a wide range of applications including medical research to further the understanding of heart disease, cancer and neuronal diseases such as Alzheimers and Parkinsons disease. Andor also has applications for forensic science and astronomy. Through continuous dialogue with customers and strong teamwork, Andor continues to innovate ground-breaking products that improve the world in which we live.
+
+Sponsored Content Policy: News-Medical.net publishes articles and related content that may be derived from sources where we have existing commercial relationships, provided such content adds value to the core editorial ethos of News-Medical.Net which is to educate and inform site visitors interested in medical research, science, medical devices and treatments.

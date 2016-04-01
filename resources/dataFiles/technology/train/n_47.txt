@@ -1,0 +1,145 @@
+2014 Entry-Level to Enthusiast DSLR Comparison Guide
+HEADLINE_ARTICLE
+Gizmag compares the specifications and features of some of the best entry-level to enthusiast DSLRs available in 2014
+
+So you're thinking about getting a new DSLR. Maybe it'll be your first interchangeable lens camera, or you might have been using one for years, but want to scratch the upgrade itch. Either way, we should have you covered with Gizmag's 2014 comparison of the specifications and features of some of the best DSLRs on the market from entry-level to enthusiast models.
+
+In this guide we'll be looking at a range of cameras, some are intended as your first DSLR, while others are designed for demanding experienced photographers who know exactly what they want out of camera. They're not all aimed at the same audience, but instead represent what we've deemed to be some of the best DSLRs available for different levels of user.
+
+To do this we had to limit our selection. For example, we've not included an entry-level Sony camera, and we didn't have space for the very able intermediate-focused EOS 700D. This is not a slight on those cameras, or any others we've omitted, but a sign of how many great DSLRs there are out there at the moment. You may also notice there are no full frame DSLRs included, this is because they'll battle it out in a separate upcoming article.
+
+The cameras we'll be comparing are:
+
+For each category there are three rows of images, in the same order as the list above. So if you lose track of which is which, you can always just zip back here to double check.
+
+Size
+
+The general rule of thumb when it comes to DSLR size, is that the further a camera is up the manufacture's line-up, the bigger it will be. This is because higher-end models tend to be sturdier and include more controls.
+
+This can be seen in the size of the Canon 7D Mark 2 compared with the entry-level models. The exception is that the smallest camera in our line-up is the mid-range and intermediate-focused Pentax K-S1.
+
+Weight
+
+It will come as no surprise that the bigger DSLRs also tend to weigh the most, with the Canon 7D Mark 2 coming in at a mighty 910 g before you've added a lens.
+
+Even the smaller cameras in our line-up, like the Nikon D3300 and Canon Rebel T5 are considerably heavier than many compact and mirrorless cameras.
+
+Build
+
+Looking at the materials used, it's clear that the higher-end models of DSLR are designed to take a lot more abuse with their metal construction and weather sealing.
+
+However, even the smaller entry-level cameras will feel more solid in your hands than most compact cameras, though you won't want to use one in a downpour.
+
+Sensor size
+
+APS-C sensors across the board mean that physical sensor size isn't going to help you pick between these cameras.
+
+Megapixel count
+
+All of these DSLRs come in between 18 and 24.4-megapixels. This means they will all be capable of producing highly detailed images, while not giving you monstrously large computer-crippling files to deal with.
+
+Processor
+
+With each manufacturer using their own image processors, it is hard to compare them across brands. That said, you can identify which cameras use the newer ones in a manufacturers line-up.
+
+For example, the enthusiast-focused Nikon D7100 uses the Expeed 3 image-processing engine, while the entry-level D3300 and intermediate D5300 get the newer Expeed 4.
+
+Lens mount
+
+Again there are no big surprises here, with each of the cameras featuring the lens mount you would expect from its manufacturer. This means if you're already invested in one system, you'll probably be inclined to stick with it rather than having to sell your lenses and buy new ones again.
+
+In addition to the lenses that are currently available for each mount, there are also plenty of older ones which are no longer in production, but which can still do a very good job, often at a fraction of the price. However, you'll want to check which features (such as autofocus and metering) they are compatible with on different cameras.
+
+Kit lens
+
+While higher-end DSLRs typically come body-only, entry-level and intermediate cameras are often available with a kit lens, which can offer great value and gives you something to get shooting with before you decided which lens to buy next.
+
+The majority of the kit lenses offered with these cameras are 18-55-mm (offering a 28-88-mm equivalent) with a F3.6-F5.6 maximum variable aperture. The only exception to this is the D7100 kit lens which stretches longer and covers 18-105-mm, giving it a 28-168-mm equivalent.
+
+Autofocus
+
+All of the DSLRs in our line-up feature phase-detection autofocus, which is one of the things which traditionally makes these cameras faster than mirrorless alternatives.
+
+The higher end models feature more focus points which means you can better autofocus on subjects spread around the frame (without having to focus and recompose) and track moving subjects. While the Sony A77 II has the most focus points with 79, only 15 are the better cross-type. All 65 autofocus points on the Canon 7D M2 are cross type.
+
+The two higher-end Canon models also feature Dual Pixel autofocus which gives them the edge when autofocusing while recording video or shooting stills in live view mode.
+
+Burst rate
+
+Because DSLRs use flapping mirrors when taking photographs (the exception here being the Sony A77 II which is technically a SLT with its Translucent Mirror Technology) entry-level and mid-range ones tend to lag behind mirrorless cameras when it comes to burst speed shooting.
+
+This can be seen in cameras like the Canon Rebel T5 and the lower-end Nikons which can only muster speeds of three and five frames per second.
+
+That said, by the time you reach the likes of the Sony A77 II and the Canon 7D M2 their top speeds should be quick enough to capture all but the fastest moving of subjects.
+
+ISO
+
+ISO performance and the ability to shoot in lower light conditions is an area in which camera manufacturers have made great improvements in in recent years, as these ISO ranges show.
+
+It's worth noting that these figures are the recommended ISO ranges and most of the cameras can shoot beyond this. For example, the Canon 7D M2 can be expanded to ISO 51,200, but going beyond the recommended range is always going to result in more noise and loss of color in images.
+
+Video recording
+
+All of these DSLRs are capable of shooting Full HD 1080p video, though at different frame-rates. However, some users will no doubt be disappointed that 4K does not feature on any of the spec sheets  we'll be surprised if it hasn't made an appearance by this time next year.
+
+Image stabilization
+
+Image stabilization is a great thing to have if you're shooting either at slower shutter speeds or long telephoto focal lengths, where it can be hard to hand-hold a shot without suffering wobble-induced blur.
+
+While most DSLRs rely on lens-based stabilization, our Pentax duo and the Sony feature sensor-shift shake reduction, which means you don't need stabilized lenses.
+
+Viewfinder
+
+The viewfinder on the Sony A77 II stands out here for the reason that it's electronic, rather than the traditional optical type. This is because the camera is technically an SLT that uses Translucent Mirror Technology.
+
+Of the optical viewfinders it's worth noting that not all offer a 100 percent field of view, meaning that when shooting with some, the recorded image will be slightly wider than that seen in the viewfinder.
+
+Monitor
+
+Interestingly it's not the most expensive DSLRs in our selection which have the biggest screens, that honor instead goes to the Nikon D5300, D7100 and Pentax K3.
+
+In terms of screen resolution the cameras are again comparable with the exception of the Canon Rebel T5. While the Nikon D7100 and Sony A77 II have bigger dot counts, this is because they use additional white pixels to achieve brighter screens, rather than having substantially more detailed ones.
+
+The monitors on the Nikon D5300, Canon 70D and Sony A77 II can all be angled to make them easier to use in unusual shooting positions, while the Canon 70D is the only offering here to use a touchscreen.
+
+Flash
+
+As you would expect of a DSLR lineup like this, all of these cameras have built-in flashes and hot-shoes.
+
+File types
+
+It would have been disappointing if these cameras hadn't been able to shoot both JPEG and the more post-processing friendly RAW still files.
+
+Storage media
+
+All of these cameras can use SD/SDHC/SDXC memory cards. However, the Nikon D7100, Pentax K3 and Canon 7D M2 include dual slots so that users can increase storage, instantly backup as they shoot, or record stills to one card and video to another. The Canon feature one SD slot and one CompactFlash. The single card slot on the Sony A77 II can take either SD or Memory Stick cards.
+
+Wireless capabilities
+
+Though only three of these DSLRs  the Nikon D5300, Canon 70D and Sony A77 II  come with Wi-Fi baked-in, most can gain some sort of wireless ability with optional adapters or special SD cards.
+
+This makes it easier to quickly share images, or even remotely control the cameras via a smart device. The Nikon D5300 and Canon 7D M2 also feature built-in GPS for geo-tagging images.
+
+Battery life
+
+The number speak for themselves and all of these cameras should last for a good number of shots on a full battery charge. But it's the Nikon D7100 and Canon 70D that really stand out when it comes to stamina and should be good for around 950 and 920 shots.
+
+Price
+
+As you can see the entry-point for beginners into the DSLR fun is currently around the US$500 mark for a new current generation camera, with the Canon Rebel T5 and Nikon D3300 being the easiest on the wallet. Once you get to enthusiast-focused cameras you're looking more at the $1,000 to $1,800 price bracket.
+
+Entry-level DSLRs tend to come bundled with kit lenses, because if you are buying this level camera the chances are you don't already have an arsenal of glass at your disposal. Mid-range DSLRs can be had either with kit lenses or body-only, and enthusiast models tend to be available body-only, though that's not to say you can't find them bundled with a lens.
+
+Summing up ...
+
+If you're just starting out and looking for your first DSLR, you really can't go wrong with any of the entry-level or intermediate cameras included here. While ones like the Canon Rebel T5 and Nikon D3300 will help you to learn your way around a DSLR a bit easier, offerings like the Nikon D5300 or Pentax K-S1 might give you a little more room to grow as a photographer.
+
+For people looking upgrade from their current entry-level or intermediate DSLR, we'd normally suggest moving up the line-up, rather than opting for a newer camera at the same level. For example, if you already have a Nikon D3200, the D3300 isn't going to be that much of an upgrade, and you might be better off looking at the D5300, or even D7100.
+
+If you're looking at an enthusiast level camera, the chances are you've already invested in a specific DSLR system and will therefore mostly be focusing on models from the same manufacturer, rather than having to replace all of your lenses too. Unless a camera from a rival manufacturer offers something your current brand can't, that is. On that note, while Sony and Canon introduced the A77 II and 7D M2 this year, Nikon fans are still waiting on the elusive D400, with its current APS-C DSLR line-up topping out with the D7100.
+
+There's also the question of whether you should be upgrading your camera anyway. Unless you need a new camera for a specific feature you need or want, have you considered whether new lenses would be a better bet? You might find that investing in glass widens your shooting options more than a new camera body could, and allows you to do more. There's always our lens guide if you're wondering what glass to buy next.
+
+Share
+
+Buy this on Amazon

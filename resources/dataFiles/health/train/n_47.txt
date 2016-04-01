@@ -1,0 +1,53 @@
+Rapid Identification of Single Virus Particles Using Virus Biosensor
+HEADLINE_ARTICLE
+Introduction
+
+The use of biosensors for detecting virus particles has attracted significant interest over recent years. To effectively counteract viral epidemics, outbreaks, or bioterrorism, the presence of any viral particles in contaminated food or water or in a patients sample needs to be detected quickly.
+
+Currently, assays that use polymerase chain reaction (PCR) provide the highest sensitivity for the detection of viral pathogens. PCR multiplies and detects viral RNA and DNA. This technique, however, is associated with certain disadvantages, namely a lack of real-time monitoring and rapid on-site detection, a long processing time, and the need for trained personnel and advanced laboratory apparatus.
+
+Norovirus
+
+A new bioanalytical assay has been developed by a group of researchers led by Fredrik Hk at Chalmers University of Technology, Sweden. The assay detects whole virus particles with single virus sensitivity. Their recent work has focused on the highly infectious human Norovirus (NoV) which causes gastroenteritis. Also commonly referred to as winter vomiting bug, human NoV has been spread worldwide through pandemics and causes more than 200,000 deaths per year, mainly amongst children from developing countries.
+
+For the current study, virus-like particles (VLPs) of the Norovirus II.4 genogroup (Ast/6139/01 strain) were used as models for the pathogen. NoV is a small non-enveloped RNA virus from the Caliciviridae family of viruses and it has a high genetic diversity. It is comprised of an outer icosahedral shell that is mainly assembled from 180 capsid proteins that protect the viral genome. The very stable and highly contagious NoV is spread via the oral-fecal route and the consumption of contaminated water or food often leads to spontaneous outbreaks. Surveillance of the virus is essential because even very low particle numbers, of less than 100, can be enough to cause disease outbreaks, which makes early detection very difficult.
+
+Virus-Like Proteins
+
+In insect cells, self-assembled capsid proteins are recombinantly expressed and can be used to probe the binding behavior of the virus. These VLPs, which are non-infectious, demonstrate binding properties and a morphology that resemble those of the NoVs. They recognize a wide range of cell surface and salivary glycoconjugates with high specificity, including membrane bound histo-blood group active glycosyphingolipids (GSLs). Such VLPs provide excellent models in research focused on the development of novel biosensor principles for detection of the virus.
+
+In this study, the assay is based on a sandwich-type configuration, with the VLPs first being captured onto a non-fouling supported lipid bilayer that contains a NoV specific GSL-ligand. The tightly bound VLPs can then be visualized using individual fluorescently-labeled phospholipid vesicles containing the same NoV-specific ligand, as shown in Figure 1.
+
+Figure 1. Schematic representation of the sandwich assay setup. The particles are captured onto a bilayer containing 10% H type I glycosphingolipid (GSL) recognizing the VLPs with high specificity. The fluorescence signal is generated TIRF illumination of the sensor-bound rhodamine-labeled vesicles containing 5% H type 1GSL.
+
+Taking advantage of the evanescent field produced by TIRF illumination to differentiate surface-bound vesicles from those present in solution, it is possible to record vesicle binding and release events at the sensor interface. Not only does this arrangement enable individual virus particles to be visualized, but information can also be gained on their affinity to a receptor, in this case the GSLs.
+
+TIRF microscopy coupled with an iXon EMCCD camera was used to acquire time-lapse movies made up of 1000 frames at a rate of 5fps. The assay was performed in a 96-well plate and to ensure reproducible statistics, all wells of interest were imaged in 7 different positions. The images were studied using MatLab-based software. A fluorescent vesicle was counted if it was present on a pre-defined number of successive frames and if its intensity exceeded a pre-set threshold. The number of new vesicles was recorded over time to produce association plots, and the vesicles residence time was also determined. The assays detection limit was also measured.
+
+Virus Biosensor
+
+The results obtained from this study demonstrated that the virus biosensor designed by Dr. Hks team for the identification of NoV displayed a good specificity with little non-specific binding, as shown in Figure 2.
+
+Figure 2. A representative microscopy image of surface bound vesicles (left image) on a bilayer incubated with 12.5 pM VLPs and on a negative control (right image) performed in the absence of VLPs.
+
+This technique demonstrates single molecule sensitivity, as individual vesicles can be easily visualized. Localized signals produced by the vesicles can be easily resolved and discriminated from background noise. Although it is possible to suppress the background noise efficiently, the background signal produced by non-specific binding is a major factor that influences limit of detection (LOD).
+
+It is essential to consider the non-fouling nature of the sensing interface which should be vesicle and virus repellent. These conditions are easily fulfilled by the lipid bilayers used in this analysis. The authors also demonstrated how the real-time monitoring of vesicle binding events can be taken advantage of to differentiate between specific and non-specific binding, according to the residence time of the vesicle on the substrate. This further reduces the non-specific background signal.
+
+The researchers have shown how a simple assay setup combined with equilibrium fluctuation analysis and single-molecule sensitivity can be used to identify viral particles with a LOD of approximately 106 particles/ml. This LOD is better than has been reported to date in the context of biosensors for detecting noroviruses. Furthermore, the entire assay can be carried out in under two hours, which represents a major improvement compared to the most sensitive technique currently used for virus detection, which uses PCR.
+
+Andor Solutions
+
+The iXon Ultra 897 camera is ideal for TIRF microscopy. This platform takes the back-illuminated 512 x 512 frame transfer and overclocks readout to 17 MHz. This increases the speed performance to an impressive 56fps, while at the same time maintaining quantitative stability and single photon sensitivity throughout. In this camera model, the status of ultimate sensitivity is also maintained, providing an industry-lowest clock induced charge noise and thermoelectric cooling down to -100C. The iXon Ultra also features direct raw data access and USBconnectivity for on the fly processing. EMCCD and standard CCD readout modes offer increased application flexibility along with a new low and slow noise performance in CCD mode.
+
+Conclusion
+
+This new biosensor allows rapid identification of viral pathogens in a patients sample or in contaminated food and water. This technique makes it possible to view individual vesicles, therefore providing single molecule sensitivity. This is a major improvement over the most sensitive techniques currently available for virus detection.
+
+About Andor
+
+Andor Technology, an Oxford Instruments company, is a global leader in the pioneering and manufacturing of high performance scientific imaging cameras, spectroscopy solutions and microscopy systems for research and OEM markets. Andor has been innovating the photonics industry for over 20 years and continues to set the standard for high performance light measuring solutions, enabling its customers to break new ground by performing light measurements previously considered impossible. Andors digital cameras, are allowing scientists around the world to measure light down to a single photon and capture events occurring within 1 billionth of a second.
+
+Andor now has over 400 staff across 16 offices worldwide, distributing products to over 10,000 customers in 55 countries. Andors products are used in a wide range of applications including medical research to further the understanding of heart disease, cancer and neuronal diseases such as Alzheimers and Parkinsons disease. Andor also has applications for forensic science and astronomy. Through continuous dialogue with customers and strong teamwork, Andor continues to innovate ground-breaking products that improve the world in which we live.
+
+Sponsored Content Policy: News-Medical.net publishes articles and related content that may be derived from sources where we have existing commercial relationships, provided such content adds value to the core editorial ethos of News-Medical.Net which is to educate and inform site visitors interested in medical research, science, medical devices and treatments.

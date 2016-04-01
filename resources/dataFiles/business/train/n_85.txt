@@ -1,0 +1,41 @@
+Companies Sharing Hacking Data Get Legal Shield in U.S. Bill
+HEADLINE_ARTICLE
+Companies that share information on hacking threats with each other and U.S. law enforcement would be shielded from lawsuits under a House bill passed Wednesday over the objections of privacy advocates.
+
+The U.S. Chamber of Commerce, American Bankers Association and other industry groups sought legal protections that would encourage information sharing to help prevent increasingly damaging cyber-attacks. A coalition of civil liberties groups said the bill wont protect consumers and would create a new government surveillance program.
+
+The Senate is considering its own version of the legislation, which might be voted on next week. The Senate and House would then have to negotiate a final deal before any bill goes to President Barack Obama to sign.
+
+The increasing pace and scope of cyber-attacks cannot be ignored, said Representative Devin Nunes, a California Republican and chairman of the House intelligence committee, which wrote the bill. This bill will strengthen our digital defenses so that American consumers and businesses will not be put at the mercy of malevolent cyberthieves.
+
+The House also approved an amendment so the legislation would expire in seven years.
+
+Republicans plan to combine the bill with another cybersecurity measure, H.R. 1731, thats expected to be passed on Thursday.
+
+The White House on Tuesday said it supported both House bills but would seek to make further changes to them, including adding more privacy controls and limiting liability protections for companies.
+
+While there is broad agreement that companies should get legal protections for sharing data about online threats, efforts to pass legislation have stalled or failed in Congress during the past four years partly because of concern about privacy and government spying. The House passed a bill last session but the Senate failed to act.
+
+Obama, company executives and cybersecurity researchers have seized on recent high-profile hacking attacks to bolster their case for legislation. Anthem Inc. disclosed in February an assault that exposed personal data on about 80 million customers, and Sony Pictures Entertainment was the victim last year of an attack that crippled thousands of computers.
+
+The bill that passed Wednesday would require companies to take reasonable efforts to remove names, e-mail addresses and other personal information from data that is shared in order to receive legal protections.
+
+The White House, however, said the liability protections are too sweeping.
+
+The breadth of the liability protections could provide immunity to entities that are grossly negligent or even reckless, according to a statement of administration policy. Appropriate liability protections should incentivize good cybersecurity practices and should not grant immunity to a private company for failing to act on information it receives about the security of its networks.
+
+Companies have resisted providing data to the government about hacking attacks out of concern they could be sued if they accidentally included private information about their customers. Theyre also concerned that they may violate antitrust laws if they share information with competitors.
+
+Companies would only be given legal protections for sharing with the government through a civilian agency, not military, in order to address some privacy concerns. The White House, however, wants the Homeland Security Department to be the primary civilian agency to receive data from companies.
+
+Companies would also be permitted to take defensive actions to protect their networks under the bill passed Wednesday. The White House said the bills authorization to operate defensive measures is not adequately tailored.
+
+Privacy groups argue the bill also is flawed because it would allow the government to broadly share data it receives from companies with the National Security Agency and law enforcement agencies.
+
+A letter sent to lawmakers on Monday by 36 privacy organizations and 19 security researchers, including the ACLU, said there is potential for government overreach given revelations about surveillance programs by former government contractor Edward Snowden.
+
+Law enforcement would be allowed to use cyberthreat indicators to investigate crimes and activities that have nothing to do with cybersecurity, such as robbery, arson, carjacking, or any threat of serious bodily injury or death, regardless of whether the harm is imminent, according to the letter.
+
+In contrast, a coalition of 39 industry trade groups representing almost every sector of the U.S. economy sent a letter to lawmakers on Tuesday supporting both House bills.
+
+Our organizations believe that Congress needs to send a bill to the president that gives businesses legal certainty that they have safe harbor against frivolous lawsuits when voluntarily sharing and receiving threat indicators and defensive measures in real time and taking actions to mitigate cyber-attacks, states the letter, which was signed by the U.S. Chamber, American Petroleum Institute and the Telecommunications Industry Association.

@@ -1,0 +1,35 @@
+Optimizing Live Cell Imaging with FRET Microscopy Technique
+HEADLINE_ARTICLE
+Introduction
+
+Frster resonance energy transfer (FRET) is a popular microscopy technique that is used to determine the proximity of two fluorophores. Resonance energy transfer only takes place across very short distances, usually within 10 nm. The technique involves excited state energy being directly transferred to an acceptor fluorophore from the donor fluorophore, providing an alternative to fluorescence emissive decay from the donor.
+
+Resonance Energy Transfer
+
+When the energy is transferred, the acceptor molecule adopts an excited state and from this, it decays emissively, always at a longer wavelength when compared to the acceptor emission. Therefore, through exciting the donor and then monitoring the relative donor and acceptor emissions, either together or sequentially, it is possible to determine when FRET has taken place and at what level of efficiency.
+
+Given that the fluorophores can be used to label biomolecules and that the distance condition for FRET is of the order of the diameter of most biomolecules, FRET is widely used to establish when and where two or more biomolecules interact within their physiological environment. As energy transfer takes place over 1 to 10 nm distances, a FRET signal that corresponds to a specific location in a microscope image offers further distance accuracy, thereby surpassing the optical resolution of the light microscope.
+
+FRET Efficiency
+
+In addition to spatial proximity, to ensure that efficient FRET occurs, the FRET dye pair should demonstrate considerable overlap of the donors excitation spectrum with the absorption spectrum of the acceptor. However, herein lies one of the experimental paradoxes of FRET. The FRET pair has spectral profiles that cannot be so separated that we have overlap, but people want to avoid cross-talk between the two imaging channels.
+
+Ideally, the donor emission filter set should not collect any light from the acceptor, but only from the donor and vice versa. In reality, this can be achieved to some degree by using short bandpass filters that only collect light from the longer wavelength side of the acceptor emission and the shorter wavelength side of the donor emission. However, this can somewhat restrict the photon flux from both the acceptor and the donor during a regular exposure, particularly when we consider that these measurements are best carried out under conditions of reduced excitation power so that bleaching rates are not accelerated. Figure 1 shows the absorption and emission spectral profiles of the CFP-YFP FRET pair.
+
+Figure 1. Absorption and emission spectral profiles of the CFP-YFP FRET pair.
+
+The EMCCD cameras developed by Andor Technology provide a reliable tool for FRET imaging, whether used as an EMCCD + iQ imaging software solution or as a main component in Andors Revolution confocal live cell imaging system. EMCCD provides high resolution, high signal-to-noise determination of FRET interactions throughout the volume or area of the cell imaged, as well as helping to counter the photon throughput sacrifice involved when narrow-band filters are used.
+
+When this is combined with suitable filter sets, high integrity of FRET data can be realized. Given that EMCCDs are capable of overcoming the noise floor detection limit at all readout speeds, it is possible to track molecular interactions with excellent precision. In addition, photo-bleach effects are minimized by reducing the excitation power, therefore making it possible to monitor molecular interactions for significantly longer periods of time.
+
+Conclusion
+
+The nature of molecular interactions in living cells is a key topic of interest across many areas of biological research. However, studies are often hindered by limited resolution of the instruments used for this analysis. FRET measurements can be used for determining the distances between biomolecules labeled with appropriate donor and acceptor fluorophores when they are within 10 nm of each other.
+
+About Andor
+
+Andor Technology, an Oxford Instruments company, is a global leader in the pioneering and manufacturing of high performance scientific imaging cameras, spectroscopy solutions and microscopy systems for research and OEM markets. Andor has been innovating the photonics industry for over 20 years and continues to set the standard for high performance light measuring solutions, enabling its customers to break new ground by performing light measurements previously considered impossible. Andors digital cameras, are allowing scientists around the world to measure light down to a single photon and capture events occurring within 1 billionth of a second.
+
+Andor now has over 400 staff across 16 offices worldwide, distributing products to over 10,000 customers in 55 countries. Andors products are used in a wide range of applications including medical research to further the understanding of heart disease, cancer and neuronal diseases such as Alzheimers and Parkinsons disease. Andor also has applications for forensic science and astronomy. Through continuous dialogue with customers and strong teamwork, Andor continues to innovate ground-breaking products that improve the world in which we live.
+
+Sponsored Content Policy: News-Medical.net publishes articles and related content that may be derived from sources where we have existing commercial relationships, provided such content adds value to the core editorial ethos of News-Medical.Net which is to educate and inform site visitors interested in medical research, science, medical devices and treatments.

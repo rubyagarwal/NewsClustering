@@ -1,0 +1,25 @@
+The real danger of AI isn't killer robots, but that one might steal your job
+HEADLINE_ARTICLE
+Posted by Neil Bennett
+
+Here in San Jose, there has been much discussion on the latest approaches to artificial intelligence. Elon Musk, founder of cutting-edge electric car maker Tesla, attempted to walk back his widely reported comments that AI was the "biggest existential threat" to the human race - while Andrew Ng from Baidu (the 'Chinese Google') proposed that the biggest threat from AI was to jobs and the economy.
+
+Both were keynote speakers at Nvidia's GPU Technology Conference, where there has been a focus on deep learning - where neural networks loosely based on the human brain learn to do specific things by themselves. This approach is used to create computer systems that can drive autonomous cars or recognise things in photos so image-based searches aren't reliant on image metadata. Systems like these are apparently best developed on graphics chips rather than computer chips, hence Nvidia's interest.
+
+Asked by Nvidia CEO Jen-Hsun Hsang if he still believed that AI was more dangerous than nuclear weapons, Musk says that this was just a remote possibility in the far future. The kind of AI that firms like Tesla are developing to create cars that can drive themselves is so limited that the distance between that it's hard to see how you'd get from that to sentient Terminator robots (top) and Skynet.
+
+According to Musk, we're still a long way from a truly autonomous car and the first forms of automated driving will come in baby steps, as AI-enhanced forms of cruise control and parking assistance.
+
+This didn't stop Musk throwing out another of his infamous provocative comments, saying that when truly autonomous cars arrive, governments could ban people from driving themselves.
+
+"Its too dangerous," he said. "You cant have a person driving a two-ton death machine."
+
+The robots are coming
+
+A more realistic danger, according to the chief scientist at Baidu Research, the California-based R&D arm of the Chinese search engine. Andrew Ng has a long history in artificial intelligence, founding the Google Brain project in 2011 and he's also a professor at Stanford University - so his predictions are likely to be more grounded than Musk's.
+
+Ng describes talk of killer robots as an "unnecessary distraction", saying instead that "the challenge to labour by artificial intelligence is a real issue we should discuss."
+
+By this, he's referring to the idea that artificial intelligence could have a similar impact on service jobs that robots and similar machinery had on manufacturing jobs and digital service design had on retail jobs. From taxi drivers to call centre staff, autonomous driving and complex speech recognition could replace real people with large-scale computer systems.
+
+As with robots replacing workers on car production lines or online banking leading to a lot fewer counter staff in banks, I'm not sure unions or government can prevent or even delay this progress - but Ng's right that it's something we need to be aware of and make accomodations for in society. Especially if these AI's learn to write journalism.

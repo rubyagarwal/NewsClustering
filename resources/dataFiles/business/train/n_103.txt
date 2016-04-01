@@ -1,0 +1,53 @@
+Silicon Valley Help Sought as Pentagon Fights Cyber-Attacks
+HEADLINE_ARTICLE
+The Defense Department is seeking a new collaboration with Silicon Valley to gain access to the latest technology and talent as the U.S. seeks to prevent catastrophic cyber-attacks.
+
+Defense Secretary Ashton Carter made his pitch for cooperation on Thursday, in the first official visit in 20 years by a Pentagon chief to the Northern California region that spawned much of the worlds advanced technology. The effort comes amid warnings by defense officials that the U.S. military is losing its technological edge over potential rivals, including China.
+
+Carter, a trained physicist, may have the intellectual candlepower to meet Silicon Valleys leaders on equal footing. But his call for closer ties is likely to meet resistance from high-tech executives still fuming over government spying disclosed by former National Security Agency contractor Edward Snowden.
+
+Silicon Valley still thinks it can be Switzerland in any cyberwar, said Stewart Baker, former assistant secretary of homeland security in President George W. Bushs administration. Thats an illusion, but hes going to have trouble getting folks to enthusiastically partner with DoD.
+
+Denise Zheng, a former government cybersecurity specialist and now a senior fellow at the Center for Strategic and International Studies in Washington, said Silicon Valley is home to the loudest dissenting voices on what our intelligence and national security agencies are doing.
+
+Carters cooperation plea came in a speech at Stanford University, beginning a two-day visit that will also include stops at the headquarters of Facebook Inc. and venture capital firm Andreessen Horowitz.
+
+The defense secretary plans to establish a full-time office in Silicon Valley, staffed with personnel who will scout emerging technologies that the military could use. The Pentagon also plans to set up its own branch of the U.S. Digital Service, which overhauled the flawed healthcare.gov website last year.
+
+His initiative reflects a turnaround for a government institution that once served as a principal incubator of breakthrough technologies, including a forerunner of the Internet.
+
+Today, innovations in microelectronics, global positioning systems and software applications are more likely to emerge from a West Coast office park than from a government lab.
+
+Thats why the Pentagon must shift from its traditional role of technology exporter to becoming a technology importer, said a department official who briefed reporters on condition of anonymity in advance of Carters presentation.
+
+Obama administration officials have increasingly been sounding the alarm about the risk of cyber-assaults on government and commercial networks.
+
+In the prepared text for his Stanford speech, Carter disclosed that Russian hackers intruded into one of the Pentagons unclassified computer networks. The penetration was detected and a crack team of incident responders began hunting the Russians within 24 hours, Carter said.
+
+The Russians had entered the Defense Department network through an old vulnerability in one of our legacy networks that hadnt been patched, he added.
+
+Pentagon cybersecurity personnel evicted the Russian hackers in a way that minimized their chances of returning, Carter said, calling the episode an example of the departments ability to protect itself.
+
+John Brennan, the director of the Central Intelligence Agency, last month called cyberthreats an urgent national security priority and announced formation of a new digital innovation unit.
+
+Pentagon officials said their new strategy grew in part from concern over increasingly severe and sophisticated cyber-attacks. Carter said in his prepared remarks that the approach includes providing offensive cyber options that, if directed by the president, can augment our other defense systems.
+
+Since the departments previous strategy was released in 2011, institutions from Sony Pictures Entertainment to the White House have been victimized.
+
+Hackers, including from more than 100 foreign intelligence agencies, probe Pentagon computer networks millions of times each day, Eric Rosenbach, Carters top adviser on cybersecurity, told the Senate Armed Services Committee this month.
+
+These cyberthreats continue to increase and evolve, posing greater risks to the networks and systems of the Department of Defense our national critical infrastructure and U.S. companies and interests, Rosenbach said.
+
+Baker, now an attorney with Steptoe & Johnson LLP, said efforts to deter attacks are insufficient.
+
+Ive yet to see indications that DoD is writing a cyberstrategy to win, he said. Instead, were talking about deterring them, which weve been remarkably ineffective at.
+
+The Pentagon also has struggled to retain cybersecurity specialists in an era when the private sector can offer even relatively junior personnel big paychecks.
+
+The military will have a hard time capitalizing on commercial breakthroughs with a procurement cycle designed to buy aircraft in the World War II era, said Fred Kagan, a defense specialist at the American Enterprise Institute in Washington.
+
+At Facebook in Menlo Park on Thursday, Carter was to meet with Sheryl Sandberg, the companys chief operating officer who served as chief of staff to Treasury Secretary Lawrence Summers in the Clinton administration.
+
+On Friday, he will hold a roundtable with participants including Ben Horowitz, a co-founder of Andreessen Horowitz on Sand Hill Road alongside the Stanford campus. The company holds stakes in businesses specializing in data management virtualization, robotics, drones and big data.
+
+Since taking office in January, Carter has made cybersecurity policy a priority. His first public event with troops took place March 13 at the U.S. Cyber Command at Ford Meade, Maryland.

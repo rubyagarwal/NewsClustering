@@ -1,0 +1,25 @@
+'Lovelace And Babbage' Is A Thrilling Adventure
+HEADLINE_ARTICLE
+'Lovelace And Babbage' Is A Thrilling Adventure
+
+Can you say "Yowza!" when discussing Victorian England? Let's hope so, because Sydney Padua's new book is definitely "Yowza!" material. Considering that its subject is math  math and the history of the computer  it may deserve a "Yowza!" and a half. By spotlighting two controversial, charismatic people who laid the earliest foundations for the computer revolution, The Thrilling Adventures of Lovelace and Babbage transforms punch cards and little brass cogs into the stuff of legend.
+
+Padua's an enthusiastic advocate for all things computational, but the reverse was true back in 2009, when she drew her first Lovelace and Babbage cartoon. "My relationship with computers could be described as a grudging truce with sporadic outbreaks of open hostilities," she writes. Then she began reading her protagonists' papers and learned how intriguing a couple of Victorian mathematicians could be. Charles Babbage's autobiography revealed someone larger than life  a "blend of Mr. Pickwick, Mr. Toad, Don Quixote and Leonardo da Vinci." The letters of Augusta Ada King, Countess of Lovelace (widely known these days as Ada Lovelace) were even better. Padua wanted "alternately to shake her, hug her, and throw her a parade."
+
+Those urges are familiar to Lovelace fans. Unlike Babbage, whose design for an "Analytical Engine" quite clearly presaged modern computers (though he was himself inspired by the Jacquard loom), Lovelace is more of a, well, cipher. She seems to have conceived of several basic programming concepts; there's even a computer language, created in the 1970s, named Ada. But as she's become more widely recognized, even lionized, some scholars have dismissed her. Padua wittily summarizes the debate that surrounds her with a riff on Alice in Wonderland. (Babbage was acquainted with Charles Dodgson, aka Lewis Carroll.)
+
+"Both the claims of Lovelace as an ignorant fraud and Lovelace the supergenius eclipsing Babbage are ... hyperbolic," Padua writes. "You might say that one side makes her grow smaller and one side makes her grow bigger."
+
+Ultimately Lovelace's reputation rests with Babbage. The two were friends, and Padua gleefully points out that Babbage referred to the countess as "my dearest and much admired Interpretess" and "the Enchantress of Number."
+
+That's all Padua needs to create an alternate "Pocket Universe" (yet another concept Babbage speculated about) in which Babbage and Lovelace together use the Analytical Engine to engineer various exploits. Padua's Lovelace is wide-eyed, spindly limbed and smokes a pipe. Babbage, in real life a self-aggrandizing monopolizer of dinner conversations, here is a jolly goofball. The two stroll through the Engine's stacks of gears in matching jumpsuits.
+
+The function of those gears is explained in a footnote, of which the book has many. It also has many endnotes  which themselves annotate footnotes  two appendices, and an epilogue. You'd think this would make for a dull brick of a book, or at the very least a highly skimmable one, but these aren't your typical footnotes. They contain rage ("You're the most annoying person in the world and no one could work with you in a million years"), poetry, marriage, knights of the realm, the definition of "micromort" ("a measure of risk of death"), opium, marijuana, the Communist Manifesto, George Boole, the fourth dimension and betting on the ponies. Yowza!
+
+In fact, the notes tend to crowd out what's happening in the comic itself. Padua's exaggerated, loopy drawing style feels like a product of this constant pressure. Babbage and Lovelace gasp and glower and grin; their hair ruffles in the Engine's steam. Even so, when you get down to it, a calculating machine offers limited opportunities for spectacle. Padua even has a literal "economic model," which resembles a locomotive, break free and go galumphing across the countryside. None of it is really enough to offset the power of those notes.
+
+And that's a nifty little coincidence, because footnotes were what made Lovelace's name. The one paper she published was actually a set of notes appended to another scholar's work on Babbage's Engine. In this form, Lovelace speculated about concepts that would become central to computing. She even sketched out the first complete computer program.
+
+The footnotes in this volume would do Lovelace proud. It's almost as if Padua is out to reclaim this undervalued arena as a site for rambunctious creativity. Is she doing so consciously, in a kind of Lovelacian undergame? Maybe that's a far-fetched conclusion  but it's fun to speculate about.
+
+Etelka Lehoczky has written about books for The New York Times, The Los Angeles Times and Salon.com. She tweets at @EtelkaL.

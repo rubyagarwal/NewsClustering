@@ -1,0 +1,11 @@
+New data supports use DAAs in patients with HCV recurrence following liver transplantation
+HEADLINE_ARTICLE
+New data presented today at The International Liver Congress 2015, supports the use of sofosbuvir (SOF)- and daclatasvir (DCV)-based regimens in patients with recurrence of the hepatitis C virus (HCV) following liver transplantation (LT). The results are based on data from patients with HCV being treated with second-generation DAAs in the large French prospective ANRS CO23 CUPILT study. Among them, 296 patients were treated with a combination of SOF+DCV, with or without ribavirin.
+
+SOF- and DCV-based regimens offered high rates of sustained virologic response (SVR) coupled with good tolerance. The presented results focus on 130 patients who achieved SVR12; end of treatment therapy and SVR12 rates are 98% and 96%, respectively.
+
+"The use of interferon-free regimens using DAAs has dramatically improved the management of liver transplant patients infected with HCV. The outstanding efficacy and safety results that sofosbuvir- and daclatasvir-based regimens demonstrated in patients with recurrent hepatitis C are impressive and will help us identify optimal treatment strategies using these new therapies," said Audrey Coilly, MD, Paul Brousse Hospital, Villejuif.
+
+"HCV recurrence is one of the main complications following liver transplantation and can seriously affect patient survival. So it is very encouraging to see such positive results from this study. We hope it will mean more successful future transplants for people with chronic HCV infection," said Professor Tom Hemming Karlsen, Scientific Committee Member, European Association for the Study of the Liver.
+
+Serious adverse events were experience by 23% of patients, mainly haematological events in patients treated with ribavirin. Interestingly, attention should be paid to renal function, as a significant decrease has been observed during therapy. Although no drug-drug interaction has been remarked, changes in dosage of immunosuppressive drugs in more than 50% of patients still require close monitoring.

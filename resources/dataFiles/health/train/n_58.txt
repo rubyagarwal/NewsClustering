@@ -1,0 +1,19 @@
+potential cause and corrective treatment are identified
+HEADLINE_ARTICLE
+By Kate Bass BSc
+
+A paper published yesterday in Science Translational Medicine reports that the root cause of asthma has been found and a potential treatment to reverse all symptoms has been proposed.
+
+Image courtesy of Shutterstock.com
+
+Asthma is constriction of the airways that allow air to enter and leave the lungs and affects 300 million people worldwide. Symptoms, which include wheezing, shortness of breath, and tightness in the chest, are often triggered by exercise, infections, house dust mites, animal fur, pollen and pollutants, and make it difficult for sufferers to breathe. Many treatments to prevent and relieve symptoms are available, but around one-in-twelve patients respond poorly to current treatments.
+
+It is known that asthma symptoms arise as a result of airway narrowing, airway twitchiness and inflammation but the underlying cause had never been identified...until now.
+
+The research team studied mouse models of asthma and human airway tissue from asthmatic and non-asthmatic people and found that asthma symptoms are associated with activation of the calcium-sensing receptor (CaSR). This triggers a chain of reactions that results in contraction of airway smooth muscle (ASM). It was also found that people with asthma expressed more CaSR than people who do not suffer from asthma.
+
+The principal investigator, Professor Daniela Riccardi from Cardiff University commented Our findings are incredibly exciting. For the first time we have found a link between airways inflammation, which can be caused by environmental triggers - such as allergens, cigarette smoke and car fumes  and airways twitchiness in allergic asthma. Our paper shows how these triggers release chemicals that activate CaSR in airway tissue and drive asthma symptoms like airway twitchiness, inflammation, and narrowing. Using calcilytics, nebulized directly into the lungs, we show that it is possible to deactivate CaSR and prevent all of these symptoms".
+
+Drugs that block the CaSR already exist calcilytics. They were developed as a potential treatment for osteoporosis but were found to have limited efficacy in this indication. The latest research showed that treatment with a calcilytic prevented the excessive activity of CaSR in airway tissue affected by asthma, opening up the exciting potential of a treatment that may stop asthma from happening in the first place. Since calcilytic agents have already been shown to be safe for use in humans, it may be only a few years before they are available for the treatment of asthma if these findings are reproduced in clinical trials.
+
+Dr Samantha Walker, Director of Research and Policy at Asthma UK, who helped fund the research, said: This hugely exciting discovery enables us, for the first time, to tackle the underlying causes of asthma symptoms. Five per cent of people with asthma dont respond to current treatments so research breakthroughs could be life changing for hundreds of thousands of people.

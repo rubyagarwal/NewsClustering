@@ -1,0 +1,157 @@
+2014 Tablet Comparison Guide
+HEADLINE_ARTICLE
+Shopping for a new tablet this holiday season? Or maybe you're looking for the best tablet to give to a loved one? You've come to the right place: Gizmag's 2014 Tablet Comparison Guide.
+
+Walk into an electronics store, and you'll likely be overwhelmed with the number of tablets sitting in front of you. How do you choose? Well, we started by narrowing that pool down to nine:
+
+Samsung Galaxy Tab S 10.5
+
+Apple iPad Air 2
+
+Apple iPad Air
+
+Google/HTC Nexus 9
+
+Amazon Kindle Fire HDX 8.9
+
+Samsung Galaxy Tab S 8.4
+
+Apple iPad mini 3
+
+Apple iPad mini 2
+
+Amazon Fire HD 6
+
+We see each of these as either one of the best tablets or one of the best tablet values. You'll also notice that we left out transforming 2-in-1s, like the Microsoft Surface and Lenovo Yoga. We'll tackle those in a separate guide.
+
+For each category you'll see three rows, with the devices ordered exactly as they are above.
+
+Size
+
+We have a wide variety of sizes here, ranging from the large Galaxy Tab S 10.5 to the tiny Fire HD 6 (which isn't much bigger than some phablets). And of course the balance of screen size to overall size is one of the biggest things to consider when shopping for a new tablet.
+
+In the world of tablets, 2014 has been the year of thin. Apple and Samsung each made tablets that measure 6.6 mm (0.26-in) or thinner.
+
+Weight
+
+Most of these devices are very light for their respective sizes. Samsung's tablets, the iPad Air 2 and the Kindle Fire HDX 8.9 are the best in this respect.
+
+A year or two ago, the Nexus 9 would have been considered light, but it feels a little hefty next to Samsung's and Apple's featherweights.
+
+Build
+
+The four iPads have Apple's familiar unibody aluminum builds. The other five tablets have plastic bodies.
+
+Colors
+
+All but the Kindle Fire HDX 8.9 are sold in more than one color. The Fire HD 6 takes the prize for the most options, with five.
+
+Display (size)
+
+Those percentages tell you how much each area each screen has, relative to the largest in the group. As you can see, the Fire HD 6's screen is only one third the size of the Tab S 10.5's screen.
+
+Screen edge gripping
+
+This is an often-overlooked feature, but one that can dictate how you hold the tablet. Apple's iPads let you grip the side of the tablet  with your finger resting partly on the edge of the screen  without its registering as a touch. You can swipe and tap with your other hand without any worries.
+
+And of course the iPads still let you tap and swipe targets on the edge of the screen when you aren't gripping it. It's a smart little detail that responds exactly the way you want it to.
+
+If you use a tablet that has narrow side bezels  but doesn't have this edge touch rejection  then you'll have to either hold the tablet differently or deal with accidental touches. The Nexus 9 and Galaxy Tab S 8.4 Both fall into that category.
+
+Display (resolution)
+
+Most of these tablets have very sharp screens  with the Galaxy Tab S 8.4 taking the prize for highest pixel density.
+
+Remember that we usually hold larger tablets farther from our eyes, so they can get away with lower pixel densities than smaller tablets can. That also casts a light on just how mid-ranged the tiny Fire HD 6's screen is.
+
+Display (type)
+
+Samsung's tablets are the lone holdouts from having IPS displays. Their AMOLED screens have deep blacks, unusually rich colors and high contrast.
+
+With the iPad Air 2, Apple eliminated an air gap in the display assembly. What this means for you is that content looks like it's almost directly on top of the glass. Colors really pop, with terrific contrast.
+
+Anti-glare display
+
+The iPad Air 2 also has an anti-reflective coating that can reduce glare by 56 percent. I've tested it, and it is much more usable in bright sunlight than other mobile devices.
+
+Fingerprint sensor
+
+Apple's 2014 iPads join the Galaxy Tab S in having fingerprint sensors. Though Samsung's is a nice bonus, Apple's Touch ID is easier to use: it's touch-based vs. the swipe-based sensors on the Galaxy Tabs.
+
+iOS 8 also has a growing list of third-party apps that are compatible with Touch ID (1Password, Dropbox and Evernote, for example). The Galaxy Tab's sensor plays nicely with PayPal and a few other apps, but its list is smaller.
+
+Cellular option
+
+The Fire HD 6 is the only tablet in this bunch that you can't buy in a Wi-Fi + cellular model. All of them are also, of course, sold in cheaper Wi-Fi only versions.
+
+Storage
+
+Each tablet lets you choose from at least two internal storage options.
+
+MicroSD
+
+The Galaxy Tabs also let you augment their internal storage by popping in a microSD card.
+
+Split-screen multitasking
+
+Samsung's tablets let you run two apps side-by-side. It doesn't work with every app, but it's a nice perk for a select group of apps.
+
+Tap-on display
+
+The Nexus 9 has a feature first seen from LG: when the screen is off, you can double-tap it to turn it on.
+
+Infrared
+
+If you want to use your tablet as a remote control for your TV and cable box, the Galaxy Tabs' IR blasters let you do just that.
+
+On-device customer service
+
+The Kindle Fire HDX 8.9 has one of the most immediate forms of customer service you'll see. Hit the Mayday button (which lives in the notification shade) and, within a few seconds, an Amazon rep will pop up in a video box on your screen. The rep can only hear you, but can draw on your screen to help fix your problem.
+
+Processor
+
+The Nexus 9 joins the iPads in having a 64-bit processor. In most of these tablets, performance is going to be way past the point of concern, though the iPad Air 2 and Nexus 9 should have the most raw power. The Fire HD 6 is going to be the least impressive.
+
+RAM
+
+Three of the four iPads have a mere 1 GB of RAM. When multitasking, you might find browser tabs and backgrounded apps needing to reload more often than you'd like (this isn't an issue, though, on the iPad Air 2).
+
+Google apps
+
+This is a big strike against Amazon's Fire tablets. They run a forked version of Android, which uses Google's OS as the core software, but doesn't license the use of apps like Google search, Gmail, Google Maps and Hangouts. There are ways to sideload these apps, but for many shoppers it will be more trouble than it's worth.
+
+Software
+
+We're looking at iOS 8 on the iPads, stock Android Lollipop on the Nexus 9 and Android 4.4 KitKat with Samsung's TouchWiz UI on the Galaxy Tabs.
+
+Amazon's "Fire OS" is largely a virtual shopping mall for Amazon content and services. If you're wondering why Amazon's tablets are priced so aggressively, this is your answer.
+
+Though the gap isn't as wide as it used to be, Apple's App Store still has the best selection of tablet apps. You still bump into Android apps that run as stretched-out phone apps: functional, but not very pretty.
+
+Release
+
+Though they launched in late 2013, we included the iPad Air 1 and iPad mini 2, as they're sticking around for another year at discounted prices.
+
+Starting price
+
+The Fire HD 6 fell behind in every other category, but now you see why we included it. It's the rare US$100 tablet that doesn't handle like something you scraped off your shoe.
+
+Otherwise everything starts in the $300-500 range.
+
+If you ask me, the iPad Air 2 is the best tablet you can buy. Its remarkably thin (and metallic) build, Touch ID sensor and leading app library put it in a league of its own. If you can afford its $500 starting price, and aren't attached to any of the other platforms, you won't likely be disappointed.
+
+But one size doesn't fit all, and all of these devices are worth a look. If you like stock Android, the Nexus 9 combines the latest version with a Goldilocks size that hits a sweet spot between screen size and portability.
+
+Amazon's Kindle Fires always give you great hardware for your buck  as long as you don't mind the shopping mall software. Also remember that these prices include lock screen ads; you'll need to fork over an extra $15 if you don't want those.
+
+Though the iPad mini 3 asks you to pay $100 for Touch ID alone (it's the only upgrade from the last model), the iPad mini 2 and iPad Air 1 are great buys at $300 or $400, respectively.
+
+... and we can't forget Samsung's excellent pair of Galaxy Tabs. Though I wouldn't put their software on par with the iPads', they more than hold their own in other areas  especially with their feathery builds.
+
+For more on this group of tablets, you can hit up our individual reviews:
+
+If you're looking for a smaller screen, then you can check out the latest version of our Smartphone Comparison Guide.
+
+Share
+
+Buy this on Amazon

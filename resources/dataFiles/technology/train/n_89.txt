@@ -1,0 +1,47 @@
+Arkham Knight PC system requirements detailed  Eurogamer.net
+HEADLINE_ARTICLE
+Rocksteady has detailed its PC system requirements for upcoming trilogy-finisher Batman: Arkham Knight.
+
+Those looking to hit the game's recommended settings benchmark will need at least 55GB of free hard drive space, along with 8GB of RAM and 3GB of graphics memory.
+
+The list below, courtesy of Nvidia, also details the minimum and ultra settings for the game.
+
+Batman: Arkham Knight is set to finally land on PC, PlayStation 4 and Xbox One on 23rd June and is set to be Rocksteady's final visit to the Batman franchise for the time being.
+
+Minimum System Requirements
+
+OS: Win 7 SP1, Win 8.1 (64-bit Operating System Required)
+
+Processor: Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz
+
+Memory: 6 GB RAM
+
+Graphics Card: NVIDIA GeForce GTX 660
+
+Graphics Memory: 2 GB
+
+DirectX: 11
+
+Network: Broadband Internet Connection Required
+
+Hard Drive Space: 45 GB
+
+Recommended System Requirements
+
+OS: Win 7 SP1, Win 8.1 (64-bit Operating System Required)
+
+Processor: Intel Core i7-3770, 3.4 GHz | AMD FX-8350, 4.0 GHz
+
+Memory: 8 GB RAM
+
+Graphics Card: NVIDIA GeForce GTX 760
+
+Graphics Memory: 3 GB
+
+DirectX: 11
+
+Network: Broadband Internet Connection Required
+
+Hard Drive Space: 55 GB
+
+Ultra System Requirements

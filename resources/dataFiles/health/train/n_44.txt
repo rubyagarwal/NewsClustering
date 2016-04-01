@@ -1,0 +1,5 @@
+wLS LED Light Source for Fluorescence Imaging
+HEADLINE_ARTICLE
+The wLS broad-band LED illumination unit is designed to provide a long-life alternative to traditional Mercury and Mercury Metal Halide fluorescence excitation sources. The broadband excitation covers common fluorophores, ranging from DAPI to Cy5, allowing existing filter cubes and protocols to remain in place. Unlike other broad-band LED solutions, the wLS provides rapid control over individual excitation LED wavebands (Ultraviolet, Blue and Green/Yellow/Red). This enables the use of multiband pass filters instead of individual filters, followed by slow mechanical filter changes during multi-label imaging.
+
+Features:

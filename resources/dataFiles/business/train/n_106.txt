@@ -1,0 +1,55 @@
+Most Big Firms Have Had Some Hacking: Business of Law
+HEADLINE_ARTICLE
+(Bloomberg) -- Data breaches dont just affect retailers and banks. Most big law firms have been hacked, too.
+
+While cybercrime has plagued U.S.-based law firms quietly for close to a decade, the frequency of attempts and attacks has been increasing substantially. Numbers arent available, since unlike hacking at financial institutions law firms have no legal obligations to disclose cybercrimes to the public.
+
+But experts say that these crimes have increased, particularly at firms whose practices involve government contracts or mergers and acquisitions, especially when non-U.S. companies or countries are involved.
+
+Law firms are very attractive targets. They have information from clients on deal negotiations which adversaries have a keen interest in, according to Harvey Rishikof, co-chair of the American Bar Associations Cybersecurity Legal Task Force. Theyre a treasure trove that is extremely attractive to criminals, foreign governments, adversaries and intelligence entities.
+
+While Cisco Systems Inc. ranks law firms as the seventh most-vulnerable industry to malware encounters in its 2015 Annual Security Report, other statistics are more striking.
+
+At least 80 percent of the biggest 100 law firms have had some sort of breach, Peter Tyrrell, the chief operating officer of Digital Guardian, a data security software company, said in a telephone interview.
+
+Stewart Baker, a partner at Steptoe & Johnson LLP, said the number may be even higher. In an interview Tuesday he recounted what an agent from the Federal Bureau of Investigation told him: Virtually all of the biggest firms have faced some sort of data breach.
+
+According to Richard Bejtlich, the chief security strategist of data-security company FireEye Inc., law firms susceptibility grew as hackers became more adept. The biggest increase, he said in an interview last week, comes from hackers hired by foreign nations, especially China.
+
+If youre doing business in China or representing clients in China, you will get hacked, he said. And theyre not just stealing intellectual property for reproduction. Theyre interested in mergers and acquisitions as well. Its the way they conduct due diligence.
+
+After all, Bejtlich said, what better way to negotiate than to have access to redlined documents from the other side?
+
+Five members of the Peoples Liberation Army of China were indicted in May on charges that they had hacked into computers at six companies, including Alcoa, U.S. Steel and Westinghouse, to get at confidential information.
+
+No law firms were listed as victims of those attacks, although the indictment alluded to the interception of privileged attorney-client communications. However, Wiley Rein LLP, which represented SolarWorld, one of the companies named as a target, was itself hacked around the time SolarWorlds computers were compromised, Bloombergs Michael Riley and Dune Lawrence reported in 2012. Firm spokeswoman Patricia OConnell declined Tuesday to comment on the breach.
+
+Some firms havent had their systems breached. Emily Yinger, the managing partner of the Washington-area offices of Hogan Lovells LLP, said her firm has been spared, although she noted that we constantly intercept attacks.
+
+The problems stem from the hapless lawyer who clicks on a fake e-mail purporting to be from the U.S. Postal Service to much more intricate, pervasive breaches.
+
+Baker, for example, said he personally faced one a few years ago when a hacker impersonated him, setting up a Yahoo account under his name and e-mailing lawyers at Steptoe with a link to a report that was similar to documents he had sent. But his firm was lucky -- only one person clicked and the link didnt take, he said.
+
+Firms typically are loathe to disclose breaches. Leo Taddeo, the special agent in charge of the Cyber and Special Operations Division for the FBIs New York office, said in a telephone interview Wednesday that he hasnt heard of any law firms affected. Either the firms have perfect security, have been hacked and dont know, or theyve been hacked and dont tell.
+
+FBI agents have spoken to some senior partners about cybersecurity risks, but, he said, its been a one-way street with information. Weve not gotten the two-way interaction that we are looking for.
+
+And theres a reason why the FBI wants more communication. Because of its continual investigation of cybercrime, the FBI has developed technical expertise as well as knowledge of who the hackers are and how they infiltrate. Taddeo stressed that, as a result, the FBI can both help law firms take precautions and aid them if there is a breach.
+
+And, to allay any privacy concerns a firm might have, Taddeo said, the FBI knows how to keep things confidential.
+
+Ropes & Gray LLP advised Bain Capital in its deal to buy Blue Coat Systems Inc., a provider of Internet security software, for $2.4 billion from private-equity firm Thoma Bravo, which relied on Wilson Sonsini Goodrich & Rosati PC.
+
+Bain is paying all cash, according to a statement Tuesday from Sunnyvale, California-based Blue Coat. The company expects the transaction to be completed in the first half of 2015.
+
+The Wilson Sonsini team advising Blue Coat includes mergers and acquisitions partners Martin Korman and Todd Cleary, along with partners Ivan Humphreys, tax; Suzanne Bell, IP-technology transactions; Scott McCall, employee benefits and compensation; Andrew Hirsch, corporate finance; Paul Jin, antitrust/regulatory; and James McCann, real estate/environmental.
+
+From Ropes & Gray are partners William Shields, private equity; Byung Choi, finance; Eric Elfman, tax; and Harry Rubin, intellectual property transactions.
+
+Gibson, Dunn & Crutcher LLP is representing Pinnacle Entertainment in the unsolicited proposal from Gaming & Leisure Properties Inc. to acquire Pinnacles real estate assets. Wachtell, Lipton, Rosen & Katz is advising Gaming & Leisure.
+
+The Wachtell team is led by corporate partners Daniel Neff and Gregory Ostling, and also includes partners Ilene Knable Gotts, antitrust, and Joshua M. Holmes, tax.
+
+To contact the reporter on this story: Ellen Rosen in New York at erosen14@bloomberg.net
+
+To contact the editors responsible for this story: Michael Hytha at mhytha@bloomberg.net David Glovin

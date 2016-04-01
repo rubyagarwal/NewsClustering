@@ -1,0 +1,89 @@
+New hope for adults with amblyopia (lazy eye)
+HEADLINE_ARTICLE
+By Professor Robert Hess
+
+Amblyopia is a visual developmental disorder in which the vision through one eye fails to develop properly in early childhood. The deficit is not in the eye itself but in the visual areas of the brain.
+
+The disruption to early visual development can be due to a misaligned eye or an eye out of focus. Later, when the alignment is corrected by surgery or the focus corrected with lenses, the visual loss remains.
+
+The treatment for the last 200 hundred years has involved patching of the fellow sighted eye, under the rationale of forcing the lazy eye to work.
+
+Not too long ago, the patching was all day, but more recently, it has been restricted to 3-6 hrs a day.
+
+In the majority of cases this does produce visual improvements, though there is a great deal of variability.
+
+The cost in terms of inconvenience and psychological stress for the patient, usually a child at school age, is tremendous and the compliance is often low.
+
+The end result after 6 months to 2 years of patching is certainly improved function in the majority of cases, but once the patch is removed the two eyes often dont work together as they should, 3D vision is often not obtained and the fellow eye suppresses the amblyopic eye, which eventually leads to some reduction in acuity.
+
+More significantly there is only a limited time-window in which the patching therapy works, kids are only patched up to the age of 12 years. There is no treatment offered to adults with amblyopia.
+
+The current treatment approach is based on the assumption that amblyopia is the primary problem and the loss of binocular function is the secondary consequence.
+
+The fact that reducing amblyopia with patching does not automatically lead to improved use of the two eyes together makes one question its validity.
+
+There is reason to suspect the logic needs to be reversed, namely that the primary problem is that the two eyes, because of either an eye misalignment or an eye out of focus, stop working together with the secondary consequence being amblyopia. The link between disrupted binocular vision and amblyopia is suppression.
+
+All amblyopes have some degree of suppression where the fellow sighted eye inhibits the functioning of the misaligned or out of focus eye to avoid the confusion resulting from a double or blurred image.
+
+It seems perfectly feasible that over time this constant suppression leads to a more permanent loss of vision or amblyopia.
+
+Recently we have developed tools for measuring suppression and shown that there is a direct relationship between suppression and amblyopia, consistent with the idea that the primary problem is the loss of binocular function with the secondary consequence the development of amblyopia.
+
+This new way of thinking about the genesis of amblyopia leads one up a different treatment path, one that tackles the loss of binocular function as a first step with the expectation that the function through the amblyopic eye will improve as a consequence of the reduced suppression from the fellow eye.
+
+With this new way of thinking about amblyopia in mind we developed a method of measuring the degree of suppression and arranging viewing conditions using dichoptic presentation (different images to each eye) where the suppression would be minimal.
+
+Under these rather artificial (compared with natural viewing) viewing conditions we found that the two eyes were able to combine information normally. In other words, it was just the suppression that rendered that was a structurally intact binocular visual system into a functionally monocular one in amblyopic observers.
+
+Furthermore, the more time the eyes worked together combining information (for the first time), the stronger their binocular capacity became and over time, the viewing conditions could be slowly moved in the direction of more normal viewing where both eyes sees the same images.
+
+We (with my colleagues Drs Mansouri and Thompson) found that the binocular training only had to be done for 1 -2 hours a day for 4-6 weeks, after which the two eyes could work together under natural viewing conditions.
+
+Once this was achieved we also showed that there were improvements in 3D vision, with some patients experiencing this for the first time.
+
+The acuity of the amblyopic eye also improved as a result of eliminating the suppression from the fellow sighted eye. Even more remarkable all these results were obtained in adults, some of whom were middle aged, for whom there is no current treatment.
+
+All of the above work was done in the laboratory using space consuming computer equipment. We then teamed up with our colleagues at McGill in Electrical Engineering (Drs Cooperstock, Long and Blum) and, using the same principle, converted it to a video game on an ipod. This introduced the first bit of fun into a treatment that has been anything but fun for the last 200years.
+
+Tetris was used and it could only be played successfully if the amblyope truly combined the information from the two eyes because the information seen by each eye was different and both bits of information were used to play the game successfully.
+
+We initially adjusted the dichoptic images for each patient to ensure that their suppression was minimal. As they successfully played the game, the viewing conditions were automatically adjusted in the direction towards normal viewing.
+
+Depending on the patient and the degree of suppression, normal binocular function under normal everyday viewing conditions could be obtained within 4-6 weeks after 1 hrs of daily play.
+
+The improvements in 3D vision and monocular acuity of the amblyopic eye were comparable to what we had found previously in the laboratory.
+
+Initially we ran an in-office treatment study where we could ensure exact compliance and more recently we have run a take-home study and assessed compliance from the log files of the video game stored on the ipod. The compliance was excellent and the visual improvement comparable to our previous studies.
+
+Very recently, we (Drs Li, Thompson, Chan, Yu and Hess) we assessed the current patching treatment with our dichoptic treatment. Amblyopic patients were divided into two comparable groups matched for the degree of amblyopia.
+
+One group played tetris while being patched for 1 hrs a day for 2 weeks, the other group played tetris dichoptically (as described above) for 1 hrs a day for 2 weeks.
+
+We measured 3D vision, degree of suppression and monocular vision. On all three measures, the dichoptic treatment was far superior to that of the monocular patching.
+
+Furthermore, when the monocular patching group were crossed over to the dichoptic treatment, they too achieved comparable gains in each of these visual measures to that of the original dichoptic group, suggesting that the dichoptic approach, based on treating the binocular deficit, improves the function of the amblyopic eye more than the current patching approach.
+
+Additionally, it does so with the extra benefit of having two eyes that work together that in turn ensures that any gains achieved in the function of the amblyopic eye will be maintained and not regress.
+
+All of the above work was supported by a grant from the Canadian Institutes of Health (#53346) to RFH.
+
+About Professor Robert Hess
+
+Professor Robert F. Hess is the Director of Research at the Department of Ophthalmology, McGill University, Canada, and founding Director of the McGill Vision Research Unit.
+
+He is also an associate faculty member of McGills Departments of Psychology, and Neurology and Neurosurgery.
+
+Prior to setting up the Unit in 1990, he was a Wellcome Senior Lecturer at the University of Cambridges Department of Physiology in the U.K. from 1982 to 1990, and a Meres Senior Fellow for Medical Research at St. Johns College, Cambridge, from 1977 to 1982.
+
+Among Hess accolades are his winning of the Eldridge-Green Medal from the U.K.s Royal College of Surgeons for his research in ophthalmology, and his invited deliveries of the prestigious Champness Lecture to the Worshipful Company of Spectacle Makers, the Clair Bobier Lecture in Vision at the University of Waterloo, Canada, and the Centenary Vision Lecture at Aston.
+
+Aston also awarded Hess a DSc in 1998 in recognition of his outstanding contributions to vision science. He has published more than 320 peer-reviewed papers.
+
+His broad research interests in normal visual processing include spatial, temporal, stereo, and motion processing, and he utilizes various techniques such as psychophysics, computational modeling, single-cell neurophysiology, evoked potentials, functional magnetic resonance imaging, transcranial magnetic stimulation, effective connectivity analysis and voxel-based morphometry.
+
+Hess interests in clinical vision, centre on amblyopia, but he has expertise in the general area of low vision as well as normal visual function.
+
+He has served on the editorial boards of renowned vision science journals, and was the founder and editor-in-chief of Clinical Vision Sciences in the 1990s.
+
+Disclaimer: This article has not been subjected to peer review and is presented as the personal views of a qualified expert in the subject in accordance with the general terms and condition of use of the news-medical.net website.

@@ -1,0 +1,13 @@
+Tesla Hacked on Twitter, Media-Relations E-Mail Accounts
+HEADLINE_ARTICLE
+Tesla Motors Inc.s Twitter feed and its media-relations e-mail account were hacked Saturday, with the electric-car maker led by billionaire Elon Musk becoming the latest victim of online vandals.
+
+The hacker or hackers who compromised Teslas Twitter feed were able to post messages to the Palo Alto, California-based companys more than 564,000 followers, and one of the attackers responded to an e-mail message to Teslas press contact, indicating that account was compromised, too.
+
+Its not been hacked sir, the person wrote from a Gmail account, identifying him or herself as a tesla press representative using a name thats been linked to earlier attacks on other companies.
+
+The fraudulent posts were removed from the Twitter account within an hour.
+
+Attacks on companies Twitter accounts have become commonplace. They often occur when people managing the account fail to turn on so-called two-factor authentication, which involves entering a code sent via text message to the owners phone, in addition to a password. The attackers are often mischief-makers who tweet out their own Twitter handles or identifying information on rivals.
+
+Tesla spokeswoman Khobi Brooklyn didnt immediately return a call to her mobile phone.

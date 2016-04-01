@@ -1,0 +1,55 @@
+Formation of Macrophage-Derived Foam Cells
+HEADLINE_ARTICLE
+Introduction
+
+THP-1 is a monocytic cell line that is typically obtained from patients suffering from monocytic leukemia. It has been used across a wide range of fields such as genomics, toxicology, immunology, and also in atherosclerosis and cardiovascular studies. Many research papers have been published on the regulation of different genes before and after the conversion of THP-1 monocytes into macrophage type cells in the presence of phorbol myristate acetate1-5. The THP-1 cell line is particularly useful in the formation of macrophage derived foam cells.
+
+Conversion of THP-1 monocytes into macrophages by phorbol ester promotes the expression of scavenger receptors, which take up modified lipoproteins such as OxLDL (J65261, BT-910X and J65591, BT-910) and AcLDL (J65029, BT-906). For many researchers, this continuous cell line provides a more convenient model to study, compared with having to routinely isolate primary human monocytes that are isolated on a regular basis. This cell line can be easily obtained from the American Type Culture Collection (ATCC).
+
+Growth of THP-1 Monocyte Cells
+
+First, cells obtained from the ATCC (TIB 202) are allowed to grow in suspension in T-75 or T-25 tissue culture flasks in Hepes-buffered RPMI 1640 that is supplemented with 50 M 2-mercaptoethanol, 50 g/ml Garamycin; and 10% fetal bovine serum. Mercaptoethanol is used to inhibit the cross-linking of Fc receptors by antibody in the serum. However, THP-1 monocytes have been successfully grown and used in experiments that do not use 2-mercaptoethanol.
+
+Next, the cells are separated by lightly tapping the flask, which re-suspends the cells. A portion is transferred by pipette to new flasks containing a fresh medium. Before transferring the cells to new flasks, the cells can be lightly spun at 1500 rpm for a period of 10 minutes at 4C temperature in a 15 ml TC tube and suspended in fresh media, if required. These cells grow quickly and splits of 1/20 to 1/40 can be utilized in cases where the cells are not immediately required for experiments. Care must be taken to ensure that the cells do not overgrow and that the medium does not become too acidic, as this will quickly lead to a significant loss of cell viability.
+
+Conversion of THP-1 Cells to Macrophages
+
+For changing THP-1 cell line into macrophage type cells, molecular biology grade phorbol 12-myristate 13-acetate can be obtained from Sigma (P1585). The stock solutions are made in tissue culture grade dimethyl sulfoxide (DMSO, Sigma D2650) and frozen in small aliquots and stored at -20 to -70C. Stock solutions of 50 to 100 g/ml are diluted in the ratio of 1:10 in fresh DMSO before using at a final concentration of 25 to 50 g/ml of tissue culture medium. The final concentration of DMSO in the tissue culture medium is kept to a maximum of 0.1%.
+
+Next, THP-1 monocytes are collected from flasks, rotated and suspended in a fresh medium to a density of 1 x 106 cells/ml and then plated into the relevant vessels. It is possible to use 8 well slide chambers, 6 well tissue culture plates comprising a sterile cover slip in every well, or 35 mm tissue culture dishes comprising a 22 x 22 mm sterile cover slip. About 600,000 cells are plated in each well.
+
+In order to achieve maximal conversion of the THP-1 cells into THP-1 macrophages, freshly diluted phorbol ester is added to 25 to 50 ng/ml in growth media and the cells incubated for a period of 48 to 72 hours. During this transition stage, the beginning of which may be observed within just a few hours following the addition of phorbol ester, the cells become adherent and adopt the flattened appearance that resembles human monocyte derived macrophages.
+
+Formation of Foam Cells
+
+In order to form the foam cells, an initial dose titration should be performed to ascertain the optimal dose of modified LDL needed to create foam cells under the specific growth conditions and tissue culture medium being used in a particular laboratory. The converted THP-1 macrophages should be subjected to modified LDLs in 1 to 2 ml of the RPMI-1640 culture growth medium with10% FCS for periods of 8, 24, and 48 hours. Researchers differ in their opinion over whether the cells should be exposed to PMA during exposure to modified lipoproteins. This is because the conversion of THP-1 cells to THP-1 macrophages is basically a one way process.
+
+To that end, Via et al investigated the level of scavenger receptor activity in PMA converted THP-1 macrophages, both with and without sustained exposure to PMA during the uptake of Ac-LDL. The researchers observed that when PMA was absent, there was only a 36% reduction in scavenger receptor activity over time.
+
+Lipoprotein should be added to the plated macrophages at concentrations of 50 g/ml 100 g/ml and 150 g/ml. In cases where OxLDL (J65261, BT-910X or J65591, BT-910) is being used in the experiments, a parallel experiment should be carried out using Ac-LDL (J65029, BT-906) at 50 g/ml, 100 g/ml, and 150 g/ml to provide a positive control for the formation of foam cells. Given that the response to Ox-LDL can differ significantly between different cell types and the extent of LDL oxidation, a positive control of Ac-LDL will establish whether the macrophages are able to form foam cells. While performing all the experiments, a parallel set of wells and cover slips incubated with LDL (J65039, BT-903) 50, 100 and 150 g/ml should be used as a negative control for the formation of foam cells.
+
+Given that the presence of LDL receptors does not affect the uptake of Ox-LDL or Ac-LDL, experiments can be carried out in growth medium that contains 10% fetal bovine serum. In cases where a serum-free medium is used to aid the assay of compounds produced by cells in response to the uptake of modified LDL, researches will need to carefully track the health of the cells. This is because high levels of OxLDL over long periods of time can be harmful to cells owing to the presence of various lipid/protein aldehydes and oxysterols. Cells are often more affected by those compounds when they are in a serum free medium.
+
+It should also be noted that differing levels of LDL oxidation can create biological effects, independently of foam cell formation. In cases where the formation of foam cells is not the experimental endpoint, the use of LDLs with varying levels of oxidation, such as J64223, BT-910L; J65591, BT-910; and J65261, BT-910X is recommended as a starting point.
+
+Oil Red O Staining
+
+In order to observe lipid droplets, a solution of 0.4% Oil Red O in 100% isopropanol is diluted to 60% isopropanol using distilled water. Next, this solution is filtered to eliminate any particulates. Following incubation with modified LDL, cells on cover slips or in wells are cleaned twice using phosphate buffered saline pH 7.4 and fixed with 3% paraformaldehyde or formaldehyde in PBS for 5 minutes, at room temperature. The cells are then washed once with PBS and covered temporarily with the Oil Red O/60% isopropanol. Distilled water is used to quickly wash the cultures twice in order to remove surplus Oil Red O. The cells can also be counterstained using hematoxylin and washed with distilled water, if required. This counterstaining and rinsing may be advisable when cells are going to be visualized using normal light microscopy rather than phase contrast microscopy.
+
+Tweezers are used to pick up the cover slips, which are then dipped into distilled water and any surplus water is removed using the edge of a Kim Wipe. Then, the cover slips are placed cell side down on a drop of mounting medium (10% PBS and 90% glycerol) on a glass microscope slide for observation. If required, the edges of the cover slip can be closed with bee's wax or melted paraffin wax.
+
+Conclusion
+
+The formation of macrophage-derived foam cells is carried out across many different fields such as genomics, immunology, and toxicology. In gene regulation studies, THP-1 macrophages provide an easy and convenient model when compared with having to isolate primary human monocytes on a routine basis. Moreover, the cell line is easily available to researchers who want to use it in their experiments.
+
+References
+
+Itabe H. and Takano T. Oxidized low density lipoprotein; the occurrence and metabolism in circulation and foam cells. J Atheroscer Thromb (2000) 7(3) 123-131. Li AC and Glass CK. The macrophage foam cell as a target for therapeutic intervention. Nat. Med (2002) 8(11): 1235-1242. van Berkel TJ, Out R, Hoeksta M, Kuiper J, Biessen E., and van Eck M. Scavenger receptors: friend or foe in atherosclerosis. Current Opin Lipidol (2005) 16:525-535. Greaves, DR and Gordon S. The macrophage scavenger receptor at 30 years of age: current knowledge and future challenges. J. lipid Res (2009) 50 Suppl: S282-286. Webb NR and More KJ. Macrophage-derived foam cells in atherosclerosis: lessons from murine models and implications for therapy. Curr Drug Target (2007) 8(12) 1249-1263. More KJ and Freeman MW. Scavenger receptors in atherosclerosis; beyond lipid uptake. Arterioscler Thromb Vasc Biol (2006) 26(8): 1702-1711. McLaren JE, Michael DR, Ashlin TG, and Ramji DP. Cytokines, macrophage lipid metabolism and foam cells: implications for cardiovascular disease therapy. Prog Lipid Res (2011) 50(4): 331-347.
+
+About Alfa Aesar
+
+Part of the Johnson Matthey group of companies, Alfa Aesar is a leading manufacturer and supplier of research chemicals, metals and materials in a wide span of applications. For more than 50 years, scientists have relied on Alfa Aesar to supply high purity raw materials for a variety of research and development applications. Today we offer over 46,000 products in stock, in sizes from gram-scale catalog items to semi-bulk and bulk production quantities. With custom manufacturing capabilities to supply many more specialized items, we are a one-stop source for research chemicals, metals and materials.
+
+Our product line consists of a comprehensive range of inorganic, organic and organometallic compounds; pure metals and elements; precious metal compounds and catalysts; biochemicals; fuel cell products; nanomaterials; rare earths; analytical products; and select laboratory equipment. Backed by the global manufacturing network of Johnson Matthey and other key partnerships, we offer customers the highest quality and purity in fine chemical products. We are accustomed to supplying R&D laboratories in the pharmaceutical industry and the electronics industry, as well as academic institutions and many others.
+
+Sponsored Content Policy: News-Medical.net publishes articles and related content that may be derived from sources where we have existing commercial relationships, provided such content adds value to the core editorial ethos of News-Medical.Net which is to educate and inform site visitors interested in medical research, science, medical devices and treatments.

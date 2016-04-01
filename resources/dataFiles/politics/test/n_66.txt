@@ -1,0 +1,7 @@
+<politics>##White House Email System Was Compromised by Russians
+HEADLINE_ARTICLE
+Michael S. Schmidt and David E. Sanger, reporting for the NYT:
+
+Some of President Obamas email correspondence was swept up by Russian hackers last year in a breach of the White Houses unclassified computer system that was far more intrusive and worrisome than has been publicly acknowledged, according to senior American officials briefed on the investigation.
+
+The hackers, who also got deeply into the State Departments unclassified system, do not appear to have penetrated closely guarded servers that control the message traffic from Mr. Obamas BlackBerry, which he or an aide carries constantly.
